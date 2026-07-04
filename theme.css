@@ -1,0 +1,137 @@
+/* ==========================================================================
+   μLearn brand theme for the contributions leaderboard.
+
+   This file is appended AFTER the engine's globals.css as override-only CSS.
+   Do NOT @import tailwindcss or redefine @theme inline here — only override
+   CSS variables (and small class tweaks). Any variable left unset keeps the
+   engine default.
+
+   Palette mirrors the μLearn dashboard: a neutral primary (black / near-white)
+   with purple (#8f44ed) + blue (#2e85fe) as brand accents. Purple is routed
+   into the leaderboard-only surfaces (contribution heatmap, badges) so the
+   site reads as μLearn without going monochrome.
+   ========================================================================== */
+
+:root {
+  --radius: 0.625rem;
+
+  --background: #fefefe;
+  --foreground: oklch(0.145 0 0);
+  --card: #fefefe;
+  --card-foreground: oklch(0.145 0 0);
+  --popover: #fefefe;
+  --popover-foreground: oklch(0.145 0 0);
+
+  --primary: #000000;
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: #f1f5f9;
+  --secondary-foreground: oklch(0.205 0 0);
+
+  --muted: #f1f5f9;
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: #f1f5f9;
+  --accent-foreground: oklch(0.205 0 0);
+
+  --destructive: #f44336;
+  --border: #e2e8f0;
+  --input: #e2e8f0;
+  --ring: #0961f5; /* μLearn focus blue */
+
+  /* Brand chart palette (purple, blue, teal, amber, pink) */
+  --chart-1: #8f44ed;
+  --chart-2: #2e85fe;
+  --chart-3: #14b8a6;
+  --chart-4: #f59e0b;
+  --chart-5: #ec4899;
+
+  /* Semantic */
+  --success: #4caf50;
+  --success-foreground: oklch(0.985 0 0);
+
+  /* Badges — μLearn purple (medals stay conventional gold/silver/bronze) */
+  --badge-accent: #8f44ed;
+  --badge-accent-foreground: #ffffff;
+
+  /* Contribution heatmap — purple ramp instead of the default green */
+  --activity-graph-0: oklch(0.95 0.01 300);
+  --activity-graph-1: oklch(0.86 0.07 300);
+  --activity-graph-2: oklch(0.74 0.13 300);
+  --activity-graph-3: oklch(0.63 0.19 300);
+  --activity-graph-4: oklch(0.55 0.22 300);
+
+  /* Sidebar follows the same surfaces */
+  --sidebar: #fefefe;
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: #000000;
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: #f1f5f9;
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: #e2e8f0;
+  --sidebar-ring: #0961f5;
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.185 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.185 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+
+  --primary: #fefefe;
+  --primary-foreground: oklch(0.145 0 0);
+  --secondary: oklch(0.23 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+
+  --muted: oklch(0.23 0 0);
+  --muted-foreground: oklch(0.72 0 0);
+  --accent: oklch(0.23 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+
+  --destructive: #f44336;
+  --border: oklch(0.26 0 0);
+  --input: oklch(0.23 0 0);
+  --ring: #0961f5;
+
+  /* Brand chart palette — dark tints */
+  --chart-1: #a78bfa;
+  --chart-2: #60a5fa;
+  --chart-3: #2dd4bf;
+  --chart-4: #fbbf24;
+  --chart-5: #f472b6;
+
+  --success: #4caf50;
+  --success-foreground: oklch(0.985 0 0);
+
+  --badge-accent: #a78bfa;
+  --badge-accent-foreground: oklch(0.145 0 0);
+
+  --activity-graph-0: oklch(0.22 0 0);
+  --activity-graph-1: oklch(0.40 0.11 300);
+  --activity-graph-2: oklch(0.50 0.16 300);
+  --activity-graph-3: oklch(0.62 0.20 300);
+  --activity-graph-4: oklch(0.74 0.19 300);
+
+  --sidebar: oklch(0.145 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: #fefefe;
+  --sidebar-primary-foreground: oklch(0.145 0 0);
+  --sidebar-accent: oklch(0.23 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(0.26 0 0);
+  --sidebar-ring: #0961f5;
+}
+
+/* Per-role badge colors (keys match config.yaml → leaderboard.roles) */
+[data-contributor-role="core"] {
+  background-color: #8f44ed;
+  color: #ffffff;
+}
+[data-contributor-role="alumni"] {
+  background-color: #2e85fe;
+  color: #ffffff;
+}
+[data-contributor-role="contributor"] {
+  background-color: color-mix(in srgb, #8f44ed 14%, var(--background));
+  color: #8f44ed;
+}

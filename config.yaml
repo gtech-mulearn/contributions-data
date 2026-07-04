@@ -1,0 +1,71 @@
+org:
+  name: μLearn
+  description: A community-driven peer-learning ecosystem. Tracking open-source contributions across the μLearn GitHub organization.
+  url: https://mulearn.org
+  logo_url: https://avatars.githubusercontent.com/u/98015594?v=4 # gtech-mulearn org avatar; swap to /assets/logo.svg when ready
+  start_date: "2021-01-01" # affects the first-run backfill window
+  socials:
+    github: https://github.com/gtech-mulearn
+    linkedin: https://www.linkedin.com/company/mulearn
+    youtube: https://www.youtube.com/@mulearn
+
+meta:
+  title: μLearn Contributors
+  description: Open-source contributions across the μLearn GitHub organization.
+  image_url: https://avatars.githubusercontent.com/u/98015594?v=4 # org avatar; swap to /assets/og-image.png (1200×630) when ready
+  site_url: https://contributions.mulearn.org
+  favicon_url: https://avatars.githubusercontent.com/u/98015594?v=4 # org avatar; swap to /assets/favicon.ico when ready
+
+leaderboard:
+  data_source: https://github.com/gtech-mulearn/contributions-data
+  data_branch: main
+  data_update_frequency: 0 */6 * * *
+
+  # Branding lives here in the data repo — no app fork.
+  theme: https://raw.githubusercontent.com/gtech-mulearn/contributions-data/main/theme.css
+
+  # The SQLite DB is served from R2 (see workflows) to stay under Pages' 25 MiB/file limit.
+  data_explorer:
+    source: ${{ env.LEADERBOARD_DATA_DB_URL }}
+
+  leaderboard:
+    all_contributors:
+      activity_definitions:
+        - pr_opened
+        - pr_merged
+        - pr_reviewed
+        - issue_opened
+
+  roles:
+    core:
+      name: Core Team
+      description: Maintainers stewarding μLearn's open-source projects.
+    contributor:
+      name: Contributor
+      description: Community members contributing code, docs, and design.
+    alumni:
+      name: Alumni
+      description: Past contributors whose work still shapes μLearn.
+    bot:
+      name: Bot
+      description: Automated accounts.
+      hidden: true
+
+  top_contributors:
+    - pr_merged
+    - pr_opened
+    - issue_opened
+
+  social_profiles:
+    github: { icon: github }
+    linkedin: { icon: linkedin }
+
+  plugins:
+    github:
+      name: muLearn GitHub
+      source: https://cdn.jsdelivr.net/gh/gtech-mulearn/mulearn-github-plugin@v0.1.0/dist/index.js
+      config:
+        githubOrg: gtech-mulearn
+        githubAppId: ${{ env.GH_APP_ID }}
+        githubPrivateKey: ${{ env.GH_APP_PRIVATE_KEY }}
+        # backfillSince: "2021-01-01T00:00:00Z"   # optional: cap the first-run backfill

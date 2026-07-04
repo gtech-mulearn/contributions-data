@@ -1,0 +1,57 @@
+name: Build & Deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+env:
+  # Keep in sync with scrape.yml. Bump deliberately after testing.
+  LEADERBOARD_REF: e3f046cfaf6926808a6da5307564b9c6c71ebce6
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+        with:
+          path: data
+
+      - name: Checkout leaderboard engine (upstream, pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: ohcnetwork/leaderboard
+          ref: ${{ env.LEADERBOARD_REF }}
+          path: app
+          fetch-depth: 1
+
+      - uses: pnpm/action-setup@v4
+        with: { version: 10 }
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: pnpm
+          cache-dependency-path: app/pnpm-lock.yaml
+
+      - name: Build site
+        working-directory: app
+        env:
+          LEADERBOARD_DATA_DIR: ${{ github.workspace }}/data
+          LEADERBOARD_DATA_DB_URL: ${{ vars.LEADERBOARD_DATA_DB_URL }}
+        run: |
+          pnpm install --frozen-lockfile
+          pnpm build:packages
+          pnpm data:import
+          pnpm build:web
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy app/apps/leaderboard-web/out --project-name=${{ vars.CLOUDFLARE_PAGES_PROJECT_NAME }}

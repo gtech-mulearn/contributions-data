@@ -1,0 +1,8 @@
+# Generated at build/scrape time — the DB lives in Cloudflare R2, not git.
+.leaderboard.db
+*.db-journal
+
+# Misc
+*.log
+node_modules/
+.DS_Store

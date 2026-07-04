@@ -1,0 +1,88 @@
+name: Scrape contributions
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
+env:
+  # Pin the engine to a known-good commit. Bump deliberately after testing.
+  LEADERBOARD_REF: e3f046cfaf6926808a6da5307564b9c6c71ebce6
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Mint App token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ vars.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
+
+      - name: Checkout data repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.app-token.outputs.token }}
+
+      - name: Checkout leaderboard engine (upstream, pinned)
+        uses: actions/checkout@v4
+        with:
+          repository: ohcnetwork/leaderboard
+          ref: ${{ env.LEADERBOARD_REF }}
+          path: app
+          fetch-depth: 1
+
+      - uses: pnpm/action-setup@v4
+        with: { version: 10 }
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: pnpm
+          cache-dependency-path: app/pnpm-lock.yaml
+
+      - name: Install & build packages
+        working-directory: app
+        run: pnpm install --frozen-lockfile && pnpm build:packages
+
+      # Restore the previous DB so the plugin's incremental watermark survives.
+      # continue-on-error so the very first run (no DB in R2 yet) still works.
+      - name: Restore DB from R2
+        continue-on-error: true
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: r2 object get leaderboard-data/data.db --file ${{ github.workspace }}/.leaderboard.db
+
+      - name: Scrape + export
+        working-directory: app
+        env:
+          LEADERBOARD_DATA_DIR: ${{ github.workspace }}
+          GH_APP_ID: ${{ vars.GH_APP_ID }}
+          GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
+        run: |
+          pnpm data:scrape
+          pnpm data:aggregate
+          pnpm data:evaluate
+          pnpm data:export
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "mulearn-leaderboard-bot[bot]"
+          git config user.email "${{ vars.GH_APP_ID }}+mulearn-leaderboard-bot[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore: update contributions $(date -u +%FT%TZ)" || exit 0
+          git push
+
+      - name: Upload DB to R2 (Data Explorer + watermark persistence)
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: r2 object put leaderboard-data/data.db --file ${{ github.workspace }}/.leaderboard.db --content-type application/octet-stream
