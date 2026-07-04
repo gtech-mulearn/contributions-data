@@ -1,0 +1,8 @@
+{"aggregate":"active_days","contributor":"jayasankar-shyam","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-04T17:22:01.525Z"}}
+{"aggregate":"activity_count","contributor":"jayasankar-shyam","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:22:01.521Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"jayasankar-shyam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-04T17:22:01.526Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"jayasankar-shyam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-04T17:22:01.527Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"jayasankar-shyam","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-04T17:22:01.525Z"}}
+{"aggregate":"first_activity_date","contributor":"jayasankar-shyam","value":{"type":"string","value":"2024-04-11"},"meta":{"calculated_at":"2026-07-04T17:22:01.522Z"}}
+{"aggregate":"last_activity_date","contributor":"jayasankar-shyam","value":{"type":"string","value":"2024-04-11"},"meta":{"calculated_at":"2026-07-04T17:22:01.523Z"}}
+{"aggregate":"total_activity_points","contributor":"jayasankar-shyam","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:22:01.520Z"}}

@@ -12,6 +12,30 @@
     "hidden": 0
   },
   {
+    "slug": "activity_count:issue_opened",
+    "name": "Issue Opened Count",
+    "description": "Number of Issue Opened activities by the contributor",
+    "hidden": 0
+  },
+  {
+    "slug": "activity_count:pr_merged",
+    "name": "PR Merged Count",
+    "description": "Number of PR Merged activities by the contributor",
+    "hidden": 0
+  },
+  {
+    "slug": "activity_count:pr_opened",
+    "name": "PR Opened Count",
+    "description": "Number of PR Opened activities by the contributor",
+    "hidden": 0
+  },
+  {
+    "slug": "activity_count:pr_reviewed",
+    "name": "PR Reviewed Count",
+    "description": "Number of PR Reviewed activities by the contributor",
+    "hidden": 0
+  },
+  {
     "slug": "avg_points_per_activity",
     "name": "Average Points Per Activity",
     "description": "Average points earned per activity",

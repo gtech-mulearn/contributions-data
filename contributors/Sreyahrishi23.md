@@ -1,0 +1,7 @@
+---
+role: contributor
+avatar_url: 'https://avatars.githubusercontent.com/u/183482467?v=4'
+social_profiles:
+  github: 'https://github.com/Sreyahrishi23'
+---
+

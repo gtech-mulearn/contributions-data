@@ -1,0 +1,10 @@
+{"aggregate":"active_days","contributor":"viraka","value":{"type":"number","value":65,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-04T17:22:12.005Z"}}
+{"aggregate":"activity_count","contributor":"viraka","value":{"type":"number","value":173,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:22:12.000Z"}}
+{"aggregate":"activity_count:issue_opened","contributor":"viraka","value":{"type":"number","value":10,"format":"integer"},"meta":{"activity_definition":"issue_opened","calculated_at":"2026-07-04T17:22:12.007Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"viraka","value":{"type":"number","value":78,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-04T17:22:12.008Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"viraka","value":{"type":"number","value":81,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-04T17:22:12.009Z"}}
+{"aggregate":"activity_count:pr_reviewed","contributor":"viraka","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_reviewed","calculated_at":"2026-07-04T17:22:12.010Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"viraka","value":{"type":"number","value":7.06,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-04T17:22:12.006Z"}}
+{"aggregate":"first_activity_date","contributor":"viraka","value":{"type":"string","value":"2023-10-21"},"meta":{"calculated_at":"2026-07-04T17:22:12.002Z"}}
+{"aggregate":"last_activity_date","contributor":"viraka","value":{"type":"string","value":"2024-08-18"},"meta":{"calculated_at":"2026-07-04T17:22:12.003Z"}}
+{"aggregate":"total_activity_points","contributor":"viraka","value":{"type":"number","value":1221,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:22:12.000Z"}}

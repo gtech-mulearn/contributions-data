@@ -1,0 +1,8 @@
+{"aggregate":"active_days","contributor":"nawal07","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-04T17:22:05.772Z"}}
+{"aggregate":"activity_count","contributor":"nawal07","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:22:05.769Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"nawal07","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-04T17:22:05.774Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"nawal07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-04T17:22:05.775Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"nawal07","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-04T17:22:05.773Z"}}
+{"aggregate":"first_activity_date","contributor":"nawal07","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-04T17:22:05.770Z"}}
+{"aggregate":"last_activity_date","contributor":"nawal07","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-04T17:22:05.771Z"}}
+{"aggregate":"total_activity_points","contributor":"nawal07","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:22:05.767Z"}}
