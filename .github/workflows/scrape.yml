@@ -64,16 +64,16 @@ jobs:
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: r2 object get leaderboard-data/data.db --file ${{ github.workspace }}/data/.leaderboard.db
 
-      - name: Scrape + export
+      # Full pipeline: import -> setup -> scrape -> aggregate -> evaluate -> export.
+      # Must NOT be the individual `data:scrape` etc. commands — those skip the
+      # `setup` phase that registers activity definitions, which makes every
+      # activity insert fail its foreign key (0 activities, ~1 contributor/repo).
+      - name: Scrape + export (full pipeline)
         working-directory: app
         env:
           GH_APP_ID: ${{ vars.GH_APP_ID }}
           GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
-        run: |
-          pnpm data:scrape
-          pnpm data:aggregate
-          pnpm data:evaluate
-          pnpm data:export
+        run: pnpm build:data
 
       - name: Commit updated data
         working-directory: data
