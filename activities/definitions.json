@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "slug": "issue_opened",
+    "name": "Issue Opened",
+    "description": "Opened an issue",
+    "points": 2,
+    "icon": "circle-dot"
+  },
+  {
+    "slug": "pr_merged",
+    "name": "PR Merged",
+    "description": "Pull request was merged",
+    "points": 10,
+    "icon": "git-merge"
+  },
+  {
+    "slug": "pr_opened",
+    "name": "PR Opened",
+    "description": "Opened a pull request",
+    "points": 5,
+    "icon": "git-pull-request"
+  },
+  {
+    "slug": "pr_reviewed",
+    "name": "PR Reviewed",
+    "description": "Reviewed a pull request",
+    "points": 4,
+    "icon": "eye"
+  }
+]

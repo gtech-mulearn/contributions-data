@@ -1,0 +1,8 @@
+{"aggregate":"active_days","contributor":"devMacmel","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-04T17:21:58.346Z"}}
+{"aggregate":"activity_count","contributor":"devMacmel","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:21:58.342Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"devMacmel","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-04T17:21:58.350Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"devMacmel","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-04T17:21:58.351Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"devMacmel","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-04T17:21:58.347Z"}}
+{"aggregate":"first_activity_date","contributor":"devMacmel","value":{"type":"string","value":"2025-07-27"},"meta":{"calculated_at":"2026-07-04T17:21:58.343Z"}}
+{"aggregate":"last_activity_date","contributor":"devMacmel","value":{"type":"string","value":"2025-10-24"},"meta":{"calculated_at":"2026-07-04T17:21:58.345Z"}}
+{"aggregate":"total_activity_points","contributor":"devMacmel","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:21:58.341Z"}}

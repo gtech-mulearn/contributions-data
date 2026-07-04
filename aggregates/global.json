@@ -5,14 +5,74 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 0,
+      "value": 241,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-04T17:11:45.291Z",
+      "calculated_at": "2026-07-04T17:21:49.626Z",
       "period_start": "2026-06-04",
       "period_end": "2026-07-04"
+    }
+  },
+  {
+    "slug": "activity_count:issue_opened",
+    "name": "Issue Opened Count",
+    "description": "Total number of Issue Opened activities",
+    "value": {
+      "type": "number",
+      "value": 830,
+      "format": "integer"
+    },
+    "hidden": 0,
+    "meta": {
+      "activity_definition": "issue_opened",
+      "calculated_at": "2026-07-04T17:21:49.892Z"
+    }
+  },
+  {
+    "slug": "activity_count:pr_merged",
+    "name": "PR Merged Count",
+    "description": "Total number of PR Merged activities",
+    "value": {
+      "type": "number",
+      "value": 10200,
+      "format": "integer"
+    },
+    "hidden": 0,
+    "meta": {
+      "activity_definition": "pr_merged",
+      "calculated_at": "2026-07-04T17:21:49.893Z"
+    }
+  },
+  {
+    "slug": "activity_count:pr_opened",
+    "name": "PR Opened Count",
+    "description": "Total number of PR Opened activities",
+    "value": {
+      "type": "number",
+      "value": 12670,
+      "format": "integer"
+    },
+    "hidden": 0,
+    "meta": {
+      "activity_definition": "pr_opened",
+      "calculated_at": "2026-07-04T17:21:49.894Z"
+    }
+  },
+  {
+    "slug": "activity_count:pr_reviewed",
+    "name": "PR Reviewed Count",
+    "description": "Total number of PR Reviewed activities",
+    "value": {
+      "type": "number",
+      "value": 2500,
+      "format": "integer"
+    },
+    "hidden": 0,
+    "meta": {
+      "activity_definition": "pr_reviewed",
+      "calculated_at": "2026-07-04T17:21:49.895Z"
     }
   },
   {
@@ -21,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 0,
+      "value": 26200,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-04T17:11:45.290Z"
+      "calculated_at": "2026-07-04T17:21:49.611Z"
     }
   },
   {
@@ -35,12 +95,12 @@
     "description": "Total number of contributors",
     "value": {
       "type": "number",
-      "value": 49,
+      "value": 2686,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-04T17:11:45.288Z"
+      "calculated_at": "2026-07-04T17:21:49.609Z"
     }
   }
 ]

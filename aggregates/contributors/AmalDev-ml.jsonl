@@ -1,0 +1,8 @@
+{"aggregate":"active_days","contributor":"AmalDev-ml","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-04T17:21:53.639Z"}}
+{"aggregate":"activity_count","contributor":"AmalDev-ml","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:21:53.636Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"AmalDev-ml","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-04T17:21:53.641Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AmalDev-ml","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-04T17:21:53.642Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AmalDev-ml","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-04T17:21:53.640Z"}}
+{"aggregate":"first_activity_date","contributor":"AmalDev-ml","value":{"type":"string","value":"2025-08-04"},"meta":{"calculated_at":"2026-07-04T17:21:53.637Z"}}
+{"aggregate":"last_activity_date","contributor":"AmalDev-ml","value":{"type":"string","value":"2025-08-05"},"meta":{"calculated_at":"2026-07-04T17:21:53.638Z"}}
+{"aggregate":"total_activity_points","contributor":"AmalDev-ml","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-04T17:21:53.635Z"}}
