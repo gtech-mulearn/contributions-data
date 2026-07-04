@@ -42,6 +42,21 @@ jobs:
           cache: pnpm
           cache-dependency-path: app/pnpm-lock.yaml
 
+      # Cloudflare Pages caps a deployment at 20,000 files. With thousands of
+      # contributors the engine emits, per contributor, a profile page + an OG
+      # preview image + a cached avatar webp — which blows past the cap. Trim the
+      # two per-contributor extras on the (pinned) engine checkout before building:
+      #   - remove per-contributor OG preview images
+      #   - serve avatars from github.com/<user>.png instead of caching a webp each
+      #     (and drop the setup:avatars prebuild step so none are downloaded)
+      - name: Trim per-contributor files (Cloudflare Pages 20k-file limit)
+        working-directory: app
+        run: |
+          rm -f "apps/leaderboard-web/app/[username]/opengraph-image.tsx"
+          sed -i 's#/avatars/#https://github.com/#' apps/leaderboard-web/lib/utils.ts
+          sed -i 's#\.webp`#.png?size=256`#' apps/leaderboard-web/lib/utils.ts
+          sed -i 's/ && pnpm setup:avatars//' apps/leaderboard-web/package.json
+
       - name: Build site
         working-directory: app
         run: |
