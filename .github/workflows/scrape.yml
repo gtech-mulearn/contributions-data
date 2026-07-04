@@ -9,13 +9,16 @@ concurrency:
   group: scrape
   cancel-in-progress: false
 
-env:
-  # Pin the engine to a known-good commit. Bump deliberately after testing.
-  LEADERBOARD_REF: e3f046cfaf6926808a6da5307564b9c6c71ebce6
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    env:
+      # Pin the engine to a known-good commit. Keep in sync with deploy.yml.
+      LEADERBOARD_REF: e3f046cfaf6926808a6da5307564b9c6c71ebce6
+      # Engine checkout root (required by the engine's getDataDir).
+      WORKSPACE_ROOT: ${{ github.workspace }}/app
+      # Absolute path to the data repo checkout.
+      LEADERBOARD_DATA_DIR: ${{ github.workspace }}/data
     steps:
       - name: Mint App token
         id: app-token
@@ -28,6 +31,7 @@ jobs:
       - name: Checkout data repo
         uses: actions/checkout@v4
         with:
+          path: data
           token: ${{ steps.app-token.outputs.token }}
 
       - name: Checkout leaderboard engine (upstream, pinned)
@@ -58,12 +62,11 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: r2 object get leaderboard-data/data.db --file ${{ github.workspace }}/.leaderboard.db
+          command: r2 object get leaderboard-data/data.db --file ${{ github.workspace }}/data/.leaderboard.db
 
       - name: Scrape + export
         working-directory: app
         env:
-          LEADERBOARD_DATA_DIR: ${{ github.workspace }}
           GH_APP_ID: ${{ vars.GH_APP_ID }}
           GH_APP_PRIVATE_KEY: ${{ secrets.GH_APP_PRIVATE_KEY }}
         run: |
@@ -73,6 +76,7 @@ jobs:
           pnpm data:export
 
       - name: Commit updated data
+        working-directory: data
         run: |
           git config user.name  "mulearn-leaderboard-bot[bot]"
           git config user.email "${{ vars.GH_APP_ID }}+mulearn-leaderboard-bot[bot]@users.noreply.github.com"
@@ -85,4 +89,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: r2 object put leaderboard-data/data.db --file ${{ github.workspace }}/.leaderboard.db --content-type application/octet-stream
+          command: r2 object put leaderboard-data/data.db --file ${{ github.workspace }}/data/.leaderboard.db --content-type application/octet-stream

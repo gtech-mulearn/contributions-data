@@ -9,13 +9,17 @@ concurrency:
   group: deploy
   cancel-in-progress: true
 
-env:
-  # Keep in sync with scrape.yml. Bump deliberately after testing.
-  LEADERBOARD_REF: e3f046cfaf6926808a6da5307564b9c6c71ebce6
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    env:
+      # Pin the engine to a known-good commit. Keep in sync with scrape.yml.
+      LEADERBOARD_REF: e3f046cfaf6926808a6da5307564b9c6c71ebce6
+      # Engine checkout root (required by the engine's getDataDir).
+      WORKSPACE_ROOT: ${{ github.workspace }}/app
+      # Absolute path to the data repo checkout.
+      LEADERBOARD_DATA_DIR: ${{ github.workspace }}/data
+      LEADERBOARD_DATA_DB_URL: ${{ vars.LEADERBOARD_DATA_DB_URL }}
     steps:
       - name: Checkout data repo
         uses: actions/checkout@v4
@@ -40,9 +44,6 @@ jobs:
 
       - name: Build site
         working-directory: app
-        env:
-          LEADERBOARD_DATA_DIR: ${{ github.workspace }}/data
-          LEADERBOARD_DATA_DB_URL: ${{ vars.LEADERBOARD_DATA_DB_URL }}
         run: |
           pnpm install --frozen-lockfile
           pnpm build:packages
