@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"felixthomass","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-04T19:03:08.926Z"}}
-{"aggregate":"activity_count","contributor":"felixthomass","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-07-04T19:03:08.923Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"felixthomass","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-04T19:03:08.928Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"felixthomass","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-04T19:03:08.929Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"felixthomass","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-04T19:03:08.927Z"}}
-{"aggregate":"first_activity_date","contributor":"felixthomass","value":{"type":"string","value":"2025-07-15"},"meta":{"calculated_at":"2026-07-04T19:03:08.924Z"}}
-{"aggregate":"last_activity_date","contributor":"felixthomass","value":{"type":"string","value":"2025-08-21"},"meta":{"calculated_at":"2026-07-04T19:03:08.925Z"}}
-{"aggregate":"total_activity_points","contributor":"felixthomass","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-07-04T19:03:08.922Z"}}
+{"aggregate":"active_days","contributor":"felixthomass","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-05T02:33:41.465Z"}}
+{"aggregate":"activity_count","contributor":"felixthomass","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-07-05T02:33:41.462Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"felixthomass","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-05T02:33:41.467Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"felixthomass","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-05T02:33:41.468Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"felixthomass","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-05T02:33:41.466Z"}}
+{"aggregate":"first_activity_date","contributor":"felixthomass","value":{"type":"string","value":"2025-07-15"},"meta":{"calculated_at":"2026-07-05T02:33:41.463Z"}}
+{"aggregate":"last_activity_date","contributor":"felixthomass","value":{"type":"string","value":"2025-08-21"},"meta":{"calculated_at":"2026-07-05T02:33:41.464Z"}}
+{"aggregate":"total_activity_points","contributor":"felixthomass","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-07-05T02:33:41.461Z"}}
