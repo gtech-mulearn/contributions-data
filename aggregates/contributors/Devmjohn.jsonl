@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Devmjohn","value":{"type":"number","value":9,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-05T13:20:10.211Z"}}
-{"aggregate":"activity_count","contributor":"Devmjohn","value":{"type":"number","value":10,"format":"integer"},"meta":{"calculated_at":"2026-07-05T13:20:10.209Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Devmjohn","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-05T13:20:10.213Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Devmjohn","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-05T13:20:10.214Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Devmjohn","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-05T13:20:10.212Z"}}
-{"aggregate":"first_activity_date","contributor":"Devmjohn","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-07-05T13:20:10.210Z"}}
-{"aggregate":"last_activity_date","contributor":"Devmjohn","value":{"type":"string","value":"2025-11-01"},"meta":{"calculated_at":"2026-07-05T13:20:10.211Z"}}
-{"aggregate":"total_activity_points","contributor":"Devmjohn","value":{"type":"number","value":75,"format":"integer"},"meta":{"calculated_at":"2026-07-05T13:20:10.208Z"}}
+{"aggregate":"active_days","contributor":"Devmjohn","value":{"type":"number","value":9,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-05T19:09:23.756Z"}}
+{"aggregate":"activity_count","contributor":"Devmjohn","value":{"type":"number","value":10,"format":"integer"},"meta":{"calculated_at":"2026-07-05T19:09:23.753Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Devmjohn","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-05T19:09:23.758Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Devmjohn","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-05T19:09:23.759Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Devmjohn","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-05T19:09:23.757Z"}}
+{"aggregate":"first_activity_date","contributor":"Devmjohn","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-07-05T19:09:23.754Z"}}
+{"aggregate":"last_activity_date","contributor":"Devmjohn","value":{"type":"string","value":"2025-11-01"},"meta":{"calculated_at":"2026-07-05T19:09:23.755Z"}}
+{"aggregate":"total_activity_points","contributor":"Devmjohn","value":{"type":"number","value":75,"format":"integer"},"meta":{"calculated_at":"2026-07-05T19:09:23.751Z"}}
