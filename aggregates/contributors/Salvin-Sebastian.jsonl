@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Salvin-Sebastian","value":{"type":"number","value":11,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-05T02:34:03.879Z"}}
-{"aggregate":"activity_count","contributor":"Salvin-Sebastian","value":{"type":"number","value":13,"format":"integer"},"meta":{"calculated_at":"2026-07-05T02:34:03.876Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Salvin-Sebastian","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-05T02:34:03.881Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Salvin-Sebastian","value":{"type":"number","value":11,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-05T02:34:03.882Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Salvin-Sebastian","value":{"type":"number","value":5.77,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-05T02:34:03.881Z"}}
-{"aggregate":"first_activity_date","contributor":"Salvin-Sebastian","value":{"type":"string","value":"2026-03-25"},"meta":{"calculated_at":"2026-07-05T02:34:03.878Z"}}
-{"aggregate":"last_activity_date","contributor":"Salvin-Sebastian","value":{"type":"string","value":"2026-07-03"},"meta":{"calculated_at":"2026-07-05T02:34:03.879Z"}}
-{"aggregate":"total_activity_points","contributor":"Salvin-Sebastian","value":{"type":"number","value":75,"format":"integer"},"meta":{"calculated_at":"2026-07-05T02:34:03.875Z"}}
+{"aggregate":"active_days","contributor":"Salvin-Sebastian","value":{"type":"number","value":12,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-05T08:47:21.163Z"}}
+{"aggregate":"activity_count","contributor":"Salvin-Sebastian","value":{"type":"number","value":14,"format":"integer"},"meta":{"calculated_at":"2026-07-05T08:47:21.161Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Salvin-Sebastian","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-05T08:47:21.164Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Salvin-Sebastian","value":{"type":"number","value":11,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-05T08:47:21.165Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Salvin-Sebastian","value":{"type":"number","value":6.07,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-05T08:47:21.164Z"}}
+{"aggregate":"first_activity_date","contributor":"Salvin-Sebastian","value":{"type":"string","value":"2026-03-25"},"meta":{"calculated_at":"2026-07-05T08:47:21.161Z"}}
+{"aggregate":"last_activity_date","contributor":"Salvin-Sebastian","value":{"type":"string","value":"2026-07-05"},"meta":{"calculated_at":"2026-07-05T08:47:21.162Z"}}
+{"aggregate":"total_activity_points","contributor":"Salvin-Sebastian","value":{"type":"number","value":85,"format":"integer"},"meta":{"calculated_at":"2026-07-05T08:47:21.160Z"}}
