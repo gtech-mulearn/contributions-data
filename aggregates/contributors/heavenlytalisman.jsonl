@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"heavenlytalisman","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-06T15:21:30.780Z"}}
-{"aggregate":"activity_count","contributor":"heavenlytalisman","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-06T15:21:30.777Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"heavenlytalisman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-06T15:21:30.782Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"heavenlytalisman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-06T15:21:30.783Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"heavenlytalisman","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-06T15:21:30.781Z"}}
-{"aggregate":"first_activity_date","contributor":"heavenlytalisman","value":{"type":"string","value":"2025-07-23"},"meta":{"calculated_at":"2026-07-06T15:21:30.778Z"}}
-{"aggregate":"last_activity_date","contributor":"heavenlytalisman","value":{"type":"string","value":"2025-07-23"},"meta":{"calculated_at":"2026-07-06T15:21:30.779Z"}}
-{"aggregate":"total_activity_points","contributor":"heavenlytalisman","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-06T15:21:30.776Z"}}
+{"aggregate":"active_days","contributor":"heavenlytalisman","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-06T19:49:27.674Z"}}
+{"aggregate":"activity_count","contributor":"heavenlytalisman","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-06T19:49:27.671Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"heavenlytalisman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-06T19:49:27.675Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"heavenlytalisman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-06T19:49:27.676Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"heavenlytalisman","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-06T19:49:27.675Z"}}
+{"aggregate":"first_activity_date","contributor":"heavenlytalisman","value":{"type":"string","value":"2025-07-23"},"meta":{"calculated_at":"2026-07-06T19:49:27.672Z"}}
+{"aggregate":"last_activity_date","contributor":"heavenlytalisman","value":{"type":"string","value":"2025-07-23"},"meta":{"calculated_at":"2026-07-06T19:49:27.673Z"}}
+{"aggregate":"total_activity_points","contributor":"heavenlytalisman","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-06T19:49:27.671Z"}}

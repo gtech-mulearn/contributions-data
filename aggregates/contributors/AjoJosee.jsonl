@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"AjoJosee","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-06T15:21:20.809Z"}}
-{"aggregate":"activity_count","contributor":"AjoJosee","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-06T15:21:20.806Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"AjoJosee","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-06T15:21:20.813Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"AjoJosee","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-06T15:21:20.814Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"AjoJosee","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-06T15:21:20.812Z"}}
-{"aggregate":"first_activity_date","contributor":"AjoJosee","value":{"type":"string","value":"2025-10-15"},"meta":{"calculated_at":"2026-07-06T15:21:20.807Z"}}
-{"aggregate":"last_activity_date","contributor":"AjoJosee","value":{"type":"string","value":"2026-06-29"},"meta":{"calculated_at":"2026-07-06T15:21:20.808Z"}}
-{"aggregate":"total_activity_points","contributor":"AjoJosee","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-06T15:21:20.806Z"}}
+{"aggregate":"active_days","contributor":"AjoJosee","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-06T19:49:21.148Z"}}
+{"aggregate":"activity_count","contributor":"AjoJosee","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-06T19:49:21.145Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"AjoJosee","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-06T19:49:21.149Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AjoJosee","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-06T19:49:21.150Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AjoJosee","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-06T19:49:21.149Z"}}
+{"aggregate":"first_activity_date","contributor":"AjoJosee","value":{"type":"string","value":"2025-10-15"},"meta":{"calculated_at":"2026-07-06T19:49:21.146Z"}}
+{"aggregate":"last_activity_date","contributor":"AjoJosee","value":{"type":"string","value":"2026-06-29"},"meta":{"calculated_at":"2026-07-06T19:49:21.147Z"}}
+{"aggregate":"total_activity_points","contributor":"AjoJosee","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-06T19:49:21.145Z"}}
