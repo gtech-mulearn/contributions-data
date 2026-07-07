@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"abh1-ram","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-07T02:33:08.570Z"}}
-{"aggregate":"activity_count","contributor":"abh1-ram","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-07T02:33:08.568Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"abh1-ram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-07T02:33:08.571Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"abh1-ram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-07T02:33:08.572Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"abh1-ram","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-07T02:33:08.571Z"}}
-{"aggregate":"first_activity_date","contributor":"abh1-ram","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-07T02:33:08.569Z"}}
-{"aggregate":"last_activity_date","contributor":"abh1-ram","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-07T02:33:08.569Z"}}
-{"aggregate":"total_activity_points","contributor":"abh1-ram","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-07T02:33:08.567Z"}}
+{"aggregate":"active_days","contributor":"abh1-ram","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-07T09:32:57.626Z"}}
+{"aggregate":"activity_count","contributor":"abh1-ram","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-07T09:32:57.624Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"abh1-ram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-07T09:32:57.628Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"abh1-ram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-07T09:32:57.628Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"abh1-ram","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-07T09:32:57.626Z"}}
+{"aggregate":"first_activity_date","contributor":"abh1-ram","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-07T09:32:57.624Z"}}
+{"aggregate":"last_activity_date","contributor":"abh1-ram","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-07T09:32:57.625Z"}}
+{"aggregate":"total_activity_points","contributor":"abh1-ram","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-07T09:32:57.623Z"}}
