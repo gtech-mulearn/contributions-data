@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"pranavmohan15","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T08:17:29.176Z"}}
-{"aggregate":"activity_count","contributor":"pranavmohan15","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-07-08T08:17:29.172Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"pranavmohan15","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T08:17:29.179Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"pranavmohan15","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T08:17:29.180Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"pranavmohan15","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T08:17:29.178Z"}}
-{"aggregate":"first_activity_date","contributor":"pranavmohan15","value":{"type":"string","value":"2025-07-30"},"meta":{"calculated_at":"2026-07-08T08:17:29.174Z"}}
-{"aggregate":"last_activity_date","contributor":"pranavmohan15","value":{"type":"string","value":"2025-08-03"},"meta":{"calculated_at":"2026-07-08T08:17:29.175Z"}}
-{"aggregate":"total_activity_points","contributor":"pranavmohan15","value":{"type":"number","value":40,"format":"integer"},"meta":{"calculated_at":"2026-07-08T08:17:29.171Z"}}
+{"aggregate":"active_days","contributor":"pranavmohan15","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T13:51:16.338Z"}}
+{"aggregate":"activity_count","contributor":"pranavmohan15","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:16.336Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"pranavmohan15","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T13:51:16.339Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"pranavmohan15","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T13:51:16.340Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"pranavmohan15","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T13:51:16.339Z"}}
+{"aggregate":"first_activity_date","contributor":"pranavmohan15","value":{"type":"string","value":"2025-07-30"},"meta":{"calculated_at":"2026-07-08T13:51:16.336Z"}}
+{"aggregate":"last_activity_date","contributor":"pranavmohan15","value":{"type":"string","value":"2025-08-03"},"meta":{"calculated_at":"2026-07-08T13:51:16.337Z"}}
+{"aggregate":"total_activity_points","contributor":"pranavmohan15","value":{"type":"number","value":40,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:16.335Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"sanjaykc10","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T08:17:32.015Z"}}
-{"aggregate":"activity_count","contributor":"sanjaykc10","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-08T08:17:32.007Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"sanjaykc10","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T08:17:32.019Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"sanjaykc10","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T08:17:32.020Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"sanjaykc10","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T08:17:32.017Z"}}
-{"aggregate":"first_activity_date","contributor":"sanjaykc10","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-07-08T08:17:32.012Z"}}
-{"aggregate":"last_activity_date","contributor":"sanjaykc10","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-07-08T08:17:32.014Z"}}
-{"aggregate":"total_activity_points","contributor":"sanjaykc10","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-08T08:17:32.006Z"}}
+{"aggregate":"active_days","contributor":"sanjaykc10","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T13:51:17.657Z"}}
+{"aggregate":"activity_count","contributor":"sanjaykc10","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:17.655Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"sanjaykc10","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T13:51:17.659Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"sanjaykc10","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T13:51:17.659Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"sanjaykc10","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T13:51:17.658Z"}}
+{"aggregate":"first_activity_date","contributor":"sanjaykc10","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-07-08T13:51:17.656Z"}}
+{"aggregate":"last_activity_date","contributor":"sanjaykc10","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-07-08T13:51:17.656Z"}}
+{"aggregate":"total_activity_points","contributor":"sanjaykc10","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:17.654Z"}}
