@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"ashiqu-ali","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T13:51:08.120Z"}}
-{"aggregate":"activity_count","contributor":"ashiqu-ali","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:08.117Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"ashiqu-ali","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T13:51:08.121Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"ashiqu-ali","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T13:51:08.122Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"ashiqu-ali","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T13:51:08.120Z"}}
-{"aggregate":"first_activity_date","contributor":"ashiqu-ali","value":{"type":"string","value":"2023-10-04"},"meta":{"calculated_at":"2026-07-08T13:51:08.118Z"}}
-{"aggregate":"last_activity_date","contributor":"ashiqu-ali","value":{"type":"string","value":"2023-10-04"},"meta":{"calculated_at":"2026-07-08T13:51:08.119Z"}}
-{"aggregate":"total_activity_points","contributor":"ashiqu-ali","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:08.116Z"}}
+{"aggregate":"active_days","contributor":"ashiqu-ali","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T19:17:24.977Z"}}
+{"aggregate":"activity_count","contributor":"ashiqu-ali","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-08T19:17:24.975Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"ashiqu-ali","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T19:17:24.979Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"ashiqu-ali","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T19:17:24.980Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"ashiqu-ali","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T19:17:24.978Z"}}
+{"aggregate":"first_activity_date","contributor":"ashiqu-ali","value":{"type":"string","value":"2023-10-04"},"meta":{"calculated_at":"2026-07-08T19:17:24.976Z"}}
+{"aggregate":"last_activity_date","contributor":"ashiqu-ali","value":{"type":"string","value":"2023-10-04"},"meta":{"calculated_at":"2026-07-08T19:17:24.977Z"}}
+{"aggregate":"total_activity_points","contributor":"ashiqu-ali","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-08T19:17:24.974Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aseelkp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T13:51:08.009Z"}}
-{"aggregate":"activity_count","contributor":"aseelkp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:08.007Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aseelkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T13:51:08.010Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aseelkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T13:51:08.011Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aseelkp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T13:51:08.010Z"}}
-{"aggregate":"first_activity_date","contributor":"aseelkp","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-08T13:51:08.007Z"}}
-{"aggregate":"last_activity_date","contributor":"aseelkp","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-08T13:51:08.008Z"}}
-{"aggregate":"total_activity_points","contributor":"aseelkp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:08.006Z"}}
+{"aggregate":"active_days","contributor":"aseelkp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T19:17:24.854Z"}}
+{"aggregate":"activity_count","contributor":"aseelkp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-08T19:17:24.851Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aseelkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T19:17:24.856Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aseelkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T19:17:24.856Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aseelkp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T19:17:24.855Z"}}
+{"aggregate":"first_activity_date","contributor":"aseelkp","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-08T19:17:24.852Z"}}
+{"aggregate":"last_activity_date","contributor":"aseelkp","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-08T19:17:24.853Z"}}
+{"aggregate":"total_activity_points","contributor":"aseelkp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-08T19:17:24.850Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"ChrisToms14","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T13:51:09.444Z"}}
-{"aggregate":"activity_count","contributor":"ChrisToms14","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:09.442Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"ChrisToms14","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T13:51:09.446Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"ChrisToms14","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T13:51:09.447Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"ChrisToms14","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T13:51:09.445Z"}}
-{"aggregate":"first_activity_date","contributor":"ChrisToms14","value":{"type":"string","value":"2024-09-02"},"meta":{"calculated_at":"2026-07-08T13:51:09.443Z"}}
-{"aggregate":"last_activity_date","contributor":"ChrisToms14","value":{"type":"string","value":"2025-05-25"},"meta":{"calculated_at":"2026-07-08T13:51:09.444Z"}}
-{"aggregate":"total_activity_points","contributor":"ChrisToms14","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-08T13:51:09.441Z"}}
+{"aggregate":"active_days","contributor":"ChrisToms14","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T19:17:26.528Z"}}
+{"aggregate":"activity_count","contributor":"ChrisToms14","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-08T19:17:26.525Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"ChrisToms14","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T19:17:26.530Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"ChrisToms14","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T19:17:26.531Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"ChrisToms14","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T19:17:26.529Z"}}
+{"aggregate":"first_activity_date","contributor":"ChrisToms14","value":{"type":"string","value":"2024-09-02"},"meta":{"calculated_at":"2026-07-08T19:17:26.526Z"}}
+{"aggregate":"last_activity_date","contributor":"ChrisToms14","value":{"type":"string","value":"2025-05-25"},"meta":{"calculated_at":"2026-07-08T19:17:26.527Z"}}
+{"aggregate":"total_activity_points","contributor":"ChrisToms14","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-08T19:17:26.524Z"}}
