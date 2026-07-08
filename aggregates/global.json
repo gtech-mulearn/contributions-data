@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 259,
+      "value": 262,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-07T19:48:54.734Z",
-      "period_start": "2026-06-07",
-      "period_end": "2026-07-07"
+      "calculated_at": "2026-07-08T02:07:17.049Z",
+      "period_start": "2026-06-08",
+      "period_end": "2026-07-08"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-07T19:48:55.011Z"
+      "calculated_at": "2026-07-08T02:07:17.320Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10228,
+      "value": 10231,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-07T19:48:55.012Z"
+      "calculated_at": "2026-07-08T02:07:17.321Z"
     }
   },
   {
@@ -57,7 +57,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-07T19:48:55.014Z"
+      "calculated_at": "2026-07-08T02:07:17.322Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-07T19:48:55.015Z"
+      "calculated_at": "2026-07-08T02:07:17.323Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 26276,
+      "value": 26279,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-07T19:48:54.718Z"
+      "calculated_at": "2026-07-08T02:07:17.033Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-07T19:48:54.716Z"
+      "calculated_at": "2026-07-08T02:07:17.030Z"
     }
   }
 ]
