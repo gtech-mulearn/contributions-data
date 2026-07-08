@@ -1,7 +1,8 @@
-{"aggregate":"active_days","contributor":"Anandhu0724","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T02:07:21.308Z"}}
-{"aggregate":"activity_count","contributor":"Anandhu0724","value":{"type":"number","value":5,"format":"integer"},"meta":{"calculated_at":"2026-07-08T02:07:21.305Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Anandhu0724","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T02:07:21.310Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Anandhu0724","value":{"type":"number","value":5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T02:07:21.309Z"}}
-{"aggregate":"first_activity_date","contributor":"Anandhu0724","value":{"type":"string","value":"2025-12-12"},"meta":{"calculated_at":"2026-07-08T02:07:21.306Z"}}
-{"aggregate":"last_activity_date","contributor":"Anandhu0724","value":{"type":"string","value":"2026-07-06"},"meta":{"calculated_at":"2026-07-08T02:07:21.307Z"}}
-{"aggregate":"total_activity_points","contributor":"Anandhu0724","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-08T02:07:21.304Z"}}
+{"aggregate":"active_days","contributor":"Anandhu0724","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-08T08:17:11.329Z"}}
+{"aggregate":"activity_count","contributor":"Anandhu0724","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-07-08T08:17:11.324Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Anandhu0724","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-08T08:17:11.331Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Anandhu0724","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-08T08:17:11.333Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Anandhu0724","value":{"type":"number","value":5.83,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-08T08:17:11.330Z"}}
+{"aggregate":"first_activity_date","contributor":"Anandhu0724","value":{"type":"string","value":"2025-12-12"},"meta":{"calculated_at":"2026-07-08T08:17:11.326Z"}}
+{"aggregate":"last_activity_date","contributor":"Anandhu0724","value":{"type":"string","value":"2026-07-08"},"meta":{"calculated_at":"2026-07-08T08:17:11.327Z"}}
+{"aggregate":"total_activity_points","contributor":"Anandhu0724","value":{"type":"number","value":35,"format":"integer"},"meta":{"calculated_at":"2026-07-08T08:17:11.322Z"}}
