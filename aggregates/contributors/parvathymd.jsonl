@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"parvathymd","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-09T09:30:05.078Z"}}
-{"aggregate":"activity_count","contributor":"parvathymd","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-09T09:30:05.076Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"parvathymd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-09T09:30:05.080Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"parvathymd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-09T09:30:05.080Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"parvathymd","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-09T09:30:05.079Z"}}
-{"aggregate":"first_activity_date","contributor":"parvathymd","value":{"type":"string","value":"2023-11-16"},"meta":{"calculated_at":"2026-07-09T09:30:05.077Z"}}
-{"aggregate":"last_activity_date","contributor":"parvathymd","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-09T09:30:05.078Z"}}
-{"aggregate":"total_activity_points","contributor":"parvathymd","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-09T09:30:05.076Z"}}
+{"aggregate":"active_days","contributor":"parvathymd","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-09T14:45:23.003Z"}}
+{"aggregate":"activity_count","contributor":"parvathymd","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-09T14:45:23.000Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"parvathymd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-09T14:45:23.005Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"parvathymd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-09T14:45:23.006Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"parvathymd","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-09T14:45:23.004Z"}}
+{"aggregate":"first_activity_date","contributor":"parvathymd","value":{"type":"string","value":"2023-11-16"},"meta":{"calculated_at":"2026-07-09T14:45:23.001Z"}}
+{"aggregate":"last_activity_date","contributor":"parvathymd","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-09T14:45:23.002Z"}}
+{"aggregate":"total_activity_points","contributor":"parvathymd","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-09T14:45:23.000Z"}}

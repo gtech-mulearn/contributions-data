@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Shalilop","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-09T09:30:06.835Z"}}
-{"aggregate":"activity_count","contributor":"Shalilop","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-09T09:30:06.833Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Shalilop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-09T09:30:06.837Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Shalilop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-09T09:30:06.838Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Shalilop","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-09T09:30:06.836Z"}}
-{"aggregate":"first_activity_date","contributor":"Shalilop","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-09T09:30:06.833Z"}}
-{"aggregate":"last_activity_date","contributor":"Shalilop","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-09T09:30:06.834Z"}}
-{"aggregate":"total_activity_points","contributor":"Shalilop","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-09T09:30:06.831Z"}}
+{"aggregate":"active_days","contributor":"Shalilop","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-09T14:45:25.267Z"}}
+{"aggregate":"activity_count","contributor":"Shalilop","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-09T14:45:25.264Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Shalilop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-09T14:45:25.269Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Shalilop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-09T14:45:25.269Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Shalilop","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-09T14:45:25.268Z"}}
+{"aggregate":"first_activity_date","contributor":"Shalilop","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-09T14:45:25.265Z"}}
+{"aggregate":"last_activity_date","contributor":"Shalilop","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-09T14:45:25.266Z"}}
+{"aggregate":"total_activity_points","contributor":"Shalilop","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-09T14:45:25.263Z"}}
