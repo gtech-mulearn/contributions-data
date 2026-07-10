@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 263,
+      "value": 264,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-09T19:30:47.804Z",
-      "period_start": "2026-06-09",
-      "period_end": "2026-07-09"
+      "calculated_at": "2026-07-10T02:26:47.717Z",
+      "period_start": "2026-06-10",
+      "period_end": "2026-07-10"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-09T19:30:48.082Z"
+      "calculated_at": "2026-07-10T02:26:48.002Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-09T19:30:48.083Z"
+      "calculated_at": "2026-07-10T02:26:48.003Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 12747,
+      "value": 12748,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-09T19:30:48.085Z"
+      "calculated_at": "2026-07-10T02:26:48.004Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-09T19:30:48.086Z"
+      "calculated_at": "2026-07-10T02:26:48.005Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 26330,
+      "value": 26331,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-09T19:30:47.788Z"
+      "calculated_at": "2026-07-10T02:26:47.701Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-09T19:30:47.786Z"
+      "calculated_at": "2026-07-10T02:26:47.699Z"
     }
   }
 ]
