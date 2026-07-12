@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"naeema-19","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-12T08:09:02.172Z"}}
-{"aggregate":"activity_count","contributor":"naeema-19","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-12T08:09:02.169Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"naeema-19","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-12T08:09:02.174Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"naeema-19","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-12T08:09:02.175Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"naeema-19","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-12T08:09:02.173Z"}}
-{"aggregate":"first_activity_date","contributor":"naeema-19","value":{"type":"string","value":"2024-06-15"},"meta":{"calculated_at":"2026-07-12T08:09:02.170Z"}}
-{"aggregate":"last_activity_date","contributor":"naeema-19","value":{"type":"string","value":"2024-06-15"},"meta":{"calculated_at":"2026-07-12T08:09:02.171Z"}}
-{"aggregate":"total_activity_points","contributor":"naeema-19","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-12T08:09:02.168Z"}}
+{"aggregate":"active_days","contributor":"naeema-19","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-12T13:06:57.220Z"}}
+{"aggregate":"activity_count","contributor":"naeema-19","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-12T13:06:57.217Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"naeema-19","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-12T13:06:57.221Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"naeema-19","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-12T13:06:57.222Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"naeema-19","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-12T13:06:57.220Z"}}
+{"aggregate":"first_activity_date","contributor":"naeema-19","value":{"type":"string","value":"2024-06-15"},"meta":{"calculated_at":"2026-07-12T13:06:57.218Z"}}
+{"aggregate":"last_activity_date","contributor":"naeema-19","value":{"type":"string","value":"2024-06-15"},"meta":{"calculated_at":"2026-07-12T13:06:57.219Z"}}
+{"aggregate":"total_activity_points","contributor":"naeema-19","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-12T13:06:57.216Z"}}
