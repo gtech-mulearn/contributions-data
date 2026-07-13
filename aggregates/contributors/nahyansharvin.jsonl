@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"nahyansharvin","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T02:10:42.530Z"}}
-{"aggregate":"activity_count","contributor":"nahyansharvin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T02:10:42.528Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"nahyansharvin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T02:10:42.532Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"nahyansharvin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T02:10:42.532Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"nahyansharvin","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T02:10:42.531Z"}}
-{"aggregate":"first_activity_date","contributor":"nahyansharvin","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-13T02:10:42.529Z"}}
-{"aggregate":"last_activity_date","contributor":"nahyansharvin","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-13T02:10:42.530Z"}}
-{"aggregate":"total_activity_points","contributor":"nahyansharvin","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T02:10:42.528Z"}}
+{"aggregate":"active_days","contributor":"nahyansharvin","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T08:58:52.915Z"}}
+{"aggregate":"activity_count","contributor":"nahyansharvin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T08:58:52.913Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"nahyansharvin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T08:58:52.917Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"nahyansharvin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T08:58:52.917Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"nahyansharvin","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T08:58:52.916Z"}}
+{"aggregate":"first_activity_date","contributor":"nahyansharvin","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-13T08:58:52.913Z"}}
+{"aggregate":"last_activity_date","contributor":"nahyansharvin","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-13T08:58:52.914Z"}}
+{"aggregate":"total_activity_points","contributor":"nahyansharvin","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T08:58:52.912Z"}}
