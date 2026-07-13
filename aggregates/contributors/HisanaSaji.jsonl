@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"HisanaSaji","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T14:19:26.611Z"}}
-{"aggregate":"activity_count","contributor":"HisanaSaji","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T14:19:26.608Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"HisanaSaji","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T14:19:26.613Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"HisanaSaji","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T14:19:26.614Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"HisanaSaji","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T14:19:26.612Z"}}
-{"aggregate":"first_activity_date","contributor":"HisanaSaji","value":{"type":"string","value":"2024-08-21"},"meta":{"calculated_at":"2026-07-13T14:19:26.609Z"}}
-{"aggregate":"last_activity_date","contributor":"HisanaSaji","value":{"type":"string","value":"2024-08-23"},"meta":{"calculated_at":"2026-07-13T14:19:26.610Z"}}
-{"aggregate":"total_activity_points","contributor":"HisanaSaji","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T14:19:26.607Z"}}
+{"aggregate":"active_days","contributor":"HisanaSaji","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T19:19:10.629Z"}}
+{"aggregate":"activity_count","contributor":"HisanaSaji","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T19:19:10.626Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"HisanaSaji","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T19:19:10.631Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"HisanaSaji","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T19:19:10.632Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"HisanaSaji","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T19:19:10.630Z"}}
+{"aggregate":"first_activity_date","contributor":"HisanaSaji","value":{"type":"string","value":"2024-08-21"},"meta":{"calculated_at":"2026-07-13T19:19:10.627Z"}}
+{"aggregate":"last_activity_date","contributor":"HisanaSaji","value":{"type":"string","value":"2024-08-23"},"meta":{"calculated_at":"2026-07-13T19:19:10.628Z"}}
+{"aggregate":"total_activity_points","contributor":"HisanaSaji","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T19:19:10.625Z"}}

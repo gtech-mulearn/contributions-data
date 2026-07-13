@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"BSAdhithya","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T14:19:23.227Z"}}
-{"aggregate":"activity_count","contributor":"BSAdhithya","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T14:19:23.224Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"BSAdhithya","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T14:19:23.229Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"BSAdhithya","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T14:19:23.230Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"BSAdhithya","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T14:19:23.228Z"}}
-{"aggregate":"first_activity_date","contributor":"BSAdhithya","value":{"type":"string","value":"2022-05-16"},"meta":{"calculated_at":"2026-07-13T14:19:23.225Z"}}
-{"aggregate":"last_activity_date","contributor":"BSAdhithya","value":{"type":"string","value":"2022-08-15"},"meta":{"calculated_at":"2026-07-13T14:19:23.226Z"}}
-{"aggregate":"total_activity_points","contributor":"BSAdhithya","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T14:19:23.223Z"}}
+{"aggregate":"active_days","contributor":"BSAdhithya","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T19:19:07.217Z"}}
+{"aggregate":"activity_count","contributor":"BSAdhithya","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T19:19:07.214Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"BSAdhithya","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T19:19:07.219Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"BSAdhithya","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T19:19:07.220Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"BSAdhithya","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T19:19:07.218Z"}}
+{"aggregate":"first_activity_date","contributor":"BSAdhithya","value":{"type":"string","value":"2022-05-16"},"meta":{"calculated_at":"2026-07-13T19:19:07.215Z"}}
+{"aggregate":"last_activity_date","contributor":"BSAdhithya","value":{"type":"string","value":"2022-08-15"},"meta":{"calculated_at":"2026-07-13T19:19:07.216Z"}}
+{"aggregate":"total_activity_points","contributor":"BSAdhithya","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T19:19:07.213Z"}}

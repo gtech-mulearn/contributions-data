@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"jolsnaphilip","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T14:19:27.875Z"}}
-{"aggregate":"activity_count","contributor":"jolsnaphilip","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T14:19:27.872Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"jolsnaphilip","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T14:19:27.877Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"jolsnaphilip","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T14:19:27.878Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"jolsnaphilip","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T14:19:27.876Z"}}
-{"aggregate":"first_activity_date","contributor":"jolsnaphilip","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-07-13T14:19:27.873Z"}}
-{"aggregate":"last_activity_date","contributor":"jolsnaphilip","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-07-13T14:19:27.874Z"}}
-{"aggregate":"total_activity_points","contributor":"jolsnaphilip","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T14:19:27.871Z"}}
+{"aggregate":"active_days","contributor":"jolsnaphilip","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-13T19:19:11.918Z"}}
+{"aggregate":"activity_count","contributor":"jolsnaphilip","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-13T19:19:11.915Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"jolsnaphilip","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-13T19:19:11.920Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"jolsnaphilip","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-13T19:19:11.921Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"jolsnaphilip","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-13T19:19:11.919Z"}}
+{"aggregate":"first_activity_date","contributor":"jolsnaphilip","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-07-13T19:19:11.916Z"}}
+{"aggregate":"last_activity_date","contributor":"jolsnaphilip","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-07-13T19:19:11.917Z"}}
+{"aggregate":"total_activity_points","contributor":"jolsnaphilip","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-13T19:19:11.914Z"}}
