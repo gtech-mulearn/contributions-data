@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mithun2003","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-14T07:54:32.668Z"}}
-{"aggregate":"activity_count","contributor":"mithun2003","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-14T07:54:32.662Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mithun2003","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-14T07:54:32.670Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mithun2003","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-14T07:54:32.672Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mithun2003","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-14T07:54:32.669Z"}}
-{"aggregate":"first_activity_date","contributor":"mithun2003","value":{"type":"string","value":"2026-04-21"},"meta":{"calculated_at":"2026-07-14T07:54:32.664Z"}}
-{"aggregate":"last_activity_date","contributor":"mithun2003","value":{"type":"string","value":"2026-04-24"},"meta":{"calculated_at":"2026-07-14T07:54:32.666Z"}}
-{"aggregate":"total_activity_points","contributor":"mithun2003","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-14T07:54:32.660Z"}}
+{"aggregate":"active_days","contributor":"mithun2003","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-14T13:21:35.682Z"}}
+{"aggregate":"activity_count","contributor":"mithun2003","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-14T13:21:35.679Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mithun2003","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-14T13:21:35.683Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mithun2003","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-14T13:21:35.684Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mithun2003","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-14T13:21:35.682Z"}}
+{"aggregate":"first_activity_date","contributor":"mithun2003","value":{"type":"string","value":"2026-04-21"},"meta":{"calculated_at":"2026-07-14T13:21:35.680Z"}}
+{"aggregate":"last_activity_date","contributor":"mithun2003","value":{"type":"string","value":"2026-04-24"},"meta":{"calculated_at":"2026-07-14T13:21:35.681Z"}}
+{"aggregate":"total_activity_points","contributor":"mithun2003","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-14T13:21:35.678Z"}}
