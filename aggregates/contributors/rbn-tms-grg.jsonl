@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"rbn-tms-grg","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-14T13:21:38.133Z"}}
-{"aggregate":"activity_count","contributor":"rbn-tms-grg","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-14T13:21:38.131Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"rbn-tms-grg","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-14T13:21:38.135Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"rbn-tms-grg","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-14T13:21:38.136Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"rbn-tms-grg","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-14T13:21:38.134Z"}}
-{"aggregate":"first_activity_date","contributor":"rbn-tms-grg","value":{"type":"string","value":"2025-07-10"},"meta":{"calculated_at":"2026-07-14T13:21:38.132Z"}}
-{"aggregate":"last_activity_date","contributor":"rbn-tms-grg","value":{"type":"string","value":"2025-07-11"},"meta":{"calculated_at":"2026-07-14T13:21:38.133Z"}}
-{"aggregate":"total_activity_points","contributor":"rbn-tms-grg","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-14T13:21:38.130Z"}}
+{"aggregate":"active_days","contributor":"rbn-tms-grg","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-14T19:11:15.666Z"}}
+{"aggregate":"activity_count","contributor":"rbn-tms-grg","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-14T19:11:15.663Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"rbn-tms-grg","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-14T19:11:15.668Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"rbn-tms-grg","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-14T19:11:15.669Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"rbn-tms-grg","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-14T19:11:15.667Z"}}
+{"aggregate":"first_activity_date","contributor":"rbn-tms-grg","value":{"type":"string","value":"2025-07-10"},"meta":{"calculated_at":"2026-07-14T19:11:15.664Z"}}
+{"aggregate":"last_activity_date","contributor":"rbn-tms-grg","value":{"type":"string","value":"2025-07-11"},"meta":{"calculated_at":"2026-07-14T19:11:15.665Z"}}
+{"aggregate":"total_activity_points","contributor":"rbn-tms-grg","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-14T19:11:15.662Z"}}
