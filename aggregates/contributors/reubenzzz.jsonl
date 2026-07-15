@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"reubenzzz","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-15T07:58:31.283Z"}}
-{"aggregate":"activity_count","contributor":"reubenzzz","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-07-15T07:58:31.280Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"reubenzzz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-15T07:58:31.284Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"reubenzzz","value":{"type":"number","value":8,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-15T07:58:31.285Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"reubenzzz","value":{"type":"number","value":5.56,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-15T07:58:31.283Z"}}
-{"aggregate":"first_activity_date","contributor":"reubenzzz","value":{"type":"string","value":"2026-03-27"},"meta":{"calculated_at":"2026-07-15T07:58:31.281Z"}}
-{"aggregate":"last_activity_date","contributor":"reubenzzz","value":{"type":"string","value":"2026-06-17"},"meta":{"calculated_at":"2026-07-15T07:58:31.282Z"}}
-{"aggregate":"total_activity_points","contributor":"reubenzzz","value":{"type":"number","value":50,"format":"integer"},"meta":{"calculated_at":"2026-07-15T07:58:31.279Z"}}
+{"aggregate":"active_days","contributor":"reubenzzz","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-15T13:25:18.163Z"}}
+{"aggregate":"activity_count","contributor":"reubenzzz","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-07-15T13:25:18.161Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"reubenzzz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-15T13:25:18.165Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"reubenzzz","value":{"type":"number","value":8,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-15T13:25:18.166Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"reubenzzz","value":{"type":"number","value":5.56,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-15T13:25:18.164Z"}}
+{"aggregate":"first_activity_date","contributor":"reubenzzz","value":{"type":"string","value":"2026-03-27"},"meta":{"calculated_at":"2026-07-15T13:25:18.161Z"}}
+{"aggregate":"last_activity_date","contributor":"reubenzzz","value":{"type":"string","value":"2026-06-17"},"meta":{"calculated_at":"2026-07-15T13:25:18.162Z"}}
+{"aggregate":"total_activity_points","contributor":"reubenzzz","value":{"type":"number","value":50,"format":"integer"},"meta":{"calculated_at":"2026-07-15T13:25:18.159Z"}}
