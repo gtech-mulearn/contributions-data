@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 264,
+      "value": 265,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-14T19:10:59.501Z",
-      "period_start": "2026-06-14",
-      "period_end": "2026-07-14"
+      "calculated_at": "2026-07-15T01:52:31.455Z",
+      "period_start": "2026-06-15",
+      "period_end": "2026-07-15"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-14T19:10:59.787Z"
+      "calculated_at": "2026-07-15T01:52:31.756Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-14T19:10:59.788Z"
+      "calculated_at": "2026-07-15T01:52:31.757Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 12767,
+      "value": 12768,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-14T19:10:59.789Z"
+      "calculated_at": "2026-07-15T01:52:31.758Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-14T19:10:59.790Z"
+      "calculated_at": "2026-07-15T01:52:31.759Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 26365,
+      "value": 26366,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-14T19:10:59.484Z"
+      "calculated_at": "2026-07-15T01:52:31.437Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-14T19:10:59.483Z"
+      "calculated_at": "2026-07-15T01:52:31.436Z"
     }
   }
 ]
