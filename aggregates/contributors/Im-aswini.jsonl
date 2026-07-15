@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Im-aswini","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-15T01:52:42.807Z"}}
-{"aggregate":"activity_count","contributor":"Im-aswini","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-15T01:52:42.804Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Im-aswini","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-15T01:52:42.809Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Im-aswini","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-15T01:52:42.810Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Im-aswini","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-15T01:52:42.808Z"}}
-{"aggregate":"first_activity_date","contributor":"Im-aswini","value":{"type":"string","value":"2025-09-03"},"meta":{"calculated_at":"2026-07-15T01:52:42.805Z"}}
-{"aggregate":"last_activity_date","contributor":"Im-aswini","value":{"type":"string","value":"2025-09-04"},"meta":{"calculated_at":"2026-07-15T01:52:42.806Z"}}
-{"aggregate":"total_activity_points","contributor":"Im-aswini","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-15T01:52:42.803Z"}}
+{"aggregate":"active_days","contributor":"Im-aswini","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-15T07:58:26.798Z"}}
+{"aggregate":"activity_count","contributor":"Im-aswini","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-15T07:58:26.796Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Im-aswini","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-15T07:58:26.799Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Im-aswini","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-15T07:58:26.800Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Im-aswini","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-15T07:58:26.798Z"}}
+{"aggregate":"first_activity_date","contributor":"Im-aswini","value":{"type":"string","value":"2025-09-03"},"meta":{"calculated_at":"2026-07-15T07:58:26.797Z"}}
+{"aggregate":"last_activity_date","contributor":"Im-aswini","value":{"type":"string","value":"2025-09-04"},"meta":{"calculated_at":"2026-07-15T07:58:26.797Z"}}
+{"aggregate":"total_activity_points","contributor":"Im-aswini","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-15T07:58:26.795Z"}}
