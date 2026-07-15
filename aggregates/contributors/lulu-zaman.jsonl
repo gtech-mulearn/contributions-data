@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"lulu-zaman","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-15T13:25:14.365Z"}}
-{"aggregate":"activity_count","contributor":"lulu-zaman","value":{"type":"number","value":7,"format":"integer"},"meta":{"calculated_at":"2026-07-15T13:25:14.363Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"lulu-zaman","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-15T13:25:14.367Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"lulu-zaman","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-15T13:25:14.368Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"lulu-zaman","value":{"type":"number","value":6.43,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-15T13:25:14.366Z"}}
-{"aggregate":"first_activity_date","contributor":"lulu-zaman","value":{"type":"string","value":"2024-04-15"},"meta":{"calculated_at":"2026-07-15T13:25:14.364Z"}}
-{"aggregate":"last_activity_date","contributor":"lulu-zaman","value":{"type":"string","value":"2024-04-25"},"meta":{"calculated_at":"2026-07-15T13:25:14.365Z"}}
-{"aggregate":"total_activity_points","contributor":"lulu-zaman","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-07-15T13:25:14.362Z"}}
+{"aggregate":"active_days","contributor":"lulu-zaman","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-15T19:03:32.576Z"}}
+{"aggregate":"activity_count","contributor":"lulu-zaman","value":{"type":"number","value":7,"format":"integer"},"meta":{"calculated_at":"2026-07-15T19:03:32.573Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"lulu-zaman","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-15T19:03:32.579Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"lulu-zaman","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-15T19:03:32.580Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"lulu-zaman","value":{"type":"number","value":6.43,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-15T19:03:32.578Z"}}
+{"aggregate":"first_activity_date","contributor":"lulu-zaman","value":{"type":"string","value":"2024-04-15"},"meta":{"calculated_at":"2026-07-15T19:03:32.574Z"}}
+{"aggregate":"last_activity_date","contributor":"lulu-zaman","value":{"type":"string","value":"2024-04-25"},"meta":{"calculated_at":"2026-07-15T19:03:32.575Z"}}
+{"aggregate":"total_activity_points","contributor":"lulu-zaman","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-07-15T19:03:32.572Z"}}
