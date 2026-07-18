@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"MabelSamuel","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-18T07:41:19.729Z"}}
-{"aggregate":"activity_count","contributor":"MabelSamuel","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-18T07:41:19.725Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"MabelSamuel","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-18T07:41:19.731Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"MabelSamuel","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-18T07:41:19.733Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"MabelSamuel","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-18T07:41:19.730Z"}}
-{"aggregate":"first_activity_date","contributor":"MabelSamuel","value":{"type":"string","value":"2025-10-03"},"meta":{"calculated_at":"2026-07-18T07:41:19.726Z"}}
-{"aggregate":"last_activity_date","contributor":"MabelSamuel","value":{"type":"string","value":"2025-10-06"},"meta":{"calculated_at":"2026-07-18T07:41:19.728Z"}}
-{"aggregate":"total_activity_points","contributor":"MabelSamuel","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-18T07:41:19.724Z"}}
+{"aggregate":"active_days","contributor":"MabelSamuel","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-18T13:02:12.564Z"}}
+{"aggregate":"activity_count","contributor":"MabelSamuel","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-18T13:02:12.560Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"MabelSamuel","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-18T13:02:12.566Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"MabelSamuel","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-18T13:02:12.567Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"MabelSamuel","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-18T13:02:12.565Z"}}
+{"aggregate":"first_activity_date","contributor":"MabelSamuel","value":{"type":"string","value":"2025-10-03"},"meta":{"calculated_at":"2026-07-18T13:02:12.561Z"}}
+{"aggregate":"last_activity_date","contributor":"MabelSamuel","value":{"type":"string","value":"2025-10-06"},"meta":{"calculated_at":"2026-07-18T13:02:12.562Z"}}
+{"aggregate":"total_activity_points","contributor":"MabelSamuel","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-18T13:02:12.559Z"}}
