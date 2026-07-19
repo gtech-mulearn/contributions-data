@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"AndrewBastin","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-19T13:04:33.168Z"}}
-{"aggregate":"activity_count","contributor":"AndrewBastin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-19T13:04:33.166Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"AndrewBastin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-19T13:04:33.170Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"AndrewBastin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-19T13:04:33.171Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"AndrewBastin","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-19T13:04:33.169Z"}}
-{"aggregate":"first_activity_date","contributor":"AndrewBastin","value":{"type":"string","value":"2022-06-25"},"meta":{"calculated_at":"2026-07-19T13:04:33.166Z"}}
-{"aggregate":"last_activity_date","contributor":"AndrewBastin","value":{"type":"string","value":"2022-06-25"},"meta":{"calculated_at":"2026-07-19T13:04:33.167Z"}}
-{"aggregate":"total_activity_points","contributor":"AndrewBastin","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-19T13:04:33.165Z"}}
+{"aggregate":"active_days","contributor":"AndrewBastin","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-19T18:59:10.226Z"}}
+{"aggregate":"activity_count","contributor":"AndrewBastin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-19T18:59:10.223Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"AndrewBastin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-19T18:59:10.229Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AndrewBastin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-19T18:59:10.230Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AndrewBastin","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-19T18:59:10.228Z"}}
+{"aggregate":"first_activity_date","contributor":"AndrewBastin","value":{"type":"string","value":"2022-06-25"},"meta":{"calculated_at":"2026-07-19T18:59:10.224Z"}}
+{"aggregate":"last_activity_date","contributor":"AndrewBastin","value":{"type":"string","value":"2022-06-25"},"meta":{"calculated_at":"2026-07-19T18:59:10.225Z"}}
+{"aggregate":"total_activity_points","contributor":"AndrewBastin","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-19T18:59:10.222Z"}}
