@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 244,
+      "value": 230,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-19T18:59:05.392Z",
-      "period_start": "2026-06-19",
-      "period_end": "2026-07-19"
+      "calculated_at": "2026-07-20T03:33:21.068Z",
+      "period_start": "2026-06-20",
+      "period_end": "2026-07-20"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-19T18:59:05.683Z"
+      "calculated_at": "2026-07-20T03:33:21.359Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10343,
+      "value": 10346,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-19T18:59:05.685Z"
+      "calculated_at": "2026-07-20T03:33:21.360Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 12851,
+      "value": 12853,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-19T18:59:05.686Z"
+      "calculated_at": "2026-07-20T03:33:21.361Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-19T18:59:05.688Z"
+      "calculated_at": "2026-07-20T03:33:21.366Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 26561,
+      "value": 26566,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-19T18:59:05.377Z"
+      "calculated_at": "2026-07-20T03:33:21.051Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-19T18:59:05.376Z"
+      "calculated_at": "2026-07-20T03:33:21.049Z"
     }
   }
 ]
