@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aafthxb","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-20T13:55:21.378Z"}}
-{"aggregate":"activity_count","contributor":"aafthxb","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-20T13:55:21.376Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aafthxb","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-20T13:55:21.380Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aafthxb","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-20T13:55:21.380Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aafthxb","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-20T13:55:21.379Z"}}
-{"aggregate":"first_activity_date","contributor":"aafthxb","value":{"type":"string","value":"2025-07-28"},"meta":{"calculated_at":"2026-07-20T13:55:21.377Z"}}
-{"aggregate":"last_activity_date","contributor":"aafthxb","value":{"type":"string","value":"2026-03-31"},"meta":{"calculated_at":"2026-07-20T13:55:21.377Z"}}
-{"aggregate":"total_activity_points","contributor":"aafthxb","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-20T13:55:21.375Z"}}
+{"aggregate":"active_days","contributor":"aafthxb","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-20T19:38:31.043Z"}}
+{"aggregate":"activity_count","contributor":"aafthxb","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-20T19:38:31.040Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aafthxb","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-20T19:38:31.045Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aafthxb","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-20T19:38:31.046Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aafthxb","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-20T19:38:31.044Z"}}
+{"aggregate":"first_activity_date","contributor":"aafthxb","value":{"type":"string","value":"2025-07-28"},"meta":{"calculated_at":"2026-07-20T19:38:31.041Z"}}
+{"aggregate":"last_activity_date","contributor":"aafthxb","value":{"type":"string","value":"2026-03-31"},"meta":{"calculated_at":"2026-07-20T19:38:31.042Z"}}
+{"aggregate":"total_activity_points","contributor":"aafthxb","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-20T19:38:31.039Z"}}
