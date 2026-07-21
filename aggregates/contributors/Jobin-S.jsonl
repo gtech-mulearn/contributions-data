@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Jobin-S","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-21T02:05:59.255Z"}}
-{"aggregate":"activity_count","contributor":"Jobin-S","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-21T02:05:59.252Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Jobin-S","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-21T02:05:59.257Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Jobin-S","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-21T02:05:59.258Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Jobin-S","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-21T02:05:59.256Z"}}
-{"aggregate":"first_activity_date","contributor":"Jobin-S","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-07-21T02:05:59.253Z"}}
-{"aggregate":"last_activity_date","contributor":"Jobin-S","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-07-21T02:05:59.254Z"}}
-{"aggregate":"total_activity_points","contributor":"Jobin-S","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-07-21T02:05:59.252Z"}}
+{"aggregate":"active_days","contributor":"Jobin-S","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-21T08:16:31.880Z"}}
+{"aggregate":"activity_count","contributor":"Jobin-S","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-21T08:16:31.877Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Jobin-S","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-21T08:16:31.881Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Jobin-S","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-21T08:16:31.882Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Jobin-S","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-21T08:16:31.880Z"}}
+{"aggregate":"first_activity_date","contributor":"Jobin-S","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-07-21T08:16:31.878Z"}}
+{"aggregate":"last_activity_date","contributor":"Jobin-S","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-07-21T08:16:31.879Z"}}
+{"aggregate":"total_activity_points","contributor":"Jobin-S","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-07-21T08:16:31.876Z"}}
