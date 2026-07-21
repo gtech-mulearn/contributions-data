@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 230,
+      "value": 226,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-20T19:38:30.533Z",
-      "period_start": "2026-06-20",
-      "period_end": "2026-07-20"
+      "calculated_at": "2026-07-21T02:05:47.832Z",
+      "period_start": "2026-06-21",
+      "period_end": "2026-07-21"
     }
   },
   {
@@ -21,13 +21,13 @@
     "description": "Total number of Issue Opened activities",
     "value": {
       "type": "number",
-      "value": 1016,
+      "value": 1017,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-20T19:38:30.744Z"
+      "calculated_at": "2026-07-21T02:05:48.113Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10365,
+      "value": 10378,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-20T19:38:30.746Z"
+      "calculated_at": "2026-07-21T02:05:48.114Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 12877,
+      "value": 12886,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-20T19:38:30.747Z"
+      "calculated_at": "2026-07-21T02:05:48.115Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-20T19:38:30.748Z"
+      "calculated_at": "2026-07-21T02:05:48.116Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 26764,
+      "value": 26787,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-20T19:38:30.520Z"
+      "calculated_at": "2026-07-21T02:05:47.816Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-20T19:38:30.518Z"
+      "calculated_at": "2026-07-21T02:05:47.814Z"
     }
   }
 ]
