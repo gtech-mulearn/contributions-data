@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"asif-volter","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-21T13:26:04.569Z"}}
-{"aggregate":"activity_count","contributor":"asif-volter","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-21T13:26:04.566Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"asif-volter","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-21T13:26:04.570Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"asif-volter","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-21T13:26:04.571Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"asif-volter","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-21T13:26:04.569Z"}}
-{"aggregate":"first_activity_date","contributor":"asif-volter","value":{"type":"string","value":"2025-07-13"},"meta":{"calculated_at":"2026-07-21T13:26:04.567Z"}}
-{"aggregate":"last_activity_date","contributor":"asif-volter","value":{"type":"string","value":"2025-07-15"},"meta":{"calculated_at":"2026-07-21T13:26:04.568Z"}}
-{"aggregate":"total_activity_points","contributor":"asif-volter","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-21T13:26:04.566Z"}}
+{"aggregate":"active_days","contributor":"asif-volter","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-21T19:14:11.222Z"}}
+{"aggregate":"activity_count","contributor":"asif-volter","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-21T19:14:11.218Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"asif-volter","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-21T19:14:11.231Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"asif-volter","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-21T19:14:11.232Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"asif-volter","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-21T19:14:11.224Z"}}
+{"aggregate":"first_activity_date","contributor":"asif-volter","value":{"type":"string","value":"2025-07-13"},"meta":{"calculated_at":"2026-07-21T19:14:11.220Z"}}
+{"aggregate":"last_activity_date","contributor":"asif-volter","value":{"type":"string","value":"2025-07-15"},"meta":{"calculated_at":"2026-07-21T19:14:11.221Z"}}
+{"aggregate":"total_activity_points","contributor":"asif-volter","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-21T19:14:11.217Z"}}
