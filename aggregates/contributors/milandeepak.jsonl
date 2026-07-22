@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"milandeepak","value":{"type":"number","value":7,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T08:17:43.223Z"}}
-{"aggregate":"activity_count","contributor":"milandeepak","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:43.221Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"milandeepak","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T08:17:43.225Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"milandeepak","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T08:17:43.227Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"milandeepak","value":{"type":"number","value":7.22,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T08:17:43.224Z"}}
-{"aggregate":"first_activity_date","contributor":"milandeepak","value":{"type":"string","value":"2021-10-27"},"meta":{"calculated_at":"2026-07-22T08:17:43.222Z"}}
-{"aggregate":"last_activity_date","contributor":"milandeepak","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-22T08:17:43.222Z"}}
-{"aggregate":"total_activity_points","contributor":"milandeepak","value":{"type":"number","value":65,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:43.220Z"}}
+{"aggregate":"active_days","contributor":"milandeepak","value":{"type":"number","value":7,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T13:30:31.571Z"}}
+{"aggregate":"activity_count","contributor":"milandeepak","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-07-22T13:30:31.568Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"milandeepak","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T13:30:31.572Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"milandeepak","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T13:30:31.573Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"milandeepak","value":{"type":"number","value":7.22,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T13:30:31.572Z"}}
+{"aggregate":"first_activity_date","contributor":"milandeepak","value":{"type":"string","value":"2021-10-27"},"meta":{"calculated_at":"2026-07-22T13:30:31.569Z"}}
+{"aggregate":"last_activity_date","contributor":"milandeepak","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-22T13:30:31.570Z"}}
+{"aggregate":"total_activity_points","contributor":"milandeepak","value":{"type":"number","value":65,"format":"integer"},"meta":{"calculated_at":"2026-07-22T13:30:31.567Z"}}
