@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Aibin-35","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T02:03:40.793Z"}}
-{"aggregate":"activity_count","contributor":"Aibin-35","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-22T02:03:40.790Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Aibin-35","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T02:03:40.794Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Aibin-35","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T02:03:40.795Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Aibin-35","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T02:03:40.793Z"}}
-{"aggregate":"first_activity_date","contributor":"Aibin-35","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-07-22T02:03:40.791Z"}}
-{"aggregate":"last_activity_date","contributor":"Aibin-35","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-07-22T02:03:40.792Z"}}
-{"aggregate":"total_activity_points","contributor":"Aibin-35","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-22T02:03:40.789Z"}}
+{"aggregate":"active_days","contributor":"Aibin-35","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T08:17:31.872Z"}}
+{"aggregate":"activity_count","contributor":"Aibin-35","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:31.869Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Aibin-35","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T08:17:31.873Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Aibin-35","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T08:17:31.874Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Aibin-35","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T08:17:31.873Z"}}
+{"aggregate":"first_activity_date","contributor":"Aibin-35","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-07-22T08:17:31.870Z"}}
+{"aggregate":"last_activity_date","contributor":"Aibin-35","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-07-22T08:17:31.871Z"}}
+{"aggregate":"total_activity_points","contributor":"Aibin-35","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:31.868Z"}}

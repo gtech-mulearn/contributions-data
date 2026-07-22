@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"AmalRNair","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T02:03:42.008Z"}}
-{"aggregate":"activity_count","contributor":"AmalRNair","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-22T02:03:42.005Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"AmalRNair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T02:03:42.009Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"AmalRNair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T02:03:42.010Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"AmalRNair","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T02:03:42.008Z"}}
-{"aggregate":"first_activity_date","contributor":"AmalRNair","value":{"type":"string","value":"2024-05-21"},"meta":{"calculated_at":"2026-07-22T02:03:42.006Z"}}
-{"aggregate":"last_activity_date","contributor":"AmalRNair","value":{"type":"string","value":"2024-06-09"},"meta":{"calculated_at":"2026-07-22T02:03:42.007Z"}}
-{"aggregate":"total_activity_points","contributor":"AmalRNair","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-22T02:03:42.005Z"}}
+{"aggregate":"active_days","contributor":"AmalRNair","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T08:17:33.423Z"}}
+{"aggregate":"activity_count","contributor":"AmalRNair","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:33.420Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"AmalRNair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T08:17:33.425Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AmalRNair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T08:17:33.426Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AmalRNair","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T08:17:33.424Z"}}
+{"aggregate":"first_activity_date","contributor":"AmalRNair","value":{"type":"string","value":"2024-05-21"},"meta":{"calculated_at":"2026-07-22T08:17:33.421Z"}}
+{"aggregate":"last_activity_date","contributor":"AmalRNair","value":{"type":"string","value":"2024-06-09"},"meta":{"calculated_at":"2026-07-22T08:17:33.422Z"}}
+{"aggregate":"total_activity_points","contributor":"AmalRNair","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:33.420Z"}}

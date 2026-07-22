@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"astralpitstop","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T02:03:43.813Z"}}
-{"aggregate":"activity_count","contributor":"astralpitstop","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-22T02:03:43.811Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"astralpitstop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T02:03:43.814Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"astralpitstop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T02:03:43.815Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"astralpitstop","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T02:03:43.814Z"}}
-{"aggregate":"first_activity_date","contributor":"astralpitstop","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-22T02:03:43.812Z"}}
-{"aggregate":"last_activity_date","contributor":"astralpitstop","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-22T02:03:43.812Z"}}
-{"aggregate":"total_activity_points","contributor":"astralpitstop","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-22T02:03:43.810Z"}}
+{"aggregate":"active_days","contributor":"astralpitstop","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T08:17:35.749Z"}}
+{"aggregate":"activity_count","contributor":"astralpitstop","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:35.746Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"astralpitstop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T08:17:35.751Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"astralpitstop","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T08:17:35.752Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"astralpitstop","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T08:17:35.750Z"}}
+{"aggregate":"first_activity_date","contributor":"astralpitstop","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-22T08:17:35.747Z"}}
+{"aggregate":"last_activity_date","contributor":"astralpitstop","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-22T08:17:35.748Z"}}
+{"aggregate":"total_activity_points","contributor":"astralpitstop","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-22T08:17:35.745Z"}}
