@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Anna-Jaison","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-23T02:11:19.452Z"}}
-{"aggregate":"activity_count","contributor":"Anna-Jaison","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-23T02:11:19.448Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Anna-Jaison","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-23T02:11:19.454Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Anna-Jaison","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-23T02:11:19.455Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Anna-Jaison","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-23T02:11:19.452Z"}}
-{"aggregate":"first_activity_date","contributor":"Anna-Jaison","value":{"type":"string","value":"2024-04-14"},"meta":{"calculated_at":"2026-07-23T02:11:19.450Z"}}
-{"aggregate":"last_activity_date","contributor":"Anna-Jaison","value":{"type":"string","value":"2025-06-26"},"meta":{"calculated_at":"2026-07-23T02:11:19.451Z"}}
-{"aggregate":"total_activity_points","contributor":"Anna-Jaison","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-23T02:11:19.448Z"}}
+{"aggregate":"active_days","contributor":"Anna-Jaison","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-23T08:21:20.729Z"}}
+{"aggregate":"activity_count","contributor":"Anna-Jaison","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-23T08:21:20.727Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Anna-Jaison","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-23T08:21:20.730Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Anna-Jaison","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-23T08:21:20.731Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Anna-Jaison","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-23T08:21:20.730Z"}}
+{"aggregate":"first_activity_date","contributor":"Anna-Jaison","value":{"type":"string","value":"2024-04-14"},"meta":{"calculated_at":"2026-07-23T08:21:20.728Z"}}
+{"aggregate":"last_activity_date","contributor":"Anna-Jaison","value":{"type":"string","value":"2025-06-26"},"meta":{"calculated_at":"2026-07-23T08:21:20.728Z"}}
+{"aggregate":"total_activity_points","contributor":"Anna-Jaison","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-23T08:21:20.726Z"}}
