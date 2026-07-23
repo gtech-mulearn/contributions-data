@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"farzisalman","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-22T19:05:21.821Z"}}
-{"aggregate":"activity_count","contributor":"farzisalman","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-22T19:05:21.819Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"farzisalman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-22T19:05:21.823Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"farzisalman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-22T19:05:21.823Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"farzisalman","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-22T19:05:21.822Z"}}
-{"aggregate":"first_activity_date","contributor":"farzisalman","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-07-22T19:05:21.820Z"}}
-{"aggregate":"last_activity_date","contributor":"farzisalman","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-07-22T19:05:21.820Z"}}
-{"aggregate":"total_activity_points","contributor":"farzisalman","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-22T19:05:21.818Z"}}
+{"aggregate":"active_days","contributor":"farzisalman","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-23T02:11:23.769Z"}}
+{"aggregate":"activity_count","contributor":"farzisalman","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-23T02:11:23.766Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"farzisalman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-23T02:11:23.771Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"farzisalman","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-23T02:11:23.772Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"farzisalman","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-23T02:11:23.770Z"}}
+{"aggregate":"first_activity_date","contributor":"farzisalman","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-07-23T02:11:23.767Z"}}
+{"aggregate":"last_activity_date","contributor":"farzisalman","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-07-23T02:11:23.768Z"}}
+{"aggregate":"total_activity_points","contributor":"farzisalman","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-23T02:11:23.765Z"}}

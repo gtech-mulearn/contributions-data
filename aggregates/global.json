@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 216,
+      "value": 213,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-22T19:05:14.457Z",
-      "period_start": "2026-06-22",
-      "period_end": "2026-07-22"
+      "calculated_at": "2026-07-23T02:11:14.589Z",
+      "period_start": "2026-06-23",
+      "period_end": "2026-07-23"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-22T19:05:14.737Z"
+      "calculated_at": "2026-07-23T02:11:14.870Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-22T19:05:14.738Z"
+      "calculated_at": "2026-07-23T02:11:14.871Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 12929,
+      "value": 12931,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-22T19:05:14.739Z"
+      "calculated_at": "2026-07-23T02:11:14.872Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-22T19:05:14.740Z"
+      "calculated_at": "2026-07-23T02:11:14.873Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 26885,
+      "value": 26887,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-22T19:05:14.442Z"
+      "calculated_at": "2026-07-23T02:11:14.573Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-22T19:05:14.440Z"
+      "calculated_at": "2026-07-23T02:11:14.572Z"
     }
   }
 ]
