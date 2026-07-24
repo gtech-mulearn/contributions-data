@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"g-aniketh","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T08:16:37.012Z"}}
-{"aggregate":"activity_count","contributor":"g-aniketh","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:37.009Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"g-aniketh","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T08:16:37.014Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"g-aniketh","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T08:16:37.015Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"g-aniketh","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T08:16:37.013Z"}}
-{"aggregate":"first_activity_date","contributor":"g-aniketh","value":{"type":"string","value":"2023-10-28"},"meta":{"calculated_at":"2026-07-24T08:16:37.010Z"}}
-{"aggregate":"last_activity_date","contributor":"g-aniketh","value":{"type":"string","value":"2023-10-28"},"meta":{"calculated_at":"2026-07-24T08:16:37.011Z"}}
-{"aggregate":"total_activity_points","contributor":"g-aniketh","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:37.008Z"}}
+{"aggregate":"active_days","contributor":"g-aniketh","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T13:25:58.835Z"}}
+{"aggregate":"activity_count","contributor":"g-aniketh","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-24T13:25:58.832Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"g-aniketh","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T13:25:58.837Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"g-aniketh","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T13:25:58.838Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"g-aniketh","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T13:25:58.836Z"}}
+{"aggregate":"first_activity_date","contributor":"g-aniketh","value":{"type":"string","value":"2023-10-28"},"meta":{"calculated_at":"2026-07-24T13:25:58.834Z"}}
+{"aggregate":"last_activity_date","contributor":"g-aniketh","value":{"type":"string","value":"2023-10-28"},"meta":{"calculated_at":"2026-07-24T13:25:58.834Z"}}
+{"aggregate":"total_activity_points","contributor":"g-aniketh","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-24T13:25:58.831Z"}}

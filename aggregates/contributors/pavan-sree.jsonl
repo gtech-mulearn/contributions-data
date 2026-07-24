@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"pavan-sree","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T08:16:43.774Z"}}
-{"aggregate":"activity_count","contributor":"pavan-sree","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:43.770Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"pavan-sree","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T08:16:43.776Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"pavan-sree","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T08:16:43.777Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"pavan-sree","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T08:16:43.775Z"}}
-{"aggregate":"first_activity_date","contributor":"pavan-sree","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-07-24T08:16:43.771Z"}}
-{"aggregate":"last_activity_date","contributor":"pavan-sree","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-07-24T08:16:43.773Z"}}
-{"aggregate":"total_activity_points","contributor":"pavan-sree","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:43.768Z"}}
+{"aggregate":"active_days","contributor":"pavan-sree","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T13:26:05.298Z"}}
+{"aggregate":"activity_count","contributor":"pavan-sree","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-24T13:26:05.295Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"pavan-sree","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T13:26:05.300Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"pavan-sree","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T13:26:05.301Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"pavan-sree","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T13:26:05.299Z"}}
+{"aggregate":"first_activity_date","contributor":"pavan-sree","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-07-24T13:26:05.296Z"}}
+{"aggregate":"last_activity_date","contributor":"pavan-sree","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-07-24T13:26:05.297Z"}}
+{"aggregate":"total_activity_points","contributor":"pavan-sree","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-24T13:26:05.295Z"}}
