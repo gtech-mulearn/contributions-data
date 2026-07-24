@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"adi-code22","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T02:06:42.037Z"}}
-{"aggregate":"activity_count","contributor":"adi-code22","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-24T02:06:42.030Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"adi-code22","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T02:06:42.042Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"adi-code22","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T02:06:42.043Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"adi-code22","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T02:06:42.038Z"}}
-{"aggregate":"first_activity_date","contributor":"adi-code22","value":{"type":"string","value":"2023-10-24"},"meta":{"calculated_at":"2026-07-24T02:06:42.032Z"}}
-{"aggregate":"last_activity_date","contributor":"adi-code22","value":{"type":"string","value":"2023-10-24"},"meta":{"calculated_at":"2026-07-24T02:06:42.036Z"}}
-{"aggregate":"total_activity_points","contributor":"adi-code22","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-24T02:06:42.028Z"}}
+{"aggregate":"active_days","contributor":"adi-code22","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T08:16:28.931Z"}}
+{"aggregate":"activity_count","contributor":"adi-code22","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:28.928Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"adi-code22","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T08:16:28.933Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"adi-code22","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T08:16:28.934Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"adi-code22","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T08:16:28.932Z"}}
+{"aggregate":"first_activity_date","contributor":"adi-code22","value":{"type":"string","value":"2023-10-24"},"meta":{"calculated_at":"2026-07-24T08:16:28.929Z"}}
+{"aggregate":"last_activity_date","contributor":"adi-code22","value":{"type":"string","value":"2023-10-24"},"meta":{"calculated_at":"2026-07-24T08:16:28.930Z"}}
+{"aggregate":"total_activity_points","contributor":"adi-code22","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:28.927Z"}}

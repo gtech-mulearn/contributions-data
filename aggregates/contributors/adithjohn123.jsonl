@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"adithjohn123","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T02:06:42.124Z"}}
-{"aggregate":"activity_count","contributor":"adithjohn123","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-24T02:06:42.120Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"adithjohn123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T02:06:42.129Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"adithjohn123","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T02:06:42.130Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"adithjohn123","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T02:06:42.126Z"}}
-{"aggregate":"first_activity_date","contributor":"adithjohn123","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-07-24T02:06:42.121Z"}}
-{"aggregate":"last_activity_date","contributor":"adithjohn123","value":{"type":"string","value":"2025-03-23"},"meta":{"calculated_at":"2026-07-24T02:06:42.123Z"}}
-{"aggregate":"total_activity_points","contributor":"adithjohn123","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-24T02:06:42.119Z"}}
+{"aggregate":"active_days","contributor":"adithjohn123","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-24T08:16:28.976Z"}}
+{"aggregate":"activity_count","contributor":"adithjohn123","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:28.974Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"adithjohn123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-24T08:16:28.978Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"adithjohn123","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-24T08:16:28.979Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"adithjohn123","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-24T08:16:28.977Z"}}
+{"aggregate":"first_activity_date","contributor":"adithjohn123","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-07-24T08:16:28.975Z"}}
+{"aggregate":"last_activity_date","contributor":"adithjohn123","value":{"type":"string","value":"2025-03-23"},"meta":{"calculated_at":"2026-07-24T08:16:28.975Z"}}
+{"aggregate":"total_activity_points","contributor":"adithjohn123","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-24T08:16:28.973Z"}}
