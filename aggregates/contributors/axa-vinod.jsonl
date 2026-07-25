@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"axa-vinod","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-25T02:06:05.088Z"}}
-{"aggregate":"activity_count","contributor":"axa-vinod","value":{"type":"number","value":5,"format":"integer"},"meta":{"calculated_at":"2026-07-25T02:06:05.086Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"axa-vinod","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-25T02:06:05.090Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"axa-vinod","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-25T02:06:05.090Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"axa-vinod","value":{"type":"number","value":6,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-25T02:06:05.089Z"}}
-{"aggregate":"first_activity_date","contributor":"axa-vinod","value":{"type":"string","value":"2025-04-22"},"meta":{"calculated_at":"2026-07-25T02:06:05.087Z"}}
-{"aggregate":"last_activity_date","contributor":"axa-vinod","value":{"type":"string","value":"2026-07-02"},"meta":{"calculated_at":"2026-07-25T02:06:05.087Z"}}
-{"aggregate":"total_activity_points","contributor":"axa-vinod","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-07-25T02:06:05.085Z"}}
+{"aggregate":"active_days","contributor":"axa-vinod","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-25T07:58:43.050Z"}}
+{"aggregate":"activity_count","contributor":"axa-vinod","value":{"type":"number","value":5,"format":"integer"},"meta":{"calculated_at":"2026-07-25T07:58:43.047Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"axa-vinod","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-25T07:58:43.052Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"axa-vinod","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-25T07:58:43.053Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"axa-vinod","value":{"type":"number","value":6,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-25T07:58:43.051Z"}}
+{"aggregate":"first_activity_date","contributor":"axa-vinod","value":{"type":"string","value":"2025-04-22"},"meta":{"calculated_at":"2026-07-25T07:58:43.049Z"}}
+{"aggregate":"last_activity_date","contributor":"axa-vinod","value":{"type":"string","value":"2026-07-02"},"meta":{"calculated_at":"2026-07-25T07:58:43.049Z"}}
+{"aggregate":"total_activity_points","contributor":"axa-vinod","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-07-25T07:58:43.046Z"}}

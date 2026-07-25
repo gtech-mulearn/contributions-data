@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"arnolddenzil","value":{"type":"number","value":12,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-25T02:06:04.059Z"}}
-{"aggregate":"activity_count","contributor":"arnolddenzil","value":{"type":"number","value":18,"format":"integer"},"meta":{"calculated_at":"2026-07-25T02:06:04.056Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"arnolddenzil","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-25T02:06:04.061Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"arnolddenzil","value":{"type":"number","value":11,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-25T02:06:04.062Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"arnolddenzil","value":{"type":"number","value":6.94,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-25T02:06:04.060Z"}}
-{"aggregate":"first_activity_date","contributor":"arnolddenzil","value":{"type":"string","value":"2022-05-12"},"meta":{"calculated_at":"2026-07-25T02:06:04.057Z"}}
-{"aggregate":"last_activity_date","contributor":"arnolddenzil","value":{"type":"string","value":"2023-07-22"},"meta":{"calculated_at":"2026-07-25T02:06:04.058Z"}}
-{"aggregate":"total_activity_points","contributor":"arnolddenzil","value":{"type":"number","value":125,"format":"integer"},"meta":{"calculated_at":"2026-07-25T02:06:04.056Z"}}
+{"aggregate":"active_days","contributor":"arnolddenzil","value":{"type":"number","value":12,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-25T07:58:41.863Z"}}
+{"aggregate":"activity_count","contributor":"arnolddenzil","value":{"type":"number","value":18,"format":"integer"},"meta":{"calculated_at":"2026-07-25T07:58:41.860Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"arnolddenzil","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-25T07:58:41.865Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"arnolddenzil","value":{"type":"number","value":11,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-25T07:58:41.866Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"arnolddenzil","value":{"type":"number","value":6.94,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-25T07:58:41.864Z"}}
+{"aggregate":"first_activity_date","contributor":"arnolddenzil","value":{"type":"string","value":"2022-05-12"},"meta":{"calculated_at":"2026-07-25T07:58:41.861Z"}}
+{"aggregate":"last_activity_date","contributor":"arnolddenzil","value":{"type":"string","value":"2023-07-22"},"meta":{"calculated_at":"2026-07-25T07:58:41.862Z"}}
+{"aggregate":"total_activity_points","contributor":"arnolddenzil","value":{"type":"number","value":125,"format":"integer"},"meta":{"calculated_at":"2026-07-25T07:58:41.859Z"}}
