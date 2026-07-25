@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mishal-scet","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-25T13:11:50.600Z"}}
-{"aggregate":"activity_count","contributor":"mishal-scet","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-25T13:11:50.597Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mishal-scet","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-25T13:11:50.601Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mishal-scet","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-25T13:11:50.602Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mishal-scet","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-25T13:11:50.600Z"}}
-{"aggregate":"first_activity_date","contributor":"mishal-scet","value":{"type":"string","value":"2025-06-14"},"meta":{"calculated_at":"2026-07-25T13:11:50.598Z"}}
-{"aggregate":"last_activity_date","contributor":"mishal-scet","value":{"type":"string","value":"2025-06-14"},"meta":{"calculated_at":"2026-07-25T13:11:50.599Z"}}
-{"aggregate":"total_activity_points","contributor":"mishal-scet","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-25T13:11:50.596Z"}}
+{"aggregate":"active_days","contributor":"mishal-scet","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-25T19:00:06.684Z"}}
+{"aggregate":"activity_count","contributor":"mishal-scet","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-25T19:00:06.681Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mishal-scet","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-25T19:00:06.685Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mishal-scet","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-25T19:00:06.686Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mishal-scet","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-25T19:00:06.684Z"}}
+{"aggregate":"first_activity_date","contributor":"mishal-scet","value":{"type":"string","value":"2025-06-14"},"meta":{"calculated_at":"2026-07-25T19:00:06.682Z"}}
+{"aggregate":"last_activity_date","contributor":"mishal-scet","value":{"type":"string","value":"2025-06-14"},"meta":{"calculated_at":"2026-07-25T19:00:06.683Z"}}
+{"aggregate":"total_activity_points","contributor":"mishal-scet","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-25T19:00:06.681Z"}}
