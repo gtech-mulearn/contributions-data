@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"niyamaryl","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-26T02:10:59.167Z"}}
-{"aggregate":"activity_count","contributor":"niyamaryl","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-26T02:10:59.165Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"niyamaryl","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-26T02:10:59.169Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"niyamaryl","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-26T02:10:59.170Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"niyamaryl","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-26T02:10:59.168Z"}}
-{"aggregate":"first_activity_date","contributor":"niyamaryl","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-07-26T02:10:59.166Z"}}
-{"aggregate":"last_activity_date","contributor":"niyamaryl","value":{"type":"string","value":"2026-07-06"},"meta":{"calculated_at":"2026-07-26T02:10:59.167Z"}}
-{"aggregate":"total_activity_points","contributor":"niyamaryl","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-26T02:10:59.164Z"}}
+{"aggregate":"active_days","contributor":"niyamaryl","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-26T08:16:34.869Z"}}
+{"aggregate":"activity_count","contributor":"niyamaryl","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-26T08:16:34.866Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"niyamaryl","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-26T08:16:34.871Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"niyamaryl","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-26T08:16:34.871Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"niyamaryl","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-26T08:16:34.870Z"}}
+{"aggregate":"first_activity_date","contributor":"niyamaryl","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-07-26T08:16:34.867Z"}}
+{"aggregate":"last_activity_date","contributor":"niyamaryl","value":{"type":"string","value":"2026-07-06"},"meta":{"calculated_at":"2026-07-26T08:16:34.868Z"}}
+{"aggregate":"total_activity_points","contributor":"niyamaryl","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-26T08:16:34.865Z"}}
