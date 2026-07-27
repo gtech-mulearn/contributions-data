@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"hatter0-0","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-27T09:41:05.369Z"}}
-{"aggregate":"activity_count","contributor":"hatter0-0","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-27T09:41:05.365Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"hatter0-0","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-27T09:41:05.371Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"hatter0-0","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-27T09:41:05.372Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"hatter0-0","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-27T09:41:05.370Z"}}
-{"aggregate":"first_activity_date","contributor":"hatter0-0","value":{"type":"string","value":"2025-09-01"},"meta":{"calculated_at":"2026-07-27T09:41:05.366Z"}}
-{"aggregate":"last_activity_date","contributor":"hatter0-0","value":{"type":"string","value":"2025-09-03"},"meta":{"calculated_at":"2026-07-27T09:41:05.367Z"}}
-{"aggregate":"total_activity_points","contributor":"hatter0-0","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-27T09:41:05.364Z"}}
+{"aggregate":"active_days","contributor":"hatter0-0","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-27T14:20:07.926Z"}}
+{"aggregate":"activity_count","contributor":"hatter0-0","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-07-27T14:20:07.924Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"hatter0-0","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-27T14:20:07.928Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"hatter0-0","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-27T14:20:07.929Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"hatter0-0","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-27T14:20:07.927Z"}}
+{"aggregate":"first_activity_date","contributor":"hatter0-0","value":{"type":"string","value":"2025-09-01"},"meta":{"calculated_at":"2026-07-27T14:20:07.925Z"}}
+{"aggregate":"last_activity_date","contributor":"hatter0-0","value":{"type":"string","value":"2025-09-03"},"meta":{"calculated_at":"2026-07-27T14:20:07.926Z"}}
+{"aggregate":"total_activity_points","contributor":"hatter0-0","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-07-27T14:20:07.923Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Ha-Abhi","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-27T09:41:05.032Z"}}
-{"aggregate":"activity_count","contributor":"Ha-Abhi","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-27T09:41:05.029Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Ha-Abhi","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-27T09:41:05.034Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Ha-Abhi","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-27T09:41:05.035Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Ha-Abhi","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-27T09:41:05.033Z"}}
-{"aggregate":"first_activity_date","contributor":"Ha-Abhi","value":{"type":"string","value":"2026-06-22"},"meta":{"calculated_at":"2026-07-27T09:41:05.030Z"}}
-{"aggregate":"last_activity_date","contributor":"Ha-Abhi","value":{"type":"string","value":"2026-06-22"},"meta":{"calculated_at":"2026-07-27T09:41:05.031Z"}}
-{"aggregate":"total_activity_points","contributor":"Ha-Abhi","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-27T09:41:05.028Z"}}
+{"aggregate":"active_days","contributor":"Ha-Abhi","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-27T14:20:07.630Z"}}
+{"aggregate":"activity_count","contributor":"Ha-Abhi","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-27T14:20:07.628Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Ha-Abhi","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-27T14:20:07.632Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Ha-Abhi","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-27T14:20:07.633Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Ha-Abhi","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-27T14:20:07.631Z"}}
+{"aggregate":"first_activity_date","contributor":"Ha-Abhi","value":{"type":"string","value":"2026-06-22"},"meta":{"calculated_at":"2026-07-27T14:20:07.628Z"}}
+{"aggregate":"last_activity_date","contributor":"Ha-Abhi","value":{"type":"string","value":"2026-06-22"},"meta":{"calculated_at":"2026-07-27T14:20:07.629Z"}}
+{"aggregate":"total_activity_points","contributor":"Ha-Abhi","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-27T14:20:07.627Z"}}
