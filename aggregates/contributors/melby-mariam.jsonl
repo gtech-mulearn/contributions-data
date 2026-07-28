@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"melby-mariam","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-28T08:27:40.643Z"}}
-{"aggregate":"activity_count","contributor":"melby-mariam","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-28T08:27:40.638Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"melby-mariam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-28T08:27:40.646Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"melby-mariam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-28T08:27:40.647Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"melby-mariam","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-28T08:27:40.644Z"}}
-{"aggregate":"first_activity_date","contributor":"melby-mariam","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-07-28T08:27:40.640Z"}}
-{"aggregate":"last_activity_date","contributor":"melby-mariam","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-28T08:27:40.641Z"}}
-{"aggregate":"total_activity_points","contributor":"melby-mariam","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-28T08:27:40.637Z"}}
+{"aggregate":"active_days","contributor":"melby-mariam","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-28T13:54:05.137Z"}}
+{"aggregate":"activity_count","contributor":"melby-mariam","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-28T13:54:05.121Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"melby-mariam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-28T13:54:05.144Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"melby-mariam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-28T13:54:05.152Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"melby-mariam","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-28T13:54:05.143Z"}}
+{"aggregate":"first_activity_date","contributor":"melby-mariam","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-07-28T13:54:05.123Z"}}
+{"aggregate":"last_activity_date","contributor":"melby-mariam","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-28T13:54:05.135Z"}}
+{"aggregate":"total_activity_points","contributor":"melby-mariam","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-28T13:54:05.114Z"}}
