@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"nandu-ncs","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-29T08:31:28.599Z"}}
-{"aggregate":"activity_count","contributor":"nandu-ncs","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-29T08:31:28.596Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"nandu-ncs","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-29T08:31:28.600Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"nandu-ncs","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-29T08:31:28.601Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"nandu-ncs","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-29T08:31:28.599Z"}}
-{"aggregate":"first_activity_date","contributor":"nandu-ncs","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-07-29T08:31:28.597Z"}}
-{"aggregate":"last_activity_date","contributor":"nandu-ncs","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-29T08:31:28.598Z"}}
-{"aggregate":"total_activity_points","contributor":"nandu-ncs","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-29T08:31:28.595Z"}}
+{"aggregate":"active_days","contributor":"nandu-ncs","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-29T13:56:42.567Z"}}
+{"aggregate":"activity_count","contributor":"nandu-ncs","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-29T13:56:42.565Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"nandu-ncs","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-29T13:56:42.568Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"nandu-ncs","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-29T13:56:42.569Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"nandu-ncs","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-29T13:56:42.567Z"}}
+{"aggregate":"first_activity_date","contributor":"nandu-ncs","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-07-29T13:56:42.565Z"}}
+{"aggregate":"last_activity_date","contributor":"nandu-ncs","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-07-29T13:56:42.566Z"}}
+{"aggregate":"total_activity_points","contributor":"nandu-ncs","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-29T13:56:42.564Z"}}
