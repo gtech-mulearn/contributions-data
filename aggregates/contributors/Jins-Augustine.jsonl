@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Jins-Augustine","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-29T02:02:45.696Z"}}
-{"aggregate":"activity_count","contributor":"Jins-Augustine","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-29T02:02:45.693Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Jins-Augustine","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-29T02:02:45.698Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Jins-Augustine","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-29T02:02:45.699Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Jins-Augustine","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-29T02:02:45.697Z"}}
-{"aggregate":"first_activity_date","contributor":"Jins-Augustine","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-07-29T02:02:45.694Z"}}
-{"aggregate":"last_activity_date","contributor":"Jins-Augustine","value":{"type":"string","value":"2026-07-02"},"meta":{"calculated_at":"2026-07-29T02:02:45.695Z"}}
-{"aggregate":"total_activity_points","contributor":"Jins-Augustine","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-29T02:02:45.692Z"}}
+{"aggregate":"active_days","contributor":"Jins-Augustine","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-29T08:31:25.074Z"}}
+{"aggregate":"activity_count","contributor":"Jins-Augustine","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-07-29T08:31:25.071Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Jins-Augustine","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-29T08:31:25.075Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Jins-Augustine","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-29T08:31:25.076Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Jins-Augustine","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-29T08:31:25.074Z"}}
+{"aggregate":"first_activity_date","contributor":"Jins-Augustine","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-07-29T08:31:25.071Z"}}
+{"aggregate":"last_activity_date","contributor":"Jins-Augustine","value":{"type":"string","value":"2026-07-02"},"meta":{"calculated_at":"2026-07-29T08:31:25.073Z"}}
+{"aggregate":"total_activity_points","contributor":"Jins-Augustine","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-07-29T08:31:25.070Z"}}
