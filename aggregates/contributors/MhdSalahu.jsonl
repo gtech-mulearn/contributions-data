@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"MhdSalahu","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-30T08:16:15.316Z"}}
-{"aggregate":"activity_count","contributor":"MhdSalahu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-30T08:16:15.302Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"MhdSalahu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-30T08:16:15.324Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"MhdSalahu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-30T08:16:15.325Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"MhdSalahu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-30T08:16:15.323Z"}}
-{"aggregate":"first_activity_date","contributor":"MhdSalahu","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-30T08:16:15.310Z"}}
-{"aggregate":"last_activity_date","contributor":"MhdSalahu","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-30T08:16:15.315Z"}}
-{"aggregate":"total_activity_points","contributor":"MhdSalahu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-30T08:16:15.301Z"}}
+{"aggregate":"active_days","contributor":"MhdSalahu","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-30T13:47:24.321Z"}}
+{"aggregate":"activity_count","contributor":"MhdSalahu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-30T13:47:24.317Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"MhdSalahu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-30T13:47:24.323Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"MhdSalahu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-30T13:47:24.324Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"MhdSalahu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-30T13:47:24.322Z"}}
+{"aggregate":"first_activity_date","contributor":"MhdSalahu","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-07-30T13:47:24.319Z"}}
+{"aggregate":"last_activity_date","contributor":"MhdSalahu","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-07-30T13:47:24.320Z"}}
+{"aggregate":"total_activity_points","contributor":"MhdSalahu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-30T13:47:24.316Z"}}
