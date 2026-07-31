@@ -10,7 +10,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-31T08:41:35.702Z",
+      "calculated_at": "2026-07-31T13:51:30.646Z",
       "period_start": "2026-07-01",
       "period_end": "2026-07-31"
     }
@@ -21,13 +21,13 @@
     "description": "Total number of Issue Opened activities",
     "value": {
       "type": "number",
-      "value": 1062,
+      "value": 1063,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-07-31T08:41:35.994Z"
+      "calculated_at": "2026-07-31T13:51:30.932Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10497,
+      "value": 10500,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-07-31T08:41:35.996Z"
+      "calculated_at": "2026-07-31T13:51:30.934Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 13023,
+      "value": 13025,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-07-31T08:41:35.997Z"
+      "calculated_at": "2026-07-31T13:51:30.935Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-07-31T08:41:35.997Z"
+      "calculated_at": "2026-07-31T13:51:30.935Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27091,
+      "value": 27097,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-31T08:41:35.688Z"
+      "calculated_at": "2026-07-31T13:51:30.630Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-07-31T08:41:35.686Z"
+      "calculated_at": "2026-07-31T13:51:30.629Z"
     }
   }
 ]
