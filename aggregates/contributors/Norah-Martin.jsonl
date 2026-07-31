@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Norah-Martin","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-31T02:11:49.059Z"}}
-{"aggregate":"activity_count","contributor":"Norah-Martin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-31T02:11:49.056Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Norah-Martin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-31T02:11:49.063Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Norah-Martin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-31T02:11:49.064Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Norah-Martin","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-31T02:11:49.059Z"}}
-{"aggregate":"first_activity_date","contributor":"Norah-Martin","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-31T02:11:49.057Z"}}
-{"aggregate":"last_activity_date","contributor":"Norah-Martin","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-31T02:11:49.058Z"}}
-{"aggregate":"total_activity_points","contributor":"Norah-Martin","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-31T02:11:49.055Z"}}
+{"aggregate":"active_days","contributor":"Norah-Martin","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-31T08:41:49.043Z"}}
+{"aggregate":"activity_count","contributor":"Norah-Martin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-31T08:41:49.041Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Norah-Martin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-31T08:41:49.045Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Norah-Martin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-31T08:41:49.046Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Norah-Martin","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-31T08:41:49.044Z"}}
+{"aggregate":"first_activity_date","contributor":"Norah-Martin","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-31T08:41:49.042Z"}}
+{"aggregate":"last_activity_date","contributor":"Norah-Martin","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-07-31T08:41:49.043Z"}}
+{"aggregate":"total_activity_points","contributor":"Norah-Martin","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-31T08:41:49.040Z"}}

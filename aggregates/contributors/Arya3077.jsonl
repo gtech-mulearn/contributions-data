@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Arya3077","value":{"type":"number","value":21,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-31T02:11:38.900Z"}}
-{"aggregate":"activity_count","contributor":"Arya3077","value":{"type":"number","value":31,"format":"integer"},"meta":{"calculated_at":"2026-07-31T02:11:38.898Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Arya3077","value":{"type":"number","value":13,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-31T02:11:38.902Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Arya3077","value":{"type":"number","value":18,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-31T02:11:38.904Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Arya3077","value":{"type":"number","value":7.1,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-31T02:11:38.901Z"}}
-{"aggregate":"first_activity_date","contributor":"Arya3077","value":{"type":"string","value":"2025-06-12"},"meta":{"calculated_at":"2026-07-31T02:11:38.899Z"}}
-{"aggregate":"last_activity_date","contributor":"Arya3077","value":{"type":"string","value":"2026-07-25"},"meta":{"calculated_at":"2026-07-31T02:11:38.900Z"}}
-{"aggregate":"total_activity_points","contributor":"Arya3077","value":{"type":"number","value":220,"format":"integer"},"meta":{"calculated_at":"2026-07-31T02:11:38.897Z"}}
+{"aggregate":"active_days","contributor":"Arya3077","value":{"type":"number","value":21,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-31T08:41:40.628Z"}}
+{"aggregate":"activity_count","contributor":"Arya3077","value":{"type":"number","value":31,"format":"integer"},"meta":{"calculated_at":"2026-07-31T08:41:40.626Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Arya3077","value":{"type":"number","value":13,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-31T08:41:40.629Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Arya3077","value":{"type":"number","value":18,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-31T08:41:40.630Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Arya3077","value":{"type":"number","value":7.1,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-31T08:41:40.629Z"}}
+{"aggregate":"first_activity_date","contributor":"Arya3077","value":{"type":"string","value":"2025-06-12"},"meta":{"calculated_at":"2026-07-31T08:41:40.626Z"}}
+{"aggregate":"last_activity_date","contributor":"Arya3077","value":{"type":"string","value":"2026-07-25"},"meta":{"calculated_at":"2026-07-31T08:41:40.627Z"}}
+{"aggregate":"total_activity_points","contributor":"Arya3077","value":{"type":"number","value":220,"format":"integer"},"meta":{"calculated_at":"2026-07-31T08:41:40.625Z"}}

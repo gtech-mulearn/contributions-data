@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"DonaSiby","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-31T02:11:41.824Z"}}
-{"aggregate":"activity_count","contributor":"DonaSiby","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-31T02:11:41.822Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"DonaSiby","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-31T02:11:41.827Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"DonaSiby","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-31T02:11:41.828Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"DonaSiby","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-31T02:11:41.826Z"}}
-{"aggregate":"first_activity_date","contributor":"DonaSiby","value":{"type":"string","value":"2024-04-16"},"meta":{"calculated_at":"2026-07-31T02:11:41.823Z"}}
-{"aggregate":"last_activity_date","contributor":"DonaSiby","value":{"type":"string","value":"2024-04-16"},"meta":{"calculated_at":"2026-07-31T02:11:41.823Z"}}
-{"aggregate":"total_activity_points","contributor":"DonaSiby","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-31T02:11:41.821Z"}}
+{"aggregate":"active_days","contributor":"DonaSiby","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-07-31T08:41:43.035Z"}}
+{"aggregate":"activity_count","contributor":"DonaSiby","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-07-31T08:41:43.033Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"DonaSiby","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-07-31T08:41:43.037Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"DonaSiby","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-07-31T08:41:43.037Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"DonaSiby","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-07-31T08:41:43.036Z"}}
+{"aggregate":"first_activity_date","contributor":"DonaSiby","value":{"type":"string","value":"2024-04-16"},"meta":{"calculated_at":"2026-07-31T08:41:43.033Z"}}
+{"aggregate":"last_activity_date","contributor":"DonaSiby","value":{"type":"string","value":"2024-04-16"},"meta":{"calculated_at":"2026-07-31T08:41:43.035Z"}}
+{"aggregate":"total_activity_points","contributor":"DonaSiby","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-07-31T08:41:43.032Z"}}
