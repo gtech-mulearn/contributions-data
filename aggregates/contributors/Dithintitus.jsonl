@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Dithintitus","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T08:11:34.994Z"}}
-{"aggregate":"activity_count","contributor":"Dithintitus","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T08:11:34.991Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Dithintitus","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T08:11:34.996Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Dithintitus","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T08:11:34.997Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Dithintitus","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T08:11:34.995Z"}}
-{"aggregate":"first_activity_date","contributor":"Dithintitus","value":{"type":"string","value":"2026-01-26"},"meta":{"calculated_at":"2026-08-01T08:11:34.992Z"}}
-{"aggregate":"last_activity_date","contributor":"Dithintitus","value":{"type":"string","value":"2026-01-29"},"meta":{"calculated_at":"2026-08-01T08:11:34.993Z"}}
-{"aggregate":"total_activity_points","contributor":"Dithintitus","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T08:11:34.991Z"}}
+{"aggregate":"active_days","contributor":"Dithintitus","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T13:06:28.159Z"}}
+{"aggregate":"activity_count","contributor":"Dithintitus","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T13:06:28.156Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Dithintitus","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T13:06:28.160Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Dithintitus","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T13:06:28.161Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Dithintitus","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T13:06:28.159Z"}}
+{"aggregate":"first_activity_date","contributor":"Dithintitus","value":{"type":"string","value":"2026-01-26"},"meta":{"calculated_at":"2026-08-01T13:06:28.157Z"}}
+{"aggregate":"last_activity_date","contributor":"Dithintitus","value":{"type":"string","value":"2026-01-29"},"meta":{"calculated_at":"2026-08-01T13:06:28.158Z"}}
+{"aggregate":"total_activity_points","contributor":"Dithintitus","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T13:06:28.156Z"}}
