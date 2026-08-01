@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"hemangsrr","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T13:06:29.871Z"}}
-{"aggregate":"activity_count","contributor":"hemangsrr","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T13:06:29.868Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"hemangsrr","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T13:06:29.872Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"hemangsrr","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T13:06:29.873Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"hemangsrr","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T13:06:29.871Z"}}
-{"aggregate":"first_activity_date","contributor":"hemangsrr","value":{"type":"string","value":"2023-10-18"},"meta":{"calculated_at":"2026-08-01T13:06:29.869Z"}}
-{"aggregate":"last_activity_date","contributor":"hemangsrr","value":{"type":"string","value":"2023-10-18"},"meta":{"calculated_at":"2026-08-01T13:06:29.870Z"}}
-{"aggregate":"total_activity_points","contributor":"hemangsrr","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T13:06:29.868Z"}}
+{"aggregate":"active_days","contributor":"hemangsrr","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T19:01:51.942Z"}}
+{"aggregate":"activity_count","contributor":"hemangsrr","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T19:01:51.940Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"hemangsrr","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T19:01:51.944Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"hemangsrr","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T19:01:51.945Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"hemangsrr","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T19:01:51.943Z"}}
+{"aggregate":"first_activity_date","contributor":"hemangsrr","value":{"type":"string","value":"2023-10-18"},"meta":{"calculated_at":"2026-08-01T19:01:51.941Z"}}
+{"aggregate":"last_activity_date","contributor":"hemangsrr","value":{"type":"string","value":"2023-10-18"},"meta":{"calculated_at":"2026-08-01T19:01:51.942Z"}}
+{"aggregate":"total_activity_points","contributor":"hemangsrr","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T19:01:51.939Z"}}

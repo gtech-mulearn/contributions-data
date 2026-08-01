@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"abhishek4me","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T13:06:22.431Z"}}
-{"aggregate":"activity_count","contributor":"abhishek4me","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T13:06:22.428Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"abhishek4me","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T13:06:22.432Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"abhishek4me","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T13:06:22.433Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"abhishek4me","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T13:06:22.431Z"}}
-{"aggregate":"first_activity_date","contributor":"abhishek4me","value":{"type":"string","value":"2026-06-20"},"meta":{"calculated_at":"2026-08-01T13:06:22.429Z"}}
-{"aggregate":"last_activity_date","contributor":"abhishek4me","value":{"type":"string","value":"2026-06-21"},"meta":{"calculated_at":"2026-08-01T13:06:22.430Z"}}
-{"aggregate":"total_activity_points","contributor":"abhishek4me","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T13:06:22.428Z"}}
+{"aggregate":"active_days","contributor":"abhishek4me","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T19:01:43.218Z"}}
+{"aggregate":"activity_count","contributor":"abhishek4me","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T19:01:43.215Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"abhishek4me","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T19:01:43.219Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"abhishek4me","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T19:01:43.220Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"abhishek4me","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T19:01:43.219Z"}}
+{"aggregate":"first_activity_date","contributor":"abhishek4me","value":{"type":"string","value":"2026-06-20"},"meta":{"calculated_at":"2026-08-01T19:01:43.216Z"}}
+{"aggregate":"last_activity_date","contributor":"abhishek4me","value":{"type":"string","value":"2026-06-21"},"meta":{"calculated_at":"2026-08-01T19:01:43.217Z"}}
+{"aggregate":"total_activity_points","contributor":"abhishek4me","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T19:01:43.214Z"}}
