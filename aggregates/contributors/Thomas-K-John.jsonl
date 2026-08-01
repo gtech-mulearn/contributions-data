@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Thomas-K-John","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T02:13:11.975Z"}}
-{"aggregate":"activity_count","contributor":"Thomas-K-John","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T02:13:11.972Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Thomas-K-John","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T02:13:11.976Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Thomas-K-John","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T02:13:11.977Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Thomas-K-John","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T02:13:11.975Z"}}
-{"aggregate":"first_activity_date","contributor":"Thomas-K-John","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-01T02:13:11.973Z"}}
-{"aggregate":"last_activity_date","contributor":"Thomas-K-John","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-01T02:13:11.974Z"}}
-{"aggregate":"total_activity_points","contributor":"Thomas-K-John","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T02:13:11.971Z"}}
+{"aggregate":"active_days","contributor":"Thomas-K-John","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-01T08:11:48.484Z"}}
+{"aggregate":"activity_count","contributor":"Thomas-K-John","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-01T08:11:48.481Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Thomas-K-John","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-01T08:11:48.486Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Thomas-K-John","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-01T08:11:48.487Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Thomas-K-John","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-01T08:11:48.485Z"}}
+{"aggregate":"first_activity_date","contributor":"Thomas-K-John","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-01T08:11:48.482Z"}}
+{"aggregate":"last_activity_date","contributor":"Thomas-K-John","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-01T08:11:48.483Z"}}
+{"aggregate":"total_activity_points","contributor":"Thomas-K-John","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-01T08:11:48.477Z"}}
