@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 130,
+      "value": 101,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-01T19:01:42.034Z",
-      "period_start": "2026-07-02",
-      "period_end": "2026-08-01"
+      "calculated_at": "2026-08-02T02:09:44.330Z",
+      "period_start": "2026-07-03",
+      "period_end": "2026-08-02"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-01T19:01:42.333Z"
+      "calculated_at": "2026-08-02T02:09:44.615Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-01T19:01:42.334Z"
+      "calculated_at": "2026-08-02T02:09:44.616Z"
     }
   },
   {
@@ -57,7 +57,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-01T19:01:42.335Z"
+      "calculated_at": "2026-08-02T02:09:44.617Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-01T19:01:42.336Z"
+      "calculated_at": "2026-08-02T02:09:44.618Z"
     }
   },
   {
@@ -86,7 +86,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-01T19:01:42.017Z"
+      "calculated_at": "2026-08-02T02:09:44.310Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-01T19:01:42.016Z"
+      "calculated_at": "2026-08-02T02:09:44.309Z"
     }
   }
 ]
