@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"MubashirReal","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-03T02:11:41.728Z"}}
-{"aggregate":"activity_count","contributor":"MubashirReal","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-03T02:11:41.726Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"MubashirReal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-03T02:11:41.730Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"MubashirReal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-03T02:11:41.731Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"MubashirReal","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-03T02:11:41.729Z"}}
-{"aggregate":"first_activity_date","contributor":"MubashirReal","value":{"type":"string","value":"2023-10-31"},"meta":{"calculated_at":"2026-08-03T02:11:41.726Z"}}
-{"aggregate":"last_activity_date","contributor":"MubashirReal","value":{"type":"string","value":"2023-11-01"},"meta":{"calculated_at":"2026-08-03T02:11:41.727Z"}}
-{"aggregate":"total_activity_points","contributor":"MubashirReal","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-03T02:11:41.725Z"}}
+{"aggregate":"active_days","contributor":"MubashirReal","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-03T09:34:01.720Z"}}
+{"aggregate":"activity_count","contributor":"MubashirReal","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-03T09:34:01.717Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"MubashirReal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-03T09:34:01.721Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"MubashirReal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-03T09:34:01.722Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"MubashirReal","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-03T09:34:01.720Z"}}
+{"aggregate":"first_activity_date","contributor":"MubashirReal","value":{"type":"string","value":"2023-10-31"},"meta":{"calculated_at":"2026-08-03T09:34:01.718Z"}}
+{"aggregate":"last_activity_date","contributor":"MubashirReal","value":{"type":"string","value":"2023-11-01"},"meta":{"calculated_at":"2026-08-03T09:34:01.719Z"}}
+{"aggregate":"total_activity_points","contributor":"MubashirReal","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-03T09:34:01.717Z"}}
