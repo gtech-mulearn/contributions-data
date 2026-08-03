@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"alex-k-johnson","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-03T09:33:52.320Z"}}
-{"aggregate":"activity_count","contributor":"alex-k-johnson","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-03T09:33:52.318Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"alex-k-johnson","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-03T09:33:52.322Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"alex-k-johnson","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-03T09:33:52.323Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"alex-k-johnson","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-03T09:33:52.321Z"}}
-{"aggregate":"first_activity_date","contributor":"alex-k-johnson","value":{"type":"string","value":"2026-07-22"},"meta":{"calculated_at":"2026-08-03T09:33:52.319Z"}}
-{"aggregate":"last_activity_date","contributor":"alex-k-johnson","value":{"type":"string","value":"2026-07-29"},"meta":{"calculated_at":"2026-08-03T09:33:52.319Z"}}
-{"aggregate":"total_activity_points","contributor":"alex-k-johnson","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-03T09:33:52.317Z"}}
+{"aggregate":"active_days","contributor":"alex-k-johnson","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-03T14:26:28.615Z"}}
+{"aggregate":"activity_count","contributor":"alex-k-johnson","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-03T14:26:28.613Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"alex-k-johnson","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-03T14:26:28.617Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"alex-k-johnson","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-03T14:26:28.618Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"alex-k-johnson","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-03T14:26:28.616Z"}}
+{"aggregate":"first_activity_date","contributor":"alex-k-johnson","value":{"type":"string","value":"2026-07-22"},"meta":{"calculated_at":"2026-08-03T14:26:28.614Z"}}
+{"aggregate":"last_activity_date","contributor":"alex-k-johnson","value":{"type":"string","value":"2026-07-29"},"meta":{"calculated_at":"2026-08-03T14:26:28.615Z"}}
+{"aggregate":"total_activity_points","contributor":"alex-k-johnson","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-03T14:26:28.612Z"}}

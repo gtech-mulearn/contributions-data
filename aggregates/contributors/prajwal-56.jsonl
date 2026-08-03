@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"prajwal-56","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-03T09:34:03.267Z"}}
-{"aggregate":"activity_count","contributor":"prajwal-56","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-03T09:34:03.265Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"prajwal-56","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-03T09:34:03.269Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"prajwal-56","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-03T09:34:03.270Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"prajwal-56","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-03T09:34:03.268Z"}}
-{"aggregate":"first_activity_date","contributor":"prajwal-56","value":{"type":"string","value":"2025-12-31"},"meta":{"calculated_at":"2026-08-03T09:34:03.266Z"}}
-{"aggregate":"last_activity_date","contributor":"prajwal-56","value":{"type":"string","value":"2025-12-31"},"meta":{"calculated_at":"2026-08-03T09:34:03.267Z"}}
-{"aggregate":"total_activity_points","contributor":"prajwal-56","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-03T09:34:03.265Z"}}
+{"aggregate":"active_days","contributor":"prajwal-56","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-03T14:26:39.165Z"}}
+{"aggregate":"activity_count","contributor":"prajwal-56","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-03T14:26:39.162Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"prajwal-56","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-03T14:26:39.166Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"prajwal-56","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-03T14:26:39.167Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"prajwal-56","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-03T14:26:39.165Z"}}
+{"aggregate":"first_activity_date","contributor":"prajwal-56","value":{"type":"string","value":"2025-12-31"},"meta":{"calculated_at":"2026-08-03T14:26:39.163Z"}}
+{"aggregate":"last_activity_date","contributor":"prajwal-56","value":{"type":"string","value":"2025-12-31"},"meta":{"calculated_at":"2026-08-03T14:26:39.164Z"}}
+{"aggregate":"total_activity_points","contributor":"prajwal-56","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-03T14:26:39.162Z"}}
