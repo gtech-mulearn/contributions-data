@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"UserisSabari","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-05T08:28:07.322Z"}}
-{"aggregate":"activity_count","contributor":"UserisSabari","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-05T08:28:07.319Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"UserisSabari","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-05T08:28:07.324Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"UserisSabari","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-05T08:28:07.325Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"UserisSabari","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-05T08:28:07.323Z"}}
-{"aggregate":"first_activity_date","contributor":"UserisSabari","value":{"type":"string","value":"2024-12-17"},"meta":{"calculated_at":"2026-08-05T08:28:07.320Z"}}
-{"aggregate":"last_activity_date","contributor":"UserisSabari","value":{"type":"string","value":"2025-12-16"},"meta":{"calculated_at":"2026-08-05T08:28:07.321Z"}}
-{"aggregate":"total_activity_points","contributor":"UserisSabari","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-05T08:28:07.318Z"}}
+{"aggregate":"active_days","contributor":"UserisSabari","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-05T13:54:25.629Z"}}
+{"aggregate":"activity_count","contributor":"UserisSabari","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-05T13:54:25.626Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"UserisSabari","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-05T13:54:25.630Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"UserisSabari","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-05T13:54:25.631Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"UserisSabari","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-05T13:54:25.629Z"}}
+{"aggregate":"first_activity_date","contributor":"UserisSabari","value":{"type":"string","value":"2024-12-17"},"meta":{"calculated_at":"2026-08-05T13:54:25.627Z"}}
+{"aggregate":"last_activity_date","contributor":"UserisSabari","value":{"type":"string","value":"2025-12-16"},"meta":{"calculated_at":"2026-08-05T13:54:25.628Z"}}
+{"aggregate":"total_activity_points","contributor":"UserisSabari","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-05T13:54:25.625Z"}}
