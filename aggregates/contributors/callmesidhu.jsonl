@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"callmesidhu","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-05T13:54:12.358Z"}}
-{"aggregate":"activity_count","contributor":"callmesidhu","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-08-05T13:54:12.355Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"callmesidhu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-05T13:54:12.359Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"callmesidhu","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-05T13:54:12.360Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"callmesidhu","value":{"type":"number","value":5.83,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-05T13:54:12.359Z"}}
-{"aggregate":"first_activity_date","contributor":"callmesidhu","value":{"type":"string","value":"2025-04-17"},"meta":{"calculated_at":"2026-08-05T13:54:12.356Z"}}
-{"aggregate":"last_activity_date","contributor":"callmesidhu","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-08-05T13:54:12.357Z"}}
-{"aggregate":"total_activity_points","contributor":"callmesidhu","value":{"type":"number","value":35,"format":"integer"},"meta":{"calculated_at":"2026-08-05T13:54:12.354Z"}}
+{"aggregate":"active_days","contributor":"callmesidhu","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-05T19:22:34.967Z"}}
+{"aggregate":"activity_count","contributor":"callmesidhu","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-08-05T19:22:34.965Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"callmesidhu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-05T19:22:34.969Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"callmesidhu","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-05T19:22:34.969Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"callmesidhu","value":{"type":"number","value":5.83,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-05T19:22:34.968Z"}}
+{"aggregate":"first_activity_date","contributor":"callmesidhu","value":{"type":"string","value":"2025-04-17"},"meta":{"calculated_at":"2026-08-05T19:22:34.966Z"}}
+{"aggregate":"last_activity_date","contributor":"callmesidhu","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-08-05T19:22:34.966Z"}}
+{"aggregate":"total_activity_points","contributor":"callmesidhu","value":{"type":"number","value":35,"format":"integer"},"meta":{"calculated_at":"2026-08-05T19:22:34.964Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Lijo-Xavier","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-05T13:54:18.012Z"}}
-{"aggregate":"activity_count","contributor":"Lijo-Xavier","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-05T13:54:18.010Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Lijo-Xavier","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-05T13:54:18.014Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Lijo-Xavier","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-05T13:54:18.015Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Lijo-Xavier","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-05T13:54:18.013Z"}}
-{"aggregate":"first_activity_date","contributor":"Lijo-Xavier","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-08-05T13:54:18.011Z"}}
-{"aggregate":"last_activity_date","contributor":"Lijo-Xavier","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-08-05T13:54:18.011Z"}}
-{"aggregate":"total_activity_points","contributor":"Lijo-Xavier","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-05T13:54:18.009Z"}}
+{"aggregate":"active_days","contributor":"Lijo-Xavier","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-05T19:22:39.460Z"}}
+{"aggregate":"activity_count","contributor":"Lijo-Xavier","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-05T19:22:39.458Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Lijo-Xavier","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-05T19:22:39.461Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Lijo-Xavier","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-05T19:22:39.462Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Lijo-Xavier","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-05T19:22:39.460Z"}}
+{"aggregate":"first_activity_date","contributor":"Lijo-Xavier","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-08-05T19:22:39.458Z"}}
+{"aggregate":"last_activity_date","contributor":"Lijo-Xavier","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-08-05T19:22:39.459Z"}}
+{"aggregate":"total_activity_points","contributor":"Lijo-Xavier","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-05T19:22:39.457Z"}}
