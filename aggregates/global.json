@@ -10,7 +10,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-05T01:56:38.569Z",
+      "calculated_at": "2026-08-05T08:27:46.884Z",
       "period_start": "2026-07-06",
       "period_end": "2026-08-05"
     }
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-05T01:56:38.871Z"
+      "calculated_at": "2026-08-05T08:27:47.160Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10555,
+      "value": 10560,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-05T01:56:38.872Z"
+      "calculated_at": "2026-08-05T08:27:47.161Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 13090,
+      "value": 13095,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-05T01:56:38.873Z"
+      "calculated_at": "2026-08-05T08:27:47.162Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-05T01:56:38.874Z"
+      "calculated_at": "2026-08-05T08:27:47.163Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27242,
+      "value": 27252,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-05T01:56:38.554Z"
+      "calculated_at": "2026-08-05T08:27:46.869Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-05T01:56:38.552Z"
+      "calculated_at": "2026-08-05T08:27:46.867Z"
     }
   }
 ]
