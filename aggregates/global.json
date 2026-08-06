@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 85,
+      "value": 81,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-05T19:22:29.023Z",
-      "period_start": "2026-07-06",
-      "period_end": "2026-08-05"
+      "calculated_at": "2026-08-06T01:59:57.232Z",
+      "period_start": "2026-07-07",
+      "period_end": "2026-08-06"
     }
   },
   {
@@ -21,13 +21,13 @@
     "description": "Total number of Issue Opened activities",
     "value": {
       "type": "number",
-      "value": 1088,
+      "value": 1091,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-05T19:22:29.318Z"
+      "calculated_at": "2026-08-06T01:59:57.534Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-05T19:22:29.319Z"
+      "calculated_at": "2026-08-06T01:59:57.535Z"
     }
   },
   {
@@ -57,7 +57,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-05T19:22:29.320Z"
+      "calculated_at": "2026-08-06T01:59:57.536Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-05T19:22:29.321Z"
+      "calculated_at": "2026-08-06T01:59:57.537Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27259,
+      "value": 27262,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-05T19:22:29.009Z"
+      "calculated_at": "2026-08-06T01:59:57.218Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-05T19:22:29.008Z"
+      "calculated_at": "2026-08-06T01:59:57.216Z"
     }
   }
 ]
