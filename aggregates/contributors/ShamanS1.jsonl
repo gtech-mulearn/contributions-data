@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"ShamanS1","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-06T02:00:15.987Z"}}
-{"aggregate":"activity_count","contributor":"ShamanS1","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-08-06T02:00:15.984Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"ShamanS1","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-06T02:00:15.989Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"ShamanS1","value":{"type":"number","value":6,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-06T02:00:15.990Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"ShamanS1","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-06T02:00:15.988Z"}}
-{"aggregate":"first_activity_date","contributor":"ShamanS1","value":{"type":"string","value":"2022-05-11"},"meta":{"calculated_at":"2026-08-06T02:00:15.985Z"}}
-{"aggregate":"last_activity_date","contributor":"ShamanS1","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-08-06T02:00:15.986Z"}}
-{"aggregate":"total_activity_points","contributor":"ShamanS1","value":{"type":"number","value":50,"format":"integer"},"meta":{"calculated_at":"2026-08-06T02:00:15.983Z"}}
+{"aggregate":"active_days","contributor":"ShamanS1","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-06T08:25:21.953Z"}}
+{"aggregate":"activity_count","contributor":"ShamanS1","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-08-06T08:25:21.951Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"ShamanS1","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-06T08:25:21.954Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"ShamanS1","value":{"type":"number","value":6,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-06T08:25:21.955Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"ShamanS1","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-06T08:25:21.954Z"}}
+{"aggregate":"first_activity_date","contributor":"ShamanS1","value":{"type":"string","value":"2022-05-11"},"meta":{"calculated_at":"2026-08-06T08:25:21.951Z"}}
+{"aggregate":"last_activity_date","contributor":"ShamanS1","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-08-06T08:25:21.952Z"}}
+{"aggregate":"total_activity_points","contributor":"ShamanS1","value":{"type":"number","value":50,"format":"integer"},"meta":{"calculated_at":"2026-08-06T08:25:21.950Z"}}
