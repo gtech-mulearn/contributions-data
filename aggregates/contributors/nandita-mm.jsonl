@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"nandita-mm","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-06T08:25:19.202Z"}}
-{"aggregate":"activity_count","contributor":"nandita-mm","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-06T08:25:19.199Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"nandita-mm","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-06T08:25:19.203Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"nandita-mm","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-06T08:25:19.204Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"nandita-mm","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-06T08:25:19.202Z"}}
-{"aggregate":"first_activity_date","contributor":"nandita-mm","value":{"type":"string","value":"2025-09-09"},"meta":{"calculated_at":"2026-08-06T08:25:19.200Z"}}
-{"aggregate":"last_activity_date","contributor":"nandita-mm","value":{"type":"string","value":"2025-09-09"},"meta":{"calculated_at":"2026-08-06T08:25:19.201Z"}}
-{"aggregate":"total_activity_points","contributor":"nandita-mm","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-06T08:25:19.199Z"}}
+{"aggregate":"active_days","contributor":"nandita-mm","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-06T13:51:41.363Z"}}
+{"aggregate":"activity_count","contributor":"nandita-mm","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-06T13:51:41.361Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"nandita-mm","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-06T13:51:41.365Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"nandita-mm","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-06T13:51:41.366Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"nandita-mm","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-06T13:51:41.364Z"}}
+{"aggregate":"first_activity_date","contributor":"nandita-mm","value":{"type":"string","value":"2025-09-09"},"meta":{"calculated_at":"2026-08-06T13:51:41.362Z"}}
+{"aggregate":"last_activity_date","contributor":"nandita-mm","value":{"type":"string","value":"2025-09-09"},"meta":{"calculated_at":"2026-08-06T13:51:41.363Z"}}
+{"aggregate":"total_activity_points","contributor":"nandita-mm","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-06T13:51:41.360Z"}}

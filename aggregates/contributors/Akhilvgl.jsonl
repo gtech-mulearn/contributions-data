@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Akhilvgl","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-06T08:25:09.412Z"}}
-{"aggregate":"activity_count","contributor":"Akhilvgl","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-06T08:25:09.410Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Akhilvgl","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-06T08:25:09.414Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Akhilvgl","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-06T08:25:09.415Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Akhilvgl","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-06T08:25:09.413Z"}}
-{"aggregate":"first_activity_date","contributor":"Akhilvgl","value":{"type":"string","value":"2023-10-14"},"meta":{"calculated_at":"2026-08-06T08:25:09.411Z"}}
-{"aggregate":"last_activity_date","contributor":"Akhilvgl","value":{"type":"string","value":"2023-10-14"},"meta":{"calculated_at":"2026-08-06T08:25:09.412Z"}}
-{"aggregate":"total_activity_points","contributor":"Akhilvgl","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-06T08:25:09.409Z"}}
+{"aggregate":"active_days","contributor":"Akhilvgl","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-06T13:51:31.622Z"}}
+{"aggregate":"activity_count","contributor":"Akhilvgl","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-06T13:51:31.620Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Akhilvgl","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-06T13:51:31.624Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Akhilvgl","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-06T13:51:31.625Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Akhilvgl","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-06T13:51:31.623Z"}}
+{"aggregate":"first_activity_date","contributor":"Akhilvgl","value":{"type":"string","value":"2023-10-14"},"meta":{"calculated_at":"2026-08-06T13:51:31.621Z"}}
+{"aggregate":"last_activity_date","contributor":"Akhilvgl","value":{"type":"string","value":"2023-10-14"},"meta":{"calculated_at":"2026-08-06T13:51:31.621Z"}}
+{"aggregate":"total_activity_points","contributor":"Akhilvgl","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-06T13:51:31.619Z"}}
