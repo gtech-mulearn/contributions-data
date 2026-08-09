@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"RenyMathew","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-09T12:38:14.980Z"}}
-{"aggregate":"activity_count","contributor":"RenyMathew","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-09T12:38:14.977Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"RenyMathew","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-09T12:38:14.982Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"RenyMathew","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-09T12:38:14.983Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"RenyMathew","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-09T12:38:14.981Z"}}
-{"aggregate":"first_activity_date","contributor":"RenyMathew","value":{"type":"string","value":"2024-06-23"},"meta":{"calculated_at":"2026-08-09T12:38:14.978Z"}}
-{"aggregate":"last_activity_date","contributor":"RenyMathew","value":{"type":"string","value":"2024-06-24"},"meta":{"calculated_at":"2026-08-09T12:38:14.979Z"}}
-{"aggregate":"total_activity_points","contributor":"RenyMathew","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-09T12:38:14.976Z"}}
+{"aggregate":"active_days","contributor":"RenyMathew","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-09T18:32:51.171Z"}}
+{"aggregate":"activity_count","contributor":"RenyMathew","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-09T18:32:51.168Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"RenyMathew","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-09T18:32:51.172Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"RenyMathew","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-09T18:32:51.173Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"RenyMathew","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-09T18:32:51.172Z"}}
+{"aggregate":"first_activity_date","contributor":"RenyMathew","value":{"type":"string","value":"2024-06-23"},"meta":{"calculated_at":"2026-08-09T18:32:51.169Z"}}
+{"aggregate":"last_activity_date","contributor":"RenyMathew","value":{"type":"string","value":"2024-06-24"},"meta":{"calculated_at":"2026-08-09T18:32:51.170Z"}}
+{"aggregate":"total_activity_points","contributor":"RenyMathew","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-09T18:32:51.168Z"}}
