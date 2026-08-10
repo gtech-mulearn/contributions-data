@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"praveenkurup","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T07:20:48.610Z"}}
-{"aggregate":"activity_count","contributor":"praveenkurup","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-10T07:20:48.607Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"praveenkurup","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T07:20:48.611Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"praveenkurup","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T07:20:48.612Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"praveenkurup","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T07:20:48.611Z"}}
-{"aggregate":"first_activity_date","contributor":"praveenkurup","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-10T07:20:48.608Z"}}
-{"aggregate":"last_activity_date","contributor":"praveenkurup","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-10T07:20:48.609Z"}}
-{"aggregate":"total_activity_points","contributor":"praveenkurup","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-10T07:20:48.606Z"}}
+{"aggregate":"active_days","contributor":"praveenkurup","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T12:56:22.091Z"}}
+{"aggregate":"activity_count","contributor":"praveenkurup","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-10T12:56:22.089Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"praveenkurup","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T12:56:22.093Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"praveenkurup","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T12:56:22.094Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"praveenkurup","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T12:56:22.092Z"}}
+{"aggregate":"first_activity_date","contributor":"praveenkurup","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-10T12:56:22.090Z"}}
+{"aggregate":"last_activity_date","contributor":"praveenkurup","value":{"type":"string","value":"2023-10-17"},"meta":{"calculated_at":"2026-08-10T12:56:22.091Z"}}
+{"aggregate":"total_activity_points","contributor":"praveenkurup","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-10T12:56:22.088Z"}}
