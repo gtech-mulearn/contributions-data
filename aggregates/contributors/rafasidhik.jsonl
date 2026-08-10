@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"rafasidhik","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-09T18:32:50.940Z"}}
-{"aggregate":"activity_count","contributor":"rafasidhik","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-09T18:32:50.937Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"rafasidhik","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-09T18:32:50.941Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"rafasidhik","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-09T18:32:50.942Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"rafasidhik","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-09T18:32:50.941Z"}}
-{"aggregate":"first_activity_date","contributor":"rafasidhik","value":{"type":"string","value":"2026-02-18"},"meta":{"calculated_at":"2026-08-09T18:32:50.938Z"}}
-{"aggregate":"last_activity_date","contributor":"rafasidhik","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-08-09T18:32:50.939Z"}}
-{"aggregate":"total_activity_points","contributor":"rafasidhik","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-08-09T18:32:50.936Z"}}
+{"aggregate":"active_days","contributor":"rafasidhik","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T01:15:43.408Z"}}
+{"aggregate":"activity_count","contributor":"rafasidhik","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-10T01:15:43.405Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"rafasidhik","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T01:15:43.410Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"rafasidhik","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T01:15:43.411Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"rafasidhik","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T01:15:43.409Z"}}
+{"aggregate":"first_activity_date","contributor":"rafasidhik","value":{"type":"string","value":"2026-02-18"},"meta":{"calculated_at":"2026-08-10T01:15:43.406Z"}}
+{"aggregate":"last_activity_date","contributor":"rafasidhik","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-08-10T01:15:43.407Z"}}
+{"aggregate":"total_activity_points","contributor":"rafasidhik","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-08-10T01:15:43.404Z"}}
