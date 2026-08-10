@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aaxonxn","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T12:56:05.609Z"}}
-{"aggregate":"activity_count","contributor":"aaxonxn","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-08-10T12:56:05.606Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aaxonxn","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T12:56:05.611Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aaxonxn","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T12:56:05.612Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aaxonxn","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T12:56:05.610Z"}}
-{"aggregate":"first_activity_date","contributor":"aaxonxn","value":{"type":"string","value":"2023-11-15"},"meta":{"calculated_at":"2026-08-10T12:56:05.607Z"}}
-{"aggregate":"last_activity_date","contributor":"aaxonxn","value":{"type":"string","value":"2024-11-13"},"meta":{"calculated_at":"2026-08-10T12:56:05.608Z"}}
-{"aggregate":"total_activity_points","contributor":"aaxonxn","value":{"type":"number","value":40,"format":"integer"},"meta":{"calculated_at":"2026-08-10T12:56:05.605Z"}}
+{"aggregate":"active_days","contributor":"aaxonxn","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T18:49:35.604Z"}}
+{"aggregate":"activity_count","contributor":"aaxonxn","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-08-10T18:49:35.602Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aaxonxn","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T18:49:35.606Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aaxonxn","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T18:49:35.607Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aaxonxn","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T18:49:35.605Z"}}
+{"aggregate":"first_activity_date","contributor":"aaxonxn","value":{"type":"string","value":"2023-11-15"},"meta":{"calculated_at":"2026-08-10T18:49:35.602Z"}}
+{"aggregate":"last_activity_date","contributor":"aaxonxn","value":{"type":"string","value":"2024-11-13"},"meta":{"calculated_at":"2026-08-10T18:49:35.603Z"}}
+{"aggregate":"total_activity_points","contributor":"aaxonxn","value":{"type":"number","value":40,"format":"integer"},"meta":{"calculated_at":"2026-08-10T18:49:35.601Z"}}
