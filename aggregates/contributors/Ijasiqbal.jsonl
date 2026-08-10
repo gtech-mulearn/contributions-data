@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Ijasiqbal","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T01:15:37.684Z"}}
-{"aggregate":"activity_count","contributor":"Ijasiqbal","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-10T01:15:37.681Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Ijasiqbal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T01:15:37.686Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Ijasiqbal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T01:15:37.687Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Ijasiqbal","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T01:15:37.685Z"}}
-{"aggregate":"first_activity_date","contributor":"Ijasiqbal","value":{"type":"string","value":"2023-10-16"},"meta":{"calculated_at":"2026-08-10T01:15:37.682Z"}}
-{"aggregate":"last_activity_date","contributor":"Ijasiqbal","value":{"type":"string","value":"2023-11-23"},"meta":{"calculated_at":"2026-08-10T01:15:37.683Z"}}
-{"aggregate":"total_activity_points","contributor":"Ijasiqbal","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-10T01:15:37.680Z"}}
+{"aggregate":"active_days","contributor":"Ijasiqbal","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-10T07:20:43.279Z"}}
+{"aggregate":"activity_count","contributor":"Ijasiqbal","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-10T07:20:43.277Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Ijasiqbal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-10T07:20:43.281Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Ijasiqbal","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-10T07:20:43.282Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Ijasiqbal","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-10T07:20:43.280Z"}}
+{"aggregate":"first_activity_date","contributor":"Ijasiqbal","value":{"type":"string","value":"2023-10-16"},"meta":{"calculated_at":"2026-08-10T07:20:43.277Z"}}
+{"aggregate":"last_activity_date","contributor":"Ijasiqbal","value":{"type":"string","value":"2023-11-23"},"meta":{"calculated_at":"2026-08-10T07:20:43.278Z"}}
+{"aggregate":"total_activity_points","contributor":"Ijasiqbal","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-10T07:20:43.276Z"}}
