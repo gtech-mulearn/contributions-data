@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"DijinLeo","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-11T01:13:57.571Z"}}
-{"aggregate":"activity_count","contributor":"DijinLeo","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-11T01:13:57.568Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"DijinLeo","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-11T01:13:57.572Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"DijinLeo","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-11T01:13:57.573Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"DijinLeo","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-11T01:13:57.571Z"}}
-{"aggregate":"first_activity_date","contributor":"DijinLeo","value":{"type":"string","value":"2025-03-22"},"meta":{"calculated_at":"2026-08-11T01:13:57.569Z"}}
-{"aggregate":"last_activity_date","contributor":"DijinLeo","value":{"type":"string","value":"2025-03-23"},"meta":{"calculated_at":"2026-08-11T01:13:57.570Z"}}
-{"aggregate":"total_activity_points","contributor":"DijinLeo","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-11T01:13:57.567Z"}}
+{"aggregate":"active_days","contributor":"DijinLeo","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-11T06:57:28.657Z"}}
+{"aggregate":"activity_count","contributor":"DijinLeo","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-11T06:57:28.655Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"DijinLeo","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-11T06:57:28.659Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"DijinLeo","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-11T06:57:28.659Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"DijinLeo","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-11T06:57:28.658Z"}}
+{"aggregate":"first_activity_date","contributor":"DijinLeo","value":{"type":"string","value":"2025-03-22"},"meta":{"calculated_at":"2026-08-11T06:57:28.655Z"}}
+{"aggregate":"last_activity_date","contributor":"DijinLeo","value":{"type":"string","value":"2025-03-23"},"meta":{"calculated_at":"2026-08-11T06:57:28.656Z"}}
+{"aggregate":"total_activity_points","contributor":"DijinLeo","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-11T06:57:28.654Z"}}
