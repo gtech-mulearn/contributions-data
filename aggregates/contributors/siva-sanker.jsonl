@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"siva-sanker","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-12T12:56:27.199Z"}}
-{"aggregate":"activity_count","contributor":"siva-sanker","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-12T12:56:27.197Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"siva-sanker","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-12T12:56:27.201Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"siva-sanker","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-12T12:56:27.202Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"siva-sanker","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-12T12:56:27.200Z"}}
-{"aggregate":"first_activity_date","contributor":"siva-sanker","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-08-12T12:56:27.198Z"}}
-{"aggregate":"last_activity_date","contributor":"siva-sanker","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-08-12T12:56:27.199Z"}}
-{"aggregate":"total_activity_points","contributor":"siva-sanker","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-12T12:56:27.196Z"}}
+{"aggregate":"active_days","contributor":"siva-sanker","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-12T18:55:24.313Z"}}
+{"aggregate":"activity_count","contributor":"siva-sanker","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-12T18:55:24.311Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"siva-sanker","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-12T18:55:24.315Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"siva-sanker","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-12T18:55:24.316Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"siva-sanker","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-12T18:55:24.314Z"}}
+{"aggregate":"first_activity_date","contributor":"siva-sanker","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-08-12T18:55:24.312Z"}}
+{"aggregate":"last_activity_date","contributor":"siva-sanker","value":{"type":"string","value":"2024-06-29"},"meta":{"calculated_at":"2026-08-12T18:55:24.313Z"}}
+{"aggregate":"total_activity_points","contributor":"siva-sanker","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-12T18:55:24.310Z"}}

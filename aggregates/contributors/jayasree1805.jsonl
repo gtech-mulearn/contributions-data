@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"jayasree1805","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-12T12:56:19.321Z"}}
-{"aggregate":"activity_count","contributor":"jayasree1805","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-12T12:56:19.319Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"jayasree1805","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-12T12:56:19.323Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"jayasree1805","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-12T12:56:19.324Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"jayasree1805","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-12T12:56:19.322Z"}}
-{"aggregate":"first_activity_date","contributor":"jayasree1805","value":{"type":"string","value":"2025-10-01"},"meta":{"calculated_at":"2026-08-12T12:56:19.319Z"}}
-{"aggregate":"last_activity_date","contributor":"jayasree1805","value":{"type":"string","value":"2025-10-06"},"meta":{"calculated_at":"2026-08-12T12:56:19.320Z"}}
-{"aggregate":"total_activity_points","contributor":"jayasree1805","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-12T12:56:19.318Z"}}
+{"aggregate":"active_days","contributor":"jayasree1805","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-12T18:55:18.499Z"}}
+{"aggregate":"activity_count","contributor":"jayasree1805","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-12T18:55:18.497Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"jayasree1805","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-12T18:55:18.500Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"jayasree1805","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-12T18:55:18.501Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"jayasree1805","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-12T18:55:18.499Z"}}
+{"aggregate":"first_activity_date","contributor":"jayasree1805","value":{"type":"string","value":"2025-10-01"},"meta":{"calculated_at":"2026-08-12T18:55:18.497Z"}}
+{"aggregate":"last_activity_date","contributor":"jayasree1805","value":{"type":"string","value":"2025-10-06"},"meta":{"calculated_at":"2026-08-12T18:55:18.498Z"}}
+{"aggregate":"total_activity_points","contributor":"jayasree1805","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-12T18:55:18.496Z"}}
