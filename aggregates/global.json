@@ -10,9 +10,9 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-11T18:55:59.359Z",
-      "period_start": "2026-07-12",
-      "period_end": "2026-08-11"
+      "calculated_at": "2026-08-12T01:22:25.231Z",
+      "period_start": "2026-07-13",
+      "period_end": "2026-08-12"
     }
   },
   {
@@ -21,13 +21,13 @@
     "description": "Total number of Issue Opened activities",
     "value": {
       "type": "number",
-      "value": 1114,
+      "value": 1117,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-11T18:55:59.654Z"
+      "calculated_at": "2026-08-12T01:22:25.514Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-11T18:55:59.656Z"
+      "calculated_at": "2026-08-12T01:22:25.515Z"
     }
   },
   {
@@ -57,7 +57,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-11T18:55:59.657Z"
+      "calculated_at": "2026-08-12T01:22:25.516Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-11T18:55:59.658Z"
+      "calculated_at": "2026-08-12T01:22:25.517Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27432,
+      "value": 27435,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-11T18:55:59.345Z"
+      "calculated_at": "2026-08-12T01:22:25.215Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-11T18:55:59.343Z"
+      "calculated_at": "2026-08-12T01:22:25.214Z"
     }
   }
 ]
