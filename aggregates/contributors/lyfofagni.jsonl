@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"lyfofagni","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-12T01:22:38.219Z"}}
-{"aggregate":"activity_count","contributor":"lyfofagni","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-08-12T01:22:38.216Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"lyfofagni","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-12T01:22:38.221Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"lyfofagni","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-12T01:22:38.222Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"lyfofagni","value":{"type":"number","value":5.63,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-12T01:22:38.220Z"}}
-{"aggregate":"first_activity_date","contributor":"lyfofagni","value":{"type":"string","value":"2023-10-05"},"meta":{"calculated_at":"2026-08-12T01:22:38.217Z"}}
-{"aggregate":"last_activity_date","contributor":"lyfofagni","value":{"type":"string","value":"2024-11-20"},"meta":{"calculated_at":"2026-08-12T01:22:38.218Z"}}
-{"aggregate":"total_activity_points","contributor":"lyfofagni","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-08-12T01:22:38.215Z"}}
+{"aggregate":"active_days","contributor":"lyfofagni","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-12T07:17:15.108Z"}}
+{"aggregate":"activity_count","contributor":"lyfofagni","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-08-12T07:17:15.105Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"lyfofagni","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-12T07:17:15.110Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"lyfofagni","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-12T07:17:15.111Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"lyfofagni","value":{"type":"number","value":5.63,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-12T07:17:15.109Z"}}
+{"aggregate":"first_activity_date","contributor":"lyfofagni","value":{"type":"string","value":"2023-10-05"},"meta":{"calculated_at":"2026-08-12T07:17:15.106Z"}}
+{"aggregate":"last_activity_date","contributor":"lyfofagni","value":{"type":"string","value":"2024-11-20"},"meta":{"calculated_at":"2026-08-12T07:17:15.107Z"}}
+{"aggregate":"total_activity_points","contributor":"lyfofagni","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-08-12T07:17:15.105Z"}}
