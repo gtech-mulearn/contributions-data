@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mafaz-mb","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T12:53:35.420Z"}}
-{"aggregate":"activity_count","contributor":"mafaz-mb","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-14T12:53:35.417Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mafaz-mb","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T12:53:35.421Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mafaz-mb","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T12:53:35.422Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mafaz-mb","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T12:53:35.420Z"}}
-{"aggregate":"first_activity_date","contributor":"mafaz-mb","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-14T12:53:35.418Z"}}
-{"aggregate":"last_activity_date","contributor":"mafaz-mb","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-14T12:53:35.419Z"}}
-{"aggregate":"total_activity_points","contributor":"mafaz-mb","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-14T12:53:35.416Z"}}
+{"aggregate":"active_days","contributor":"mafaz-mb","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T18:45:47.693Z"}}
+{"aggregate":"activity_count","contributor":"mafaz-mb","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-14T18:45:47.691Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mafaz-mb","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T18:45:47.695Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mafaz-mb","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T18:45:47.696Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mafaz-mb","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T18:45:47.694Z"}}
+{"aggregate":"first_activity_date","contributor":"mafaz-mb","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-14T18:45:47.692Z"}}
+{"aggregate":"last_activity_date","contributor":"mafaz-mb","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-14T18:45:47.693Z"}}
+{"aggregate":"total_activity_points","contributor":"mafaz-mb","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-14T18:45:47.690Z"}}

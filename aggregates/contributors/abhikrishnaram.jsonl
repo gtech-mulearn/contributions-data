@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"abhikrishnaram","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T12:53:22.026Z"}}
-{"aggregate":"activity_count","contributor":"abhikrishnaram","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-14T12:53:22.023Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"abhikrishnaram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T12:53:22.028Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"abhikrishnaram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T12:53:22.029Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"abhikrishnaram","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T12:53:22.027Z"}}
-{"aggregate":"first_activity_date","contributor":"abhikrishnaram","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-08-14T12:53:22.024Z"}}
-{"aggregate":"last_activity_date","contributor":"abhikrishnaram","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-08-14T12:53:22.025Z"}}
-{"aggregate":"total_activity_points","contributor":"abhikrishnaram","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-14T12:53:22.022Z"}}
+{"aggregate":"active_days","contributor":"abhikrishnaram","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T18:45:37.984Z"}}
+{"aggregate":"activity_count","contributor":"abhikrishnaram","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-14T18:45:37.982Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"abhikrishnaram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T18:45:37.986Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"abhikrishnaram","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T18:45:37.987Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"abhikrishnaram","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T18:45:37.985Z"}}
+{"aggregate":"first_activity_date","contributor":"abhikrishnaram","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-08-14T18:45:37.983Z"}}
+{"aggregate":"last_activity_date","contributor":"abhikrishnaram","value":{"type":"string","value":"2023-10-06"},"meta":{"calculated_at":"2026-08-14T18:45:37.984Z"}}
+{"aggregate":"total_activity_points","contributor":"abhikrishnaram","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-14T18:45:37.981Z"}}
