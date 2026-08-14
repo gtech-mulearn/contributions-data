@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"alwinsibym","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T07:17:03.912Z"}}
-{"aggregate":"activity_count","contributor":"alwinsibym","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-14T07:17:03.910Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"alwinsibym","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T07:17:03.914Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"alwinsibym","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T07:17:03.915Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"alwinsibym","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T07:17:03.913Z"}}
-{"aggregate":"first_activity_date","contributor":"alwinsibym","value":{"type":"string","value":"2023-10-16"},"meta":{"calculated_at":"2026-08-14T07:17:03.911Z"}}
-{"aggregate":"last_activity_date","contributor":"alwinsibym","value":{"type":"string","value":"2023-10-16"},"meta":{"calculated_at":"2026-08-14T07:17:03.912Z"}}
-{"aggregate":"total_activity_points","contributor":"alwinsibym","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-14T07:17:03.909Z"}}
+{"aggregate":"active_days","contributor":"alwinsibym","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T12:53:24.968Z"}}
+{"aggregate":"activity_count","contributor":"alwinsibym","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-14T12:53:24.965Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"alwinsibym","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T12:53:24.971Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"alwinsibym","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T12:53:24.973Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"alwinsibym","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T12:53:24.969Z"}}
+{"aggregate":"first_activity_date","contributor":"alwinsibym","value":{"type":"string","value":"2023-10-16"},"meta":{"calculated_at":"2026-08-14T12:53:24.966Z"}}
+{"aggregate":"last_activity_date","contributor":"alwinsibym","value":{"type":"string","value":"2023-10-16"},"meta":{"calculated_at":"2026-08-14T12:53:24.967Z"}}
+{"aggregate":"total_activity_points","contributor":"alwinsibym","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-14T12:53:24.964Z"}}
