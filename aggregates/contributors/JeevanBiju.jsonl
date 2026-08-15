@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"JeevanBiju","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-15T06:28:46.426Z"}}
-{"aggregate":"activity_count","contributor":"JeevanBiju","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-15T06:28:46.420Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"JeevanBiju","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-15T06:28:46.429Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"JeevanBiju","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-15T06:28:46.431Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"JeevanBiju","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-15T06:28:46.428Z"}}
-{"aggregate":"first_activity_date","contributor":"JeevanBiju","value":{"type":"string","value":"2024-04-24"},"meta":{"calculated_at":"2026-08-15T06:28:46.422Z"}}
-{"aggregate":"last_activity_date","contributor":"JeevanBiju","value":{"type":"string","value":"2024-04-24"},"meta":{"calculated_at":"2026-08-15T06:28:46.424Z"}}
-{"aggregate":"total_activity_points","contributor":"JeevanBiju","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-15T06:28:46.419Z"}}
+{"aggregate":"active_days","contributor":"JeevanBiju","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-15T12:25:42.061Z"}}
+{"aggregate":"activity_count","contributor":"JeevanBiju","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-15T12:25:42.058Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"JeevanBiju","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-15T12:25:42.063Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"JeevanBiju","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-15T12:25:42.064Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"JeevanBiju","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-15T12:25:42.062Z"}}
+{"aggregate":"first_activity_date","contributor":"JeevanBiju","value":{"type":"string","value":"2024-04-24"},"meta":{"calculated_at":"2026-08-15T12:25:42.059Z"}}
+{"aggregate":"last_activity_date","contributor":"JeevanBiju","value":{"type":"string","value":"2024-04-24"},"meta":{"calculated_at":"2026-08-15T12:25:42.060Z"}}
+{"aggregate":"total_activity_points","contributor":"JeevanBiju","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-15T12:25:42.057Z"}}
