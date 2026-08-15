@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"arjun-ms","value":{"type":"number","value":11,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-15T12:25:36.454Z"}}
-{"aggregate":"activity_count","contributor":"arjun-ms","value":{"type":"number","value":14,"format":"integer"},"meta":{"calculated_at":"2026-08-15T12:25:36.452Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"arjun-ms","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-15T12:25:36.456Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"arjun-ms","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-15T12:25:36.457Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"arjun-ms","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-15T12:25:36.455Z"}}
-{"aggregate":"first_activity_date","contributor":"arjun-ms","value":{"type":"string","value":"2022-05-14"},"meta":{"calculated_at":"2026-08-15T12:25:36.452Z"}}
-{"aggregate":"last_activity_date","contributor":"arjun-ms","value":{"type":"string","value":"2025-08-02"},"meta":{"calculated_at":"2026-08-15T12:25:36.453Z"}}
-{"aggregate":"total_activity_points","contributor":"arjun-ms","value":{"type":"number","value":105,"format":"integer"},"meta":{"calculated_at":"2026-08-15T12:25:36.451Z"}}
+{"aggregate":"active_days","contributor":"arjun-ms","value":{"type":"number","value":11,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-15T18:20:56.497Z"}}
+{"aggregate":"activity_count","contributor":"arjun-ms","value":{"type":"number","value":14,"format":"integer"},"meta":{"calculated_at":"2026-08-15T18:20:56.495Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"arjun-ms","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-15T18:20:56.499Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"arjun-ms","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-15T18:20:56.500Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"arjun-ms","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-15T18:20:56.498Z"}}
+{"aggregate":"first_activity_date","contributor":"arjun-ms","value":{"type":"string","value":"2022-05-14"},"meta":{"calculated_at":"2026-08-15T18:20:56.496Z"}}
+{"aggregate":"last_activity_date","contributor":"arjun-ms","value":{"type":"string","value":"2025-08-02"},"meta":{"calculated_at":"2026-08-15T18:20:56.497Z"}}
+{"aggregate":"total_activity_points","contributor":"arjun-ms","value":{"type":"number","value":105,"format":"integer"},"meta":{"calculated_at":"2026-08-15T18:20:56.494Z"}}
