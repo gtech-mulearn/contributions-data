@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"adarsh4j","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-14T18:45:38.397Z"}}
-{"aggregate":"activity_count","contributor":"adarsh4j","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-14T18:45:38.394Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"adarsh4j","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-14T18:45:38.398Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"adarsh4j","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-14T18:45:38.399Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"adarsh4j","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-14T18:45:38.397Z"}}
-{"aggregate":"first_activity_date","contributor":"adarsh4j","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-08-14T18:45:38.395Z"}}
-{"aggregate":"last_activity_date","contributor":"adarsh4j","value":{"type":"string","value":"2024-04-15"},"meta":{"calculated_at":"2026-08-14T18:45:38.396Z"}}
-{"aggregate":"total_activity_points","contributor":"adarsh4j","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-14T18:45:38.394Z"}}
+{"aggregate":"active_days","contributor":"adarsh4j","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-15T00:53:44.301Z"}}
+{"aggregate":"activity_count","contributor":"adarsh4j","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-15T00:53:44.298Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"adarsh4j","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-15T00:53:44.303Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"adarsh4j","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-15T00:53:44.304Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"adarsh4j","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-15T00:53:44.302Z"}}
+{"aggregate":"first_activity_date","contributor":"adarsh4j","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-08-15T00:53:44.299Z"}}
+{"aggregate":"last_activity_date","contributor":"adarsh4j","value":{"type":"string","value":"2024-04-15"},"meta":{"calculated_at":"2026-08-15T00:53:44.300Z"}}
+{"aggregate":"total_activity_points","contributor":"adarsh4j","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-15T00:53:44.298Z"}}
