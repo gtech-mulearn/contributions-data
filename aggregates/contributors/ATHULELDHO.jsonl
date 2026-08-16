@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"ATHULELDHO","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-15T18:20:57.582Z"}}
-{"aggregate":"activity_count","contributor":"ATHULELDHO","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-15T18:20:57.580Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"ATHULELDHO","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-15T18:20:57.584Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"ATHULELDHO","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-15T18:20:57.585Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"ATHULELDHO","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-15T18:20:57.583Z"}}
-{"aggregate":"first_activity_date","contributor":"ATHULELDHO","value":{"type":"string","value":"2024-06-27"},"meta":{"calculated_at":"2026-08-15T18:20:57.581Z"}}
-{"aggregate":"last_activity_date","contributor":"ATHULELDHO","value":{"type":"string","value":"2024-06-27"},"meta":{"calculated_at":"2026-08-15T18:20:57.582Z"}}
-{"aggregate":"total_activity_points","contributor":"ATHULELDHO","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-15T18:20:57.579Z"}}
+{"aggregate":"active_days","contributor":"ATHULELDHO","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-16T00:56:57.037Z"}}
+{"aggregate":"activity_count","contributor":"ATHULELDHO","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-16T00:56:57.034Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"ATHULELDHO","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-16T00:56:57.039Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"ATHULELDHO","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-16T00:56:57.040Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"ATHULELDHO","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-16T00:56:57.038Z"}}
+{"aggregate":"first_activity_date","contributor":"ATHULELDHO","value":{"type":"string","value":"2024-06-27"},"meta":{"calculated_at":"2026-08-16T00:56:57.035Z"}}
+{"aggregate":"last_activity_date","contributor":"ATHULELDHO","value":{"type":"string","value":"2024-06-27"},"meta":{"calculated_at":"2026-08-16T00:56:57.036Z"}}
+{"aggregate":"total_activity_points","contributor":"ATHULELDHO","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-16T00:56:57.033Z"}}
