@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Aryanair10","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-16T12:27:59.522Z"}}
-{"aggregate":"activity_count","contributor":"Aryanair10","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-16T12:27:59.518Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Aryanair10","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-16T12:27:59.524Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Aryanair10","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-16T12:27:59.526Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Aryanair10","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-16T12:27:59.523Z"}}
-{"aggregate":"first_activity_date","contributor":"Aryanair10","value":{"type":"string","value":"2024-04-26"},"meta":{"calculated_at":"2026-08-16T12:27:59.520Z"}}
-{"aggregate":"last_activity_date","contributor":"Aryanair10","value":{"type":"string","value":"2024-05-24"},"meta":{"calculated_at":"2026-08-16T12:27:59.521Z"}}
-{"aggregate":"total_activity_points","contributor":"Aryanair10","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-08-16T12:27:59.517Z"}}
+{"aggregate":"active_days","contributor":"Aryanair10","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-16T18:27:21.165Z"}}
+{"aggregate":"activity_count","contributor":"Aryanair10","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-16T18:27:20.549Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Aryanair10","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-16T18:27:21.179Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Aryanair10","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-16T18:27:21.181Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Aryanair10","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-16T18:27:21.173Z"}}
+{"aggregate":"first_activity_date","contributor":"Aryanair10","value":{"type":"string","value":"2024-04-26"},"meta":{"calculated_at":"2026-08-16T18:27:20.810Z"}}
+{"aggregate":"last_activity_date","contributor":"Aryanair10","value":{"type":"string","value":"2024-05-24"},"meta":{"calculated_at":"2026-08-16T18:27:20.957Z"}}
+{"aggregate":"total_activity_points","contributor":"Aryanair10","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-08-16T18:27:20.545Z"}}
