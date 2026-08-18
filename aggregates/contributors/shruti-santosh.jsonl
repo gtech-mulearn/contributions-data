@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"shruti-santosh","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-18T12:34:24.048Z"}}
-{"aggregate":"activity_count","contributor":"shruti-santosh","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-08-18T12:34:24.045Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"shruti-santosh","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-18T12:34:24.050Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"shruti-santosh","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-18T12:34:24.052Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"shruti-santosh","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-18T12:34:24.049Z"}}
-{"aggregate":"first_activity_date","contributor":"shruti-santosh","value":{"type":"string","value":"2022-09-26"},"meta":{"calculated_at":"2026-08-18T12:34:24.046Z"}}
-{"aggregate":"last_activity_date","contributor":"shruti-santosh","value":{"type":"string","value":"2022-10-01"},"meta":{"calculated_at":"2026-08-18T12:34:24.047Z"}}
-{"aggregate":"total_activity_points","contributor":"shruti-santosh","value":{"type":"number","value":40,"format":"integer"},"meta":{"calculated_at":"2026-08-18T12:34:24.044Z"}}
+{"aggregate":"active_days","contributor":"shruti-santosh","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-18T18:30:44.159Z"}}
+{"aggregate":"activity_count","contributor":"shruti-santosh","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-08-18T18:30:44.157Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"shruti-santosh","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-18T18:30:44.161Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"shruti-santosh","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-18T18:30:44.162Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"shruti-santosh","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-18T18:30:44.160Z"}}
+{"aggregate":"first_activity_date","contributor":"shruti-santosh","value":{"type":"string","value":"2022-09-26"},"meta":{"calculated_at":"2026-08-18T18:30:44.157Z"}}
+{"aggregate":"last_activity_date","contributor":"shruti-santosh","value":{"type":"string","value":"2022-10-01"},"meta":{"calculated_at":"2026-08-18T18:30:44.158Z"}}
+{"aggregate":"total_activity_points","contributor":"shruti-santosh","value":{"type":"number","value":40,"format":"integer"},"meta":{"calculated_at":"2026-08-18T18:30:44.155Z"}}
