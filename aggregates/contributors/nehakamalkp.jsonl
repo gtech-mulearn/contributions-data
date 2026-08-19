@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"nehakamalkp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T06:34:46.098Z"}}
-{"aggregate":"activity_count","contributor":"nehakamalkp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:46.096Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"nehakamalkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T06:34:46.100Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"nehakamalkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T06:34:46.101Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"nehakamalkp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T06:34:46.099Z"}}
-{"aggregate":"first_activity_date","contributor":"nehakamalkp","value":{"type":"string","value":"2022-05-14"},"meta":{"calculated_at":"2026-08-19T06:34:46.097Z"}}
-{"aggregate":"last_activity_date","contributor":"nehakamalkp","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-08-19T06:34:46.097Z"}}
-{"aggregate":"total_activity_points","contributor":"nehakamalkp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:46.095Z"}}
+{"aggregate":"active_days","contributor":"nehakamalkp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T12:35:43.614Z"}}
+{"aggregate":"activity_count","contributor":"nehakamalkp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-19T12:35:43.611Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"nehakamalkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T12:35:43.615Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"nehakamalkp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T12:35:43.616Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"nehakamalkp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T12:35:43.614Z"}}
+{"aggregate":"first_activity_date","contributor":"nehakamalkp","value":{"type":"string","value":"2022-05-14"},"meta":{"calculated_at":"2026-08-19T12:35:43.612Z"}}
+{"aggregate":"last_activity_date","contributor":"nehakamalkp","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-08-19T12:35:43.613Z"}}
+{"aggregate":"total_activity_points","contributor":"nehakamalkp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-19T12:35:43.610Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"ananthan-007","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T06:34:35.661Z"}}
-{"aggregate":"activity_count","contributor":"ananthan-007","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:35.658Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"ananthan-007","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T06:34:35.663Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"ananthan-007","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T06:34:35.664Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"ananthan-007","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T06:34:35.662Z"}}
-{"aggregate":"first_activity_date","contributor":"ananthan-007","value":{"type":"string","value":"2025-03-30"},"meta":{"calculated_at":"2026-08-19T06:34:35.659Z"}}
-{"aggregate":"last_activity_date","contributor":"ananthan-007","value":{"type":"string","value":"2026-01-06"},"meta":{"calculated_at":"2026-08-19T06:34:35.660Z"}}
-{"aggregate":"total_activity_points","contributor":"ananthan-007","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:35.657Z"}}
+{"aggregate":"active_days","contributor":"ananthan-007","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T12:35:31.418Z"}}
+{"aggregate":"activity_count","contributor":"ananthan-007","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-19T12:35:31.415Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"ananthan-007","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T12:35:31.420Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"ananthan-007","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T12:35:31.421Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"ananthan-007","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T12:35:31.419Z"}}
+{"aggregate":"first_activity_date","contributor":"ananthan-007","value":{"type":"string","value":"2025-03-30"},"meta":{"calculated_at":"2026-08-19T12:35:31.416Z"}}
+{"aggregate":"last_activity_date","contributor":"ananthan-007","value":{"type":"string","value":"2026-01-06"},"meta":{"calculated_at":"2026-08-19T12:35:31.417Z"}}
+{"aggregate":"total_activity_points","contributor":"ananthan-007","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-19T12:35:31.414Z"}}
