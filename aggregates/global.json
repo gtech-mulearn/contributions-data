@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 56,
+      "value": 55,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-18T18:30:25.383Z",
-      "period_start": "2026-07-19",
-      "period_end": "2026-08-18"
+      "calculated_at": "2026-08-19T00:54:09.415Z",
+      "period_start": "2026-07-20",
+      "period_end": "2026-08-19"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-18T18:30:25.666Z"
+      "calculated_at": "2026-08-19T00:54:09.689Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-18T18:30:25.668Z"
+      "calculated_at": "2026-08-19T00:54:09.690Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 13203,
+      "value": 13204,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-18T18:30:25.670Z"
+      "calculated_at": "2026-08-19T00:54:09.691Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-18T18:30:25.671Z"
+      "calculated_at": "2026-08-19T00:54:09.692Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27488,
+      "value": 27489,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-18T18:30:25.369Z"
+      "calculated_at": "2026-08-19T00:54:09.402Z"
     }
   },
   {
@@ -95,12 +95,12 @@
     "description": "Total number of contributors",
     "value": {
       "type": "number",
-      "value": 2743,
+      "value": 2744,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-18T18:30:25.368Z"
+      "calculated_at": "2026-08-19T00:54:09.400Z"
     }
   }
 ]

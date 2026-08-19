@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Emil-Binoy","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-18T18:30:34.365Z"}}
-{"aggregate":"activity_count","contributor":"Emil-Binoy","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-18T18:30:34.362Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Emil-Binoy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-18T18:30:34.367Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Emil-Binoy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-18T18:30:34.368Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Emil-Binoy","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-18T18:30:34.366Z"}}
-{"aggregate":"first_activity_date","contributor":"Emil-Binoy","value":{"type":"string","value":"2025-07-22"},"meta":{"calculated_at":"2026-08-18T18:30:34.363Z"}}
-{"aggregate":"last_activity_date","contributor":"Emil-Binoy","value":{"type":"string","value":"2025-08-02"},"meta":{"calculated_at":"2026-08-18T18:30:34.364Z"}}
-{"aggregate":"total_activity_points","contributor":"Emil-Binoy","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-18T18:30:34.361Z"}}
+{"aggregate":"active_days","contributor":"Emil-Binoy","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T00:54:18.230Z"}}
+{"aggregate":"activity_count","contributor":"Emil-Binoy","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-19T00:54:18.226Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Emil-Binoy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T00:54:18.231Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Emil-Binoy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T00:54:18.233Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Emil-Binoy","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T00:54:18.231Z"}}
+{"aggregate":"first_activity_date","contributor":"Emil-Binoy","value":{"type":"string","value":"2025-07-22"},"meta":{"calculated_at":"2026-08-19T00:54:18.227Z"}}
+{"aggregate":"last_activity_date","contributor":"Emil-Binoy","value":{"type":"string","value":"2025-08-02"},"meta":{"calculated_at":"2026-08-19T00:54:18.228Z"}}
+{"aggregate":"total_activity_points","contributor":"Emil-Binoy","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-19T00:54:18.226Z"}}
