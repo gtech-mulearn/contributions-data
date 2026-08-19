@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"anna-rose-thomas","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T00:54:14.176Z"}}
-{"aggregate":"activity_count","contributor":"anna-rose-thomas","value":{"type":"number","value":10,"format":"integer"},"meta":{"calculated_at":"2026-08-19T00:54:14.174Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"anna-rose-thomas","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T00:54:14.178Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"anna-rose-thomas","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T00:54:14.179Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"anna-rose-thomas","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T00:54:14.177Z"}}
-{"aggregate":"first_activity_date","contributor":"anna-rose-thomas","value":{"type":"string","value":"2025-07-09"},"meta":{"calculated_at":"2026-08-19T00:54:14.175Z"}}
-{"aggregate":"last_activity_date","contributor":"anna-rose-thomas","value":{"type":"string","value":"2025-10-16"},"meta":{"calculated_at":"2026-08-19T00:54:14.176Z"}}
-{"aggregate":"total_activity_points","contributor":"anna-rose-thomas","value":{"type":"number","value":75,"format":"integer"},"meta":{"calculated_at":"2026-08-19T00:54:14.173Z"}}
+{"aggregate":"active_days","contributor":"anna-rose-thomas","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T06:34:36.075Z"}}
+{"aggregate":"activity_count","contributor":"anna-rose-thomas","value":{"type":"number","value":10,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:36.072Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"anna-rose-thomas","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T06:34:36.077Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"anna-rose-thomas","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T06:34:36.078Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"anna-rose-thomas","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T06:34:36.076Z"}}
+{"aggregate":"first_activity_date","contributor":"anna-rose-thomas","value":{"type":"string","value":"2025-07-09"},"meta":{"calculated_at":"2026-08-19T06:34:36.073Z"}}
+{"aggregate":"last_activity_date","contributor":"anna-rose-thomas","value":{"type":"string","value":"2025-10-16"},"meta":{"calculated_at":"2026-08-19T06:34:36.074Z"}}
+{"aggregate":"total_activity_points","contributor":"anna-rose-thomas","value":{"type":"number","value":75,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:36.071Z"}}

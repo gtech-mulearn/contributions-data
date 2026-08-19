@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Hanna-06","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T00:54:19.681Z"}}
-{"aggregate":"activity_count","contributor":"Hanna-06","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-08-19T00:54:19.679Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Hanna-06","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T00:54:19.683Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Hanna-06","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T00:54:19.684Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Hanna-06","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T00:54:19.683Z"}}
-{"aggregate":"first_activity_date","contributor":"Hanna-06","value":{"type":"string","value":"2025-07-10"},"meta":{"calculated_at":"2026-08-19T00:54:19.680Z"}}
-{"aggregate":"last_activity_date","contributor":"Hanna-06","value":{"type":"string","value":"2025-09-10"},"meta":{"calculated_at":"2026-08-19T00:54:19.681Z"}}
-{"aggregate":"total_activity_points","contributor":"Hanna-06","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-08-19T00:54:19.678Z"}}
+{"aggregate":"active_days","contributor":"Hanna-06","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T06:34:41.277Z"}}
+{"aggregate":"activity_count","contributor":"Hanna-06","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:41.274Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Hanna-06","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T06:34:41.279Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Hanna-06","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T06:34:41.280Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Hanna-06","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T06:34:41.278Z"}}
+{"aggregate":"first_activity_date","contributor":"Hanna-06","value":{"type":"string","value":"2025-07-10"},"meta":{"calculated_at":"2026-08-19T06:34:41.275Z"}}
+{"aggregate":"last_activity_date","contributor":"Hanna-06","value":{"type":"string","value":"2025-09-10"},"meta":{"calculated_at":"2026-08-19T06:34:41.276Z"}}
+{"aggregate":"total_activity_points","contributor":"Hanna-06","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-08-19T06:34:41.273Z"}}
