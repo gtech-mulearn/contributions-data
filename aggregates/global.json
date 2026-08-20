@@ -10,9 +10,9 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-19T18:26:22.298Z",
-      "period_start": "2026-07-20",
-      "period_end": "2026-08-19"
+      "calculated_at": "2026-08-20T00:53:45.920Z",
+      "period_start": "2026-07-21",
+      "period_end": "2026-08-20"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-19T18:26:22.579Z"
+      "calculated_at": "2026-08-20T00:53:46.218Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10660,
+      "value": 10667,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-19T18:26:22.581Z"
+      "calculated_at": "2026-08-20T00:53:46.220Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 13208,
+      "value": 13215,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-19T18:26:22.583Z"
+      "calculated_at": "2026-08-20T00:53:46.221Z"
     }
   },
   {
@@ -66,13 +66,13 @@
     "description": "Total number of PR Reviewed activities",
     "value": {
       "type": "number",
-      "value": 2513,
+      "value": 2515,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-19T18:26:22.584Z"
+      "calculated_at": "2026-08-20T00:53:46.222Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27498,
+      "value": 27514,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-19T18:26:22.285Z"
+      "calculated_at": "2026-08-20T00:53:45.907Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-19T18:26:22.283Z"
+      "calculated_at": "2026-08-20T00:53:45.905Z"
     }
   }
 ]

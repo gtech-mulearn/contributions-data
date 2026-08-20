@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"7homasjames","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-19T18:26:22.746Z"}}
-{"aggregate":"activity_count","contributor":"7homasjames","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-19T18:26:22.743Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"7homasjames","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-19T18:26:22.748Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"7homasjames","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-19T18:26:22.749Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"7homasjames","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-19T18:26:22.747Z"}}
-{"aggregate":"first_activity_date","contributor":"7homasjames","value":{"type":"string","value":"2024-04-27"},"meta":{"calculated_at":"2026-08-19T18:26:22.744Z"}}
-{"aggregate":"last_activity_date","contributor":"7homasjames","value":{"type":"string","value":"2024-04-28"},"meta":{"calculated_at":"2026-08-19T18:26:22.745Z"}}
-{"aggregate":"total_activity_points","contributor":"7homasjames","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-19T18:26:22.742Z"}}
+{"aggregate":"active_days","contributor":"7homasjames","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-20T00:53:46.377Z"}}
+{"aggregate":"activity_count","contributor":"7homasjames","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-20T00:53:46.374Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"7homasjames","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-20T00:53:46.379Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"7homasjames","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-20T00:53:46.380Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"7homasjames","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-20T00:53:46.378Z"}}
+{"aggregate":"first_activity_date","contributor":"7homasjames","value":{"type":"string","value":"2024-04-27"},"meta":{"calculated_at":"2026-08-20T00:53:46.375Z"}}
+{"aggregate":"last_activity_date","contributor":"7homasjames","value":{"type":"string","value":"2024-04-28"},"meta":{"calculated_at":"2026-08-20T00:53:46.376Z"}}
+{"aggregate":"total_activity_points","contributor":"7homasjames","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-20T00:53:46.373Z"}}
