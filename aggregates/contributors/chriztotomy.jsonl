@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"chriztotomy","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-20T12:36:42.700Z"}}
-{"aggregate":"activity_count","contributor":"chriztotomy","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-20T12:36:42.697Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"chriztotomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-20T12:36:42.702Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"chriztotomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-20T12:36:42.703Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"chriztotomy","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-20T12:36:42.701Z"}}
-{"aggregate":"first_activity_date","contributor":"chriztotomy","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-08-20T12:36:42.698Z"}}
-{"aggregate":"last_activity_date","contributor":"chriztotomy","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-08-20T12:36:42.699Z"}}
-{"aggregate":"total_activity_points","contributor":"chriztotomy","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-20T12:36:42.696Z"}}
+{"aggregate":"active_days","contributor":"chriztotomy","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-20T18:31:19.725Z"}}
+{"aggregate":"activity_count","contributor":"chriztotomy","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-20T18:31:19.722Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"chriztotomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-20T18:31:19.727Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"chriztotomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-20T18:31:19.728Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"chriztotomy","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-20T18:31:19.726Z"}}
+{"aggregate":"first_activity_date","contributor":"chriztotomy","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-08-20T18:31:19.723Z"}}
+{"aggregate":"last_activity_date","contributor":"chriztotomy","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-08-20T18:31:19.724Z"}}
+{"aggregate":"total_activity_points","contributor":"chriztotomy","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-20T18:31:19.722Z"}}
