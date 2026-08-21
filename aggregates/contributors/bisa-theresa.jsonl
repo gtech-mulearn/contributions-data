@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"bisa-theresa","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-20T18:31:19.395Z"}}
-{"aggregate":"activity_count","contributor":"bisa-theresa","value":{"type":"number","value":11,"format":"integer"},"meta":{"calculated_at":"2026-08-20T18:31:19.392Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"bisa-theresa","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-20T18:31:19.397Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"bisa-theresa","value":{"type":"number","value":10,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-20T18:31:19.398Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"bisa-theresa","value":{"type":"number","value":5.45,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-20T18:31:19.396Z"}}
-{"aggregate":"first_activity_date","contributor":"bisa-theresa","value":{"type":"string","value":"2026-06-10"},"meta":{"calculated_at":"2026-08-20T18:31:19.393Z"}}
-{"aggregate":"last_activity_date","contributor":"bisa-theresa","value":{"type":"string","value":"2026-07-30"},"meta":{"calculated_at":"2026-08-20T18:31:19.394Z"}}
-{"aggregate":"total_activity_points","contributor":"bisa-theresa","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-08-20T18:31:19.391Z"}}
+{"aggregate":"active_days","contributor":"bisa-theresa","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-21T00:57:36.563Z"}}
+{"aggregate":"activity_count","contributor":"bisa-theresa","value":{"type":"number","value":11,"format":"integer"},"meta":{"calculated_at":"2026-08-21T00:57:36.561Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"bisa-theresa","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-21T00:57:36.564Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"bisa-theresa","value":{"type":"number","value":10,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-21T00:57:36.565Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"bisa-theresa","value":{"type":"number","value":5.45,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-21T00:57:36.564Z"}}
+{"aggregate":"first_activity_date","contributor":"bisa-theresa","value":{"type":"string","value":"2026-06-10"},"meta":{"calculated_at":"2026-08-21T00:57:36.561Z"}}
+{"aggregate":"last_activity_date","contributor":"bisa-theresa","value":{"type":"string","value":"2026-07-30"},"meta":{"calculated_at":"2026-08-21T00:57:36.562Z"}}
+{"aggregate":"total_activity_points","contributor":"bisa-theresa","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-08-21T00:57:36.560Z"}}
