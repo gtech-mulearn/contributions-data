@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"JohanJomy","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-22T12:27:24.693Z"}}
-{"aggregate":"activity_count","contributor":"JohanJomy","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-22T12:27:24.690Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"JohanJomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-22T12:27:24.695Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"JohanJomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-22T12:27:24.696Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"JohanJomy","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-22T12:27:24.694Z"}}
-{"aggregate":"first_activity_date","contributor":"JohanJomy","value":{"type":"string","value":"2024-02-22"},"meta":{"calculated_at":"2026-08-22T12:27:24.691Z"}}
-{"aggregate":"last_activity_date","contributor":"JohanJomy","value":{"type":"string","value":"2024-02-26"},"meta":{"calculated_at":"2026-08-22T12:27:24.692Z"}}
-{"aggregate":"total_activity_points","contributor":"JohanJomy","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-22T12:27:24.689Z"}}
+{"aggregate":"active_days","contributor":"JohanJomy","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-22T18:21:41.004Z"}}
+{"aggregate":"activity_count","contributor":"JohanJomy","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-22T18:21:41.001Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"JohanJomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-22T18:21:41.006Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"JohanJomy","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-22T18:21:41.007Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"JohanJomy","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-22T18:21:41.005Z"}}
+{"aggregate":"first_activity_date","contributor":"JohanJomy","value":{"type":"string","value":"2024-02-22"},"meta":{"calculated_at":"2026-08-22T18:21:41.002Z"}}
+{"aggregate":"last_activity_date","contributor":"JohanJomy","value":{"type":"string","value":"2024-02-26"},"meta":{"calculated_at":"2026-08-22T18:21:41.003Z"}}
+{"aggregate":"total_activity_points","contributor":"JohanJomy","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-22T18:21:41.001Z"}}
