@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Martin-prog-spec","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-21T18:29:22.726Z"}}
-{"aggregate":"activity_count","contributor":"Martin-prog-spec","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-21T18:29:22.724Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Martin-prog-spec","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-21T18:29:22.728Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Martin-prog-spec","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-21T18:29:22.729Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Martin-prog-spec","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-21T18:29:22.727Z"}}
-{"aggregate":"first_activity_date","contributor":"Martin-prog-spec","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-08-21T18:29:22.725Z"}}
-{"aggregate":"last_activity_date","contributor":"Martin-prog-spec","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-08-21T18:29:22.726Z"}}
-{"aggregate":"total_activity_points","contributor":"Martin-prog-spec","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-21T18:29:22.723Z"}}
+{"aggregate":"active_days","contributor":"Martin-prog-spec","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-22T00:54:51.129Z"}}
+{"aggregate":"activity_count","contributor":"Martin-prog-spec","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-22T00:54:51.122Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Martin-prog-spec","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-22T00:54:51.131Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Martin-prog-spec","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-22T00:54:51.132Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Martin-prog-spec","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-22T00:54:51.130Z"}}
+{"aggregate":"first_activity_date","contributor":"Martin-prog-spec","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-08-22T00:54:51.123Z"}}
+{"aggregate":"last_activity_date","contributor":"Martin-prog-spec","value":{"type":"string","value":"2025-03-21"},"meta":{"calculated_at":"2026-08-22T00:54:51.128Z"}}
+{"aggregate":"total_activity_points","contributor":"Martin-prog-spec","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-22T00:54:51.121Z"}}
