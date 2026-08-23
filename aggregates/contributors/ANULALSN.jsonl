@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"ANULALSN","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-23T00:58:24.873Z"}}
-{"aggregate":"activity_count","contributor":"ANULALSN","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-23T00:58:24.870Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"ANULALSN","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-23T00:58:24.874Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"ANULALSN","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-23T00:58:24.875Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"ANULALSN","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-23T00:58:24.873Z"}}
-{"aggregate":"first_activity_date","contributor":"ANULALSN","value":{"type":"string","value":"2025-05-26"},"meta":{"calculated_at":"2026-08-23T00:58:24.871Z"}}
-{"aggregate":"last_activity_date","contributor":"ANULALSN","value":{"type":"string","value":"2025-05-26"},"meta":{"calculated_at":"2026-08-23T00:58:24.872Z"}}
-{"aggregate":"total_activity_points","contributor":"ANULALSN","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-23T00:58:24.869Z"}}
+{"aggregate":"active_days","contributor":"ANULALSN","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-23T06:31:50.216Z"}}
+{"aggregate":"activity_count","contributor":"ANULALSN","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-23T06:31:50.213Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"ANULALSN","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-23T06:31:50.218Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"ANULALSN","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-23T06:31:50.218Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"ANULALSN","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-23T06:31:50.217Z"}}
+{"aggregate":"first_activity_date","contributor":"ANULALSN","value":{"type":"string","value":"2025-05-26"},"meta":{"calculated_at":"2026-08-23T06:31:50.214Z"}}
+{"aggregate":"last_activity_date","contributor":"ANULALSN","value":{"type":"string","value":"2025-05-26"},"meta":{"calculated_at":"2026-08-23T06:31:50.215Z"}}
+{"aggregate":"total_activity_points","contributor":"ANULALSN","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-23T06:31:50.212Z"}}
