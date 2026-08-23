@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"GeorgeET15","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-23T06:31:54.860Z"}}
-{"aggregate":"activity_count","contributor":"GeorgeET15","value":{"type":"number","value":13,"format":"integer"},"meta":{"calculated_at":"2026-08-23T06:31:54.857Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"GeorgeET15","value":{"type":"number","value":6,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-23T06:31:54.861Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"GeorgeET15","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-23T06:31:54.862Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"GeorgeET15","value":{"type":"number","value":7.31,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-23T06:31:54.860Z"}}
-{"aggregate":"first_activity_date","contributor":"GeorgeET15","value":{"type":"string","value":"2024-05-11"},"meta":{"calculated_at":"2026-08-23T06:31:54.858Z"}}
-{"aggregate":"last_activity_date","contributor":"GeorgeET15","value":{"type":"string","value":"2024-08-11"},"meta":{"calculated_at":"2026-08-23T06:31:54.859Z"}}
-{"aggregate":"total_activity_points","contributor":"GeorgeET15","value":{"type":"number","value":95,"format":"integer"},"meta":{"calculated_at":"2026-08-23T06:31:54.856Z"}}
+{"aggregate":"active_days","contributor":"GeorgeET15","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-23T12:27:42.069Z"}}
+{"aggregate":"activity_count","contributor":"GeorgeET15","value":{"type":"number","value":13,"format":"integer"},"meta":{"calculated_at":"2026-08-23T12:27:42.067Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"GeorgeET15","value":{"type":"number","value":6,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-23T12:27:42.070Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"GeorgeET15","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-23T12:27:42.071Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"GeorgeET15","value":{"type":"number","value":7.31,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-23T12:27:42.070Z"}}
+{"aggregate":"first_activity_date","contributor":"GeorgeET15","value":{"type":"string","value":"2024-05-11"},"meta":{"calculated_at":"2026-08-23T12:27:42.067Z"}}
+{"aggregate":"last_activity_date","contributor":"GeorgeET15","value":{"type":"string","value":"2024-08-11"},"meta":{"calculated_at":"2026-08-23T12:27:42.068Z"}}
+{"aggregate":"total_activity_points","contributor":"GeorgeET15","value":{"type":"number","value":95,"format":"integer"},"meta":{"calculated_at":"2026-08-23T12:27:42.066Z"}}
