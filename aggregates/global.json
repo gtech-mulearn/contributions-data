@@ -5,14 +5,14 @@
     "description": "Number of contributors with activity in the last 30 days",
     "value": {
       "type": "number",
-      "value": 54,
+      "value": 53,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-23T18:21:58.952Z",
-      "period_start": "2026-07-24",
-      "period_end": "2026-08-23"
+      "calculated_at": "2026-08-24T00:55:55.850Z",
+      "period_start": "2026-07-25",
+      "period_end": "2026-08-24"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-23T18:21:59.213Z"
+      "calculated_at": "2026-08-24T00:55:56.133Z"
     }
   },
   {
@@ -42,7 +42,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-23T18:21:59.319Z"
+      "calculated_at": "2026-08-24T00:55:56.135Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 13228,
+      "value": 13229,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-23T18:21:59.320Z"
+      "calculated_at": "2026-08-24T00:55:56.137Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-23T18:21:59.321Z"
+      "calculated_at": "2026-08-24T00:55:56.143Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27539,
+      "value": 27540,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-23T18:21:58.944Z"
+      "calculated_at": "2026-08-24T00:55:55.837Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-23T18:21:58.942Z"
+      "calculated_at": "2026-08-24T00:55:55.834Z"
     }
   }
 ]
