@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"favaz-vp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-24T06:44:42.778Z"}}
-{"aggregate":"activity_count","contributor":"favaz-vp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-24T06:44:42.775Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"favaz-vp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-24T06:44:42.780Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"favaz-vp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-24T06:44:42.781Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"favaz-vp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-24T06:44:42.779Z"}}
-{"aggregate":"first_activity_date","contributor":"favaz-vp","value":{"type":"string","value":"2024-05-10"},"meta":{"calculated_at":"2026-08-24T06:44:42.776Z"}}
-{"aggregate":"last_activity_date","contributor":"favaz-vp","value":{"type":"string","value":"2024-05-11"},"meta":{"calculated_at":"2026-08-24T06:44:42.777Z"}}
-{"aggregate":"total_activity_points","contributor":"favaz-vp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-24T06:44:42.774Z"}}
+{"aggregate":"active_days","contributor":"favaz-vp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-24T12:38:06.704Z"}}
+{"aggregate":"activity_count","contributor":"favaz-vp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-24T12:38:06.686Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"favaz-vp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-24T12:38:06.706Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"favaz-vp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-24T12:38:06.707Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"favaz-vp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-24T12:38:06.705Z"}}
+{"aggregate":"first_activity_date","contributor":"favaz-vp","value":{"type":"string","value":"2024-05-10"},"meta":{"calculated_at":"2026-08-24T12:38:06.687Z"}}
+{"aggregate":"last_activity_date","contributor":"favaz-vp","value":{"type":"string","value":"2024-05-11"},"meta":{"calculated_at":"2026-08-24T12:38:06.702Z"}}
+{"aggregate":"total_activity_points","contributor":"favaz-vp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-24T12:38:06.684Z"}}

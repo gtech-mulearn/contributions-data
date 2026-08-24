@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"AanKWin","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-24T06:44:33.521Z"}}
-{"aggregate":"activity_count","contributor":"AanKWin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-24T06:44:33.518Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"AanKWin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-24T06:44:33.523Z"}}
-{"aggregate":"activity_count:pr_reviewed","contributor":"AanKWin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_reviewed","calculated_at":"2026-08-24T06:44:33.524Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"AanKWin","value":{"type":"number","value":4.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-24T06:44:33.522Z"}}
-{"aggregate":"first_activity_date","contributor":"AanKWin","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-08-24T06:44:33.519Z"}}
-{"aggregate":"last_activity_date","contributor":"AanKWin","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-08-24T06:44:33.520Z"}}
-{"aggregate":"total_activity_points","contributor":"AanKWin","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-08-24T06:44:33.517Z"}}
+{"aggregate":"active_days","contributor":"AanKWin","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-24T12:37:45.817Z"}}
+{"aggregate":"activity_count","contributor":"AanKWin","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-24T12:37:45.812Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AanKWin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-24T12:37:45.820Z"}}
+{"aggregate":"activity_count:pr_reviewed","contributor":"AanKWin","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_reviewed","calculated_at":"2026-08-24T12:37:45.822Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AanKWin","value":{"type":"number","value":4.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-24T12:37:45.818Z"}}
+{"aggregate":"first_activity_date","contributor":"AanKWin","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-08-24T12:37:45.813Z"}}
+{"aggregate":"last_activity_date","contributor":"AanKWin","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-08-24T12:37:45.816Z"}}
+{"aggregate":"total_activity_points","contributor":"AanKWin","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-08-24T12:37:45.811Z"}}

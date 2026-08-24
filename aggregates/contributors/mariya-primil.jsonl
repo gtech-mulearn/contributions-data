@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mariya-primil","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-24T06:44:47.254Z"}}
-{"aggregate":"activity_count","contributor":"mariya-primil","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-24T06:44:47.251Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mariya-primil","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-24T06:44:47.256Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mariya-primil","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-24T06:44:47.257Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mariya-primil","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-24T06:44:47.255Z"}}
-{"aggregate":"first_activity_date","contributor":"mariya-primil","value":{"type":"string","value":"2026-06-13"},"meta":{"calculated_at":"2026-08-24T06:44:47.252Z"}}
-{"aggregate":"last_activity_date","contributor":"mariya-primil","value":{"type":"string","value":"2026-06-19"},"meta":{"calculated_at":"2026-08-24T06:44:47.253Z"}}
-{"aggregate":"total_activity_points","contributor":"mariya-primil","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-08-24T06:44:47.250Z"}}
+{"aggregate":"active_days","contributor":"mariya-primil","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-24T12:38:14.662Z"}}
+{"aggregate":"activity_count","contributor":"mariya-primil","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-24T12:38:14.659Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mariya-primil","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-24T12:38:14.664Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mariya-primil","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-24T12:38:14.666Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mariya-primil","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-24T12:38:14.663Z"}}
+{"aggregate":"first_activity_date","contributor":"mariya-primil","value":{"type":"string","value":"2026-06-13"},"meta":{"calculated_at":"2026-08-24T12:38:14.660Z"}}
+{"aggregate":"last_activity_date","contributor":"mariya-primil","value":{"type":"string","value":"2026-06-19"},"meta":{"calculated_at":"2026-08-24T12:38:14.661Z"}}
+{"aggregate":"total_activity_points","contributor":"mariya-primil","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-08-24T12:38:14.658Z"}}
