@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"shanilmohd","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-25T06:37:18.252Z"}}
-{"aggregate":"activity_count","contributor":"shanilmohd","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-25T06:37:18.249Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"shanilmohd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-25T06:37:18.254Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"shanilmohd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-25T06:37:18.254Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"shanilmohd","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-25T06:37:18.253Z"}}
-{"aggregate":"first_activity_date","contributor":"shanilmohd","value":{"type":"string","value":"2022-05-11"},"meta":{"calculated_at":"2026-08-25T06:37:18.250Z"}}
-{"aggregate":"last_activity_date","contributor":"shanilmohd","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-08-25T06:37:18.251Z"}}
-{"aggregate":"total_activity_points","contributor":"shanilmohd","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-25T06:37:18.248Z"}}
+{"aggregate":"active_days","contributor":"shanilmohd","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-25T12:36:53.882Z"}}
+{"aggregate":"activity_count","contributor":"shanilmohd","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-25T12:36:53.879Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"shanilmohd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-25T12:36:53.883Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"shanilmohd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-25T12:36:53.884Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"shanilmohd","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-25T12:36:53.882Z"}}
+{"aggregate":"first_activity_date","contributor":"shanilmohd","value":{"type":"string","value":"2022-05-11"},"meta":{"calculated_at":"2026-08-25T12:36:53.880Z"}}
+{"aggregate":"last_activity_date","contributor":"shanilmohd","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-08-25T12:36:53.881Z"}}
+{"aggregate":"total_activity_points","contributor":"shanilmohd","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-25T12:36:53.878Z"}}
