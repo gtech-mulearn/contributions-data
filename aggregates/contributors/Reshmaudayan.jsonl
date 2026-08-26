@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Reshmaudayan","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-26T00:59:51.616Z"}}
-{"aggregate":"activity_count","contributor":"Reshmaudayan","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-26T00:59:51.611Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Reshmaudayan","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-26T00:59:51.620Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Reshmaudayan","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-26T00:59:51.622Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Reshmaudayan","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-26T00:59:51.618Z"}}
-{"aggregate":"first_activity_date","contributor":"Reshmaudayan","value":{"type":"string","value":"2024-06-26"},"meta":{"calculated_at":"2026-08-26T00:59:51.613Z"}}
-{"aggregate":"last_activity_date","contributor":"Reshmaudayan","value":{"type":"string","value":"2024-06-26"},"meta":{"calculated_at":"2026-08-26T00:59:51.615Z"}}
-{"aggregate":"total_activity_points","contributor":"Reshmaudayan","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-26T00:59:51.610Z"}}
+{"aggregate":"active_days","contributor":"Reshmaudayan","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-26T06:38:59.003Z"}}
+{"aggregate":"activity_count","contributor":"Reshmaudayan","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-26T06:38:59.001Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Reshmaudayan","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-26T06:38:59.005Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Reshmaudayan","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-26T06:38:59.006Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Reshmaudayan","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-26T06:38:59.004Z"}}
+{"aggregate":"first_activity_date","contributor":"Reshmaudayan","value":{"type":"string","value":"2024-06-26"},"meta":{"calculated_at":"2026-08-26T06:38:59.002Z"}}
+{"aggregate":"last_activity_date","contributor":"Reshmaudayan","value":{"type":"string","value":"2024-06-26"},"meta":{"calculated_at":"2026-08-26T06:38:59.003Z"}}
+{"aggregate":"total_activity_points","contributor":"Reshmaudayan","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-26T06:38:59.000Z"}}
