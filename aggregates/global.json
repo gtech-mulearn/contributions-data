@@ -10,9 +10,9 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-26T19:43:49.901Z",
-      "period_start": "2026-07-27",
-      "period_end": "2026-08-26"
+      "calculated_at": "2026-08-27T06:41:00.238Z",
+      "period_start": "2026-07-28",
+      "period_end": "2026-08-27"
     }
   },
   {
@@ -27,7 +27,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "issue_opened",
-      "calculated_at": "2026-08-26T19:43:50.181Z"
+      "calculated_at": "2026-08-27T06:41:00.513Z"
     }
   },
   {
@@ -36,13 +36,13 @@
     "description": "Total number of PR Merged activities",
     "value": {
       "type": "number",
-      "value": 10682,
+      "value": 10683,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_merged",
-      "calculated_at": "2026-08-26T19:43:50.182Z"
+      "calculated_at": "2026-08-27T06:41:00.515Z"
     }
   },
   {
@@ -51,13 +51,13 @@
     "description": "Total number of PR Opened activities",
     "value": {
       "type": "number",
-      "value": 13233,
+      "value": 13235,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_opened",
-      "calculated_at": "2026-08-26T19:43:50.183Z"
+      "calculated_at": "2026-08-27T06:41:00.516Z"
     }
   },
   {
@@ -72,7 +72,7 @@
     "hidden": 0,
     "meta": {
       "activity_definition": "pr_reviewed",
-      "calculated_at": "2026-08-26T19:43:50.184Z"
+      "calculated_at": "2026-08-27T06:41:00.516Z"
     }
   },
   {
@@ -81,12 +81,12 @@
     "description": "Total number of activities",
     "value": {
       "type": "number",
-      "value": 27551,
+      "value": 27554,
       "format": "integer"
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-26T19:43:49.891Z"
+      "calculated_at": "2026-08-27T06:41:00.228Z"
     }
   },
   {
@@ -100,7 +100,7 @@
     },
     "hidden": 0,
     "meta": {
-      "calculated_at": "2026-08-26T19:43:49.890Z"
+      "calculated_at": "2026-08-27T06:41:00.226Z"
     }
   }
 ]
