@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"altfmohd","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-29T12:08:18.853Z"}}
-{"aggregate":"activity_count","contributor":"altfmohd","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-29T12:08:18.839Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"altfmohd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-29T12:08:18.857Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"altfmohd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-29T12:08:18.858Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"altfmohd","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-29T12:08:18.855Z"}}
-{"aggregate":"first_activity_date","contributor":"altfmohd","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T12:08:18.841Z"}}
-{"aggregate":"last_activity_date","contributor":"altfmohd","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T12:08:18.849Z"}}
-{"aggregate":"total_activity_points","contributor":"altfmohd","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-29T12:08:18.837Z"}}
+{"aggregate":"active_days","contributor":"altfmohd","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-29T20:18:13.373Z"}}
+{"aggregate":"activity_count","contributor":"altfmohd","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-08-29T20:18:13.371Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"altfmohd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-29T20:18:13.374Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"altfmohd","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-29T20:18:13.375Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"altfmohd","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-29T20:18:13.374Z"}}
+{"aggregate":"first_activity_date","contributor":"altfmohd","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T20:18:13.371Z"}}
+{"aggregate":"last_activity_date","contributor":"altfmohd","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T20:18:13.372Z"}}
+{"aggregate":"total_activity_points","contributor":"altfmohd","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-08-29T20:18:13.370Z"}}
