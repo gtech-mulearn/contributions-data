@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Samuel44-hue","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-29T05:10:46.826Z"}}
-{"aggregate":"activity_count","contributor":"Samuel44-hue","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-29T05:10:46.824Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Samuel44-hue","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-29T05:10:46.827Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Samuel44-hue","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-29T05:10:46.828Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Samuel44-hue","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-29T05:10:46.827Z"}}
-{"aggregate":"first_activity_date","contributor":"Samuel44-hue","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T05:10:46.825Z"}}
-{"aggregate":"last_activity_date","contributor":"Samuel44-hue","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T05:10:46.825Z"}}
-{"aggregate":"total_activity_points","contributor":"Samuel44-hue","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-29T05:10:46.823Z"}}
+{"aggregate":"active_days","contributor":"Samuel44-hue","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-29T12:09:02.648Z"}}
+{"aggregate":"activity_count","contributor":"Samuel44-hue","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-29T12:09:02.643Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Samuel44-hue","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-29T12:09:02.651Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Samuel44-hue","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-29T12:09:02.652Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Samuel44-hue","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-29T12:09:02.649Z"}}
+{"aggregate":"first_activity_date","contributor":"Samuel44-hue","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T12:09:02.645Z"}}
+{"aggregate":"last_activity_date","contributor":"Samuel44-hue","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-08-29T12:09:02.646Z"}}
+{"aggregate":"total_activity_points","contributor":"Samuel44-hue","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-29T12:09:02.642Z"}}
