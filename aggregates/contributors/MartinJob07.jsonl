@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"MartinJob07","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-30T03:01:55.532Z"}}
-{"aggregate":"activity_count","contributor":"MartinJob07","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-30T03:01:55.529Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"MartinJob07","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-30T03:01:55.534Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"MartinJob07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-30T03:01:55.535Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"MartinJob07","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-30T03:01:55.533Z"}}
-{"aggregate":"first_activity_date","contributor":"MartinJob07","value":{"type":"string","value":"2026-03-27"},"meta":{"calculated_at":"2026-08-30T03:01:55.530Z"}}
-{"aggregate":"last_activity_date","contributor":"MartinJob07","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-08-30T03:01:55.531Z"}}
-{"aggregate":"total_activity_points","contributor":"MartinJob07","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-30T03:01:55.528Z"}}
+{"aggregate":"active_days","contributor":"MartinJob07","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-30T11:03:30.637Z"}}
+{"aggregate":"activity_count","contributor":"MartinJob07","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-08-30T11:03:30.635Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"MartinJob07","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-30T11:03:30.638Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"MartinJob07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-30T11:03:30.639Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"MartinJob07","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-30T11:03:30.638Z"}}
+{"aggregate":"first_activity_date","contributor":"MartinJob07","value":{"type":"string","value":"2026-03-27"},"meta":{"calculated_at":"2026-08-30T11:03:30.635Z"}}
+{"aggregate":"last_activity_date","contributor":"MartinJob07","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-08-30T11:03:30.636Z"}}
+{"aggregate":"total_activity_points","contributor":"MartinJob07","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-08-30T11:03:30.634Z"}}
