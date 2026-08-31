@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"amalaugustinem","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-31T02:56:19.714Z"}}
-{"aggregate":"activity_count","contributor":"amalaugustinem","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-31T02:56:19.711Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"amalaugustinem","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-31T02:56:19.716Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"amalaugustinem","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-31T02:56:19.717Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"amalaugustinem","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-31T02:56:19.715Z"}}
-{"aggregate":"first_activity_date","contributor":"amalaugustinem","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-08-31T02:56:19.712Z"}}
-{"aggregate":"last_activity_date","contributor":"amalaugustinem","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-08-31T02:56:19.713Z"}}
-{"aggregate":"total_activity_points","contributor":"amalaugustinem","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-31T02:56:19.710Z"}}
+{"aggregate":"active_days","contributor":"amalaugustinem","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-08-31T12:25:56.031Z"}}
+{"aggregate":"activity_count","contributor":"amalaugustinem","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-08-31T12:25:56.026Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"amalaugustinem","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-08-31T12:25:56.033Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"amalaugustinem","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-08-31T12:25:56.035Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"amalaugustinem","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-08-31T12:25:56.032Z"}}
+{"aggregate":"first_activity_date","contributor":"amalaugustinem","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-08-31T12:25:56.028Z"}}
+{"aggregate":"last_activity_date","contributor":"amalaugustinem","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-08-31T12:25:56.029Z"}}
+{"aggregate":"total_activity_points","contributor":"amalaugustinem","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-08-31T12:25:56.025Z"}}
