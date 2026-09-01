@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Mehbinamal","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-01T10:58:05.024Z"}}
-{"aggregate":"activity_count","contributor":"Mehbinamal","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-01T10:58:05.021Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Mehbinamal","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-01T10:58:05.026Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Mehbinamal","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-01T10:58:05.027Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Mehbinamal","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-01T10:58:05.025Z"}}
-{"aggregate":"first_activity_date","contributor":"Mehbinamal","value":{"type":"string","value":"2025-08-07"},"meta":{"calculated_at":"2026-09-01T10:58:05.022Z"}}
-{"aggregate":"last_activity_date","contributor":"Mehbinamal","value":{"type":"string","value":"2025-08-08"},"meta":{"calculated_at":"2026-09-01T10:58:05.023Z"}}
-{"aggregate":"total_activity_points","contributor":"Mehbinamal","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-01T10:58:05.021Z"}}
+{"aggregate":"active_days","contributor":"Mehbinamal","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-01T15:57:21.728Z"}}
+{"aggregate":"activity_count","contributor":"Mehbinamal","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-01T15:57:21.726Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Mehbinamal","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-01T15:57:21.729Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Mehbinamal","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-01T15:57:21.730Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Mehbinamal","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-01T15:57:21.729Z"}}
+{"aggregate":"first_activity_date","contributor":"Mehbinamal","value":{"type":"string","value":"2025-08-07"},"meta":{"calculated_at":"2026-09-01T15:57:21.727Z"}}
+{"aggregate":"last_activity_date","contributor":"Mehbinamal","value":{"type":"string","value":"2025-08-08"},"meta":{"calculated_at":"2026-09-01T15:57:21.727Z"}}
+{"aggregate":"total_activity_points","contributor":"Mehbinamal","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-01T15:57:21.725Z"}}
