@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Marsdevelopers","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-01T03:04:24.149Z"}}
-{"aggregate":"activity_count","contributor":"Marsdevelopers","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-09-01T03:04:24.146Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Marsdevelopers","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-01T03:04:24.153Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Marsdevelopers","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-01T03:04:24.154Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Marsdevelopers","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-01T03:04:24.152Z"}}
-{"aggregate":"first_activity_date","contributor":"Marsdevelopers","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-09-01T03:04:24.147Z"}}
-{"aggregate":"last_activity_date","contributor":"Marsdevelopers","value":{"type":"string","value":"2025-09-23"},"meta":{"calculated_at":"2026-09-01T03:04:24.148Z"}}
-{"aggregate":"total_activity_points","contributor":"Marsdevelopers","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-09-01T03:04:24.145Z"}}
+{"aggregate":"active_days","contributor":"Marsdevelopers","value":{"type":"number","value":8,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-01T10:58:04.757Z"}}
+{"aggregate":"activity_count","contributor":"Marsdevelopers","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-09-01T10:58:04.754Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Marsdevelopers","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-01T10:58:04.758Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Marsdevelopers","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-01T10:58:04.759Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Marsdevelopers","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-01T10:58:04.758Z"}}
+{"aggregate":"first_activity_date","contributor":"Marsdevelopers","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-09-01T10:58:04.755Z"}}
+{"aggregate":"last_activity_date","contributor":"Marsdevelopers","value":{"type":"string","value":"2025-09-23"},"meta":{"calculated_at":"2026-09-01T10:58:04.756Z"}}
+{"aggregate":"total_activity_points","contributor":"Marsdevelopers","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-09-01T10:58:04.753Z"}}
