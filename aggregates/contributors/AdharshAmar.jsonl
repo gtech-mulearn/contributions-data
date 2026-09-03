@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"AdharshAmar","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T02:31:40.862Z"}}
-{"aggregate":"activity_count","contributor":"AdharshAmar","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:40.859Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"AdharshAmar","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T02:31:40.864Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"AdharshAmar","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T02:31:40.865Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"AdharshAmar","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T02:31:40.863Z"}}
-{"aggregate":"first_activity_date","contributor":"AdharshAmar","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-03T02:31:40.860Z"}}
-{"aggregate":"last_activity_date","contributor":"AdharshAmar","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-03T02:31:40.861Z"}}
-{"aggregate":"total_activity_points","contributor":"AdharshAmar","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:40.859Z"}}
+{"aggregate":"active_days","contributor":"AdharshAmar","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T10:33:28.707Z"}}
+{"aggregate":"activity_count","contributor":"AdharshAmar","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:28.704Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"AdharshAmar","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T10:33:28.709Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AdharshAmar","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T10:33:28.710Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AdharshAmar","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T10:33:28.708Z"}}
+{"aggregate":"first_activity_date","contributor":"AdharshAmar","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-03T10:33:28.705Z"}}
+{"aggregate":"last_activity_date","contributor":"AdharshAmar","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-03T10:33:28.706Z"}}
+{"aggregate":"total_activity_points","contributor":"AdharshAmar","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:28.703Z"}}

@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"darsan-dilip","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T02:31:47.406Z"}}
-{"aggregate":"activity_count","contributor":"darsan-dilip","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:47.404Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"darsan-dilip","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T02:31:47.408Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"darsan-dilip","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T02:31:47.409Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"darsan-dilip","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T02:31:47.407Z"}}
-{"aggregate":"first_activity_date","contributor":"darsan-dilip","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-09-03T02:31:47.404Z"}}
-{"aggregate":"last_activity_date","contributor":"darsan-dilip","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-09-03T02:31:47.405Z"}}
-{"aggregate":"total_activity_points","contributor":"darsan-dilip","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:47.403Z"}}
+{"aggregate":"active_days","contributor":"darsan-dilip","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T10:33:34.847Z"}}
+{"aggregate":"activity_count","contributor":"darsan-dilip","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:34.845Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"darsan-dilip","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T10:33:34.849Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"darsan-dilip","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T10:33:34.850Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"darsan-dilip","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T10:33:34.848Z"}}
+{"aggregate":"first_activity_date","contributor":"darsan-dilip","value":{"type":"string","value":"2022-05-13"},"meta":{"calculated_at":"2026-09-03T10:33:34.846Z"}}
+{"aggregate":"last_activity_date","contributor":"darsan-dilip","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-09-03T10:33:34.846Z"}}
+{"aggregate":"total_activity_points","contributor":"darsan-dilip","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:34.844Z"}}

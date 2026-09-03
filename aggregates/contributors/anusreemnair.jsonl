@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"anusreemnair","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T02:31:44.567Z"}}
-{"aggregate":"activity_count","contributor":"anusreemnair","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:44.564Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"anusreemnair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T02:31:44.569Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"anusreemnair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T02:31:44.570Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"anusreemnair","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T02:31:44.568Z"}}
-{"aggregate":"first_activity_date","contributor":"anusreemnair","value":{"type":"string","value":"2024-06-28"},"meta":{"calculated_at":"2026-09-03T02:31:44.565Z"}}
-{"aggregate":"last_activity_date","contributor":"anusreemnair","value":{"type":"string","value":"2024-06-28"},"meta":{"calculated_at":"2026-09-03T02:31:44.566Z"}}
-{"aggregate":"total_activity_points","contributor":"anusreemnair","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:44.563Z"}}
+{"aggregate":"active_days","contributor":"anusreemnair","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T10:33:32.280Z"}}
+{"aggregate":"activity_count","contributor":"anusreemnair","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:32.277Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"anusreemnair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T10:33:32.281Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"anusreemnair","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T10:33:32.282Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"anusreemnair","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T10:33:32.281Z"}}
+{"aggregate":"first_activity_date","contributor":"anusreemnair","value":{"type":"string","value":"2024-06-28"},"meta":{"calculated_at":"2026-09-03T10:33:32.278Z"}}
+{"aggregate":"last_activity_date","contributor":"anusreemnair","value":{"type":"string","value":"2024-06-28"},"meta":{"calculated_at":"2026-09-03T10:33:32.279Z"}}
+{"aggregate":"total_activity_points","contributor":"anusreemnair","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:32.276Z"}}

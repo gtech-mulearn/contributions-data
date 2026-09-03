@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"sameermkd","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T02:31:57.443Z"}}
-{"aggregate":"activity_count","contributor":"sameermkd","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:57.440Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"sameermkd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T02:31:57.444Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"sameermkd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T02:31:57.445Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"sameermkd","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T02:31:57.443Z"}}
-{"aggregate":"first_activity_date","contributor":"sameermkd","value":{"type":"string","value":"2023-12-25"},"meta":{"calculated_at":"2026-09-03T02:31:57.441Z"}}
-{"aggregate":"last_activity_date","contributor":"sameermkd","value":{"type":"string","value":"2024-02-28"},"meta":{"calculated_at":"2026-09-03T02:31:57.442Z"}}
-{"aggregate":"total_activity_points","contributor":"sameermkd","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:57.438Z"}}
+{"aggregate":"active_days","contributor":"sameermkd","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T10:33:44.583Z"}}
+{"aggregate":"activity_count","contributor":"sameermkd","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:44.580Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"sameermkd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T10:33:44.585Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"sameermkd","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T10:33:44.586Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"sameermkd","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T10:33:44.584Z"}}
+{"aggregate":"first_activity_date","contributor":"sameermkd","value":{"type":"string","value":"2023-12-25"},"meta":{"calculated_at":"2026-09-03T10:33:44.581Z"}}
+{"aggregate":"last_activity_date","contributor":"sameermkd","value":{"type":"string","value":"2024-02-28"},"meta":{"calculated_at":"2026-09-03T10:33:44.582Z"}}
+{"aggregate":"total_activity_points","contributor":"sameermkd","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:44.579Z"}}

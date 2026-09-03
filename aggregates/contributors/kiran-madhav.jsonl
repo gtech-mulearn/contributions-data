@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"kiran-madhav","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T02:31:52.300Z"}}
-{"aggregate":"activity_count","contributor":"kiran-madhav","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:52.297Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"kiran-madhav","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T02:31:52.302Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"kiran-madhav","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T02:31:52.303Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"kiran-madhav","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T02:31:52.301Z"}}
-{"aggregate":"first_activity_date","contributor":"kiran-madhav","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-03T02:31:52.298Z"}}
-{"aggregate":"last_activity_date","contributor":"kiran-madhav","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-03T02:31:52.299Z"}}
-{"aggregate":"total_activity_points","contributor":"kiran-madhav","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T02:31:52.296Z"}}
+{"aggregate":"active_days","contributor":"kiran-madhav","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-03T10:33:39.568Z"}}
+{"aggregate":"activity_count","contributor":"kiran-madhav","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:39.566Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"kiran-madhav","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-03T10:33:39.570Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"kiran-madhav","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-03T10:33:39.571Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"kiran-madhav","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-03T10:33:39.569Z"}}
+{"aggregate":"first_activity_date","contributor":"kiran-madhav","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-03T10:33:39.567Z"}}
+{"aggregate":"last_activity_date","contributor":"kiran-madhav","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-03T10:33:39.567Z"}}
+{"aggregate":"total_activity_points","contributor":"kiran-madhav","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-03T10:33:39.565Z"}}
