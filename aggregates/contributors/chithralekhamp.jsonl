@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"chithralekhamp","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-04T02:27:22.595Z"}}
-{"aggregate":"activity_count","contributor":"chithralekhamp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-04T02:27:22.593Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"chithralekhamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-04T02:27:22.597Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"chithralekhamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-04T02:27:22.598Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"chithralekhamp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-04T02:27:22.596Z"}}
-{"aggregate":"first_activity_date","contributor":"chithralekhamp","value":{"type":"string","value":"2023-10-08"},"meta":{"calculated_at":"2026-09-04T02:27:22.593Z"}}
-{"aggregate":"last_activity_date","contributor":"chithralekhamp","value":{"type":"string","value":"2023-10-08"},"meta":{"calculated_at":"2026-09-04T02:27:22.594Z"}}
-{"aggregate":"total_activity_points","contributor":"chithralekhamp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-04T02:27:22.592Z"}}
+{"aggregate":"active_days","contributor":"chithralekhamp","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-04T10:22:43.281Z"}}
+{"aggregate":"activity_count","contributor":"chithralekhamp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-04T10:22:43.279Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"chithralekhamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-04T10:22:43.283Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"chithralekhamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-04T10:22:43.283Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"chithralekhamp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-04T10:22:43.282Z"}}
+{"aggregate":"first_activity_date","contributor":"chithralekhamp","value":{"type":"string","value":"2023-10-08"},"meta":{"calculated_at":"2026-09-04T10:22:43.280Z"}}
+{"aggregate":"last_activity_date","contributor":"chithralekhamp","value":{"type":"string","value":"2023-10-08"},"meta":{"calculated_at":"2026-09-04T10:22:43.280Z"}}
+{"aggregate":"total_activity_points","contributor":"chithralekhamp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-04T10:22:43.278Z"}}
