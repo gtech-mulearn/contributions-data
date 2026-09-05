@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"arjunindia","value":{"type":"number","value":22,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T09:49:36.030Z"}}
-{"aggregate":"activity_count","contributor":"arjunindia","value":{"type":"number","value":44,"format":"integer"},"meta":{"calculated_at":"2026-09-05T09:49:36.028Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"arjunindia","value":{"type":"number","value":22,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T09:49:36.032Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"arjunindia","value":{"type":"number","value":22,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T09:49:36.033Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"arjunindia","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T09:49:36.031Z"}}
-{"aggregate":"first_activity_date","contributor":"arjunindia","value":{"type":"string","value":"2023-06-26"},"meta":{"calculated_at":"2026-09-05T09:49:36.029Z"}}
-{"aggregate":"last_activity_date","contributor":"arjunindia","value":{"type":"string","value":"2023-10-08"},"meta":{"calculated_at":"2026-09-05T09:49:36.029Z"}}
-{"aggregate":"total_activity_points","contributor":"arjunindia","value":{"type":"number","value":330,"format":"integer"},"meta":{"calculated_at":"2026-09-05T09:49:36.027Z"}}
+{"aggregate":"active_days","contributor":"arjunindia","value":{"type":"number","value":22,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T14:24:56.289Z"}}
+{"aggregate":"activity_count","contributor":"arjunindia","value":{"type":"number","value":44,"format":"integer"},"meta":{"calculated_at":"2026-09-05T14:24:56.286Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"arjunindia","value":{"type":"number","value":22,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T14:24:56.291Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"arjunindia","value":{"type":"number","value":22,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T14:24:56.293Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"arjunindia","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T14:24:56.290Z"}}
+{"aggregate":"first_activity_date","contributor":"arjunindia","value":{"type":"string","value":"2023-06-26"},"meta":{"calculated_at":"2026-09-05T14:24:56.287Z"}}
+{"aggregate":"last_activity_date","contributor":"arjunindia","value":{"type":"string","value":"2023-10-08"},"meta":{"calculated_at":"2026-09-05T14:24:56.288Z"}}
+{"aggregate":"total_activity_points","contributor":"arjunindia","value":{"type":"number","value":330,"format":"integer"},"meta":{"calculated_at":"2026-09-05T14:24:56.285Z"}}

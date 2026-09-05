@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Amal-001","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T09:49:34.605Z"}}
-{"aggregate":"activity_count","contributor":"Amal-001","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-05T09:49:34.603Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Amal-001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T09:49:34.607Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Amal-001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T09:49:34.608Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Amal-001","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T09:49:34.606Z"}}
-{"aggregate":"first_activity_date","contributor":"Amal-001","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-09-05T09:49:34.604Z"}}
-{"aggregate":"last_activity_date","contributor":"Amal-001","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-09-05T09:49:34.605Z"}}
-{"aggregate":"total_activity_points","contributor":"Amal-001","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-05T09:49:34.602Z"}}
+{"aggregate":"active_days","contributor":"Amal-001","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T14:24:53.607Z"}}
+{"aggregate":"activity_count","contributor":"Amal-001","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-05T14:24:53.604Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Amal-001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T14:24:53.609Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Amal-001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T14:24:53.610Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Amal-001","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T14:24:53.608Z"}}
+{"aggregate":"first_activity_date","contributor":"Amal-001","value":{"type":"string","value":"2022-05-15"},"meta":{"calculated_at":"2026-09-05T14:24:53.605Z"}}
+{"aggregate":"last_activity_date","contributor":"Amal-001","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-09-05T14:24:53.606Z"}}
+{"aggregate":"total_activity_points","contributor":"Amal-001","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-05T14:24:53.603Z"}}
