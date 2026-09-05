@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"araviind-p","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-04T20:11:53.009Z"}}
-{"aggregate":"activity_count","contributor":"araviind-p","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-04T20:11:53.004Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"araviind-p","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-04T20:11:53.012Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"araviind-p","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-04T20:11:53.014Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"araviind-p","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-04T20:11:53.011Z"}}
-{"aggregate":"first_activity_date","contributor":"araviind-p","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-04T20:11:53.006Z"}}
-{"aggregate":"last_activity_date","contributor":"araviind-p","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-04T20:11:53.007Z"}}
-{"aggregate":"total_activity_points","contributor":"araviind-p","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-04T20:11:53.002Z"}}
+{"aggregate":"active_days","contributor":"araviind-p","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T02:28:04.032Z"}}
+{"aggregate":"activity_count","contributor":"araviind-p","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-05T02:28:04.029Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"araviind-p","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T02:28:04.033Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"araviind-p","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T02:28:04.034Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"araviind-p","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T02:28:04.033Z"}}
+{"aggregate":"first_activity_date","contributor":"araviind-p","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-05T02:28:04.030Z"}}
+{"aggregate":"last_activity_date","contributor":"araviind-p","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-05T02:28:04.031Z"}}
+{"aggregate":"total_activity_points","contributor":"araviind-p","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-05T02:28:04.029Z"}}

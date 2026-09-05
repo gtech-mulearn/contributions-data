@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Milu-01","value":{"type":"number","value":7,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-04T20:12:26.831Z"}}
-{"aggregate":"activity_count","contributor":"Milu-01","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-09-04T20:12:26.745Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Milu-01","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-04T20:12:26.834Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Milu-01","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-04T20:12:26.836Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Milu-01","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-04T20:12:26.832Z"}}
-{"aggregate":"first_activity_date","contributor":"Milu-01","value":{"type":"string","value":"2025-08-05"},"meta":{"calculated_at":"2026-09-04T20:12:26.768Z"}}
-{"aggregate":"last_activity_date","contributor":"Milu-01","value":{"type":"string","value":"2025-08-20"},"meta":{"calculated_at":"2026-09-04T20:12:26.828Z"}}
-{"aggregate":"total_activity_points","contributor":"Milu-01","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-09-04T20:12:26.743Z"}}
+{"aggregate":"active_days","contributor":"Milu-01","value":{"type":"number","value":7,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T02:28:10.797Z"}}
+{"aggregate":"activity_count","contributor":"Milu-01","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-09-05T02:28:10.795Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Milu-01","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T02:28:10.799Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Milu-01","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T02:28:10.799Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Milu-01","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T02:28:10.798Z"}}
+{"aggregate":"first_activity_date","contributor":"Milu-01","value":{"type":"string","value":"2025-08-05"},"meta":{"calculated_at":"2026-09-05T02:28:10.796Z"}}
+{"aggregate":"last_activity_date","contributor":"Milu-01","value":{"type":"string","value":"2025-08-20"},"meta":{"calculated_at":"2026-09-05T02:28:10.797Z"}}
+{"aggregate":"total_activity_points","contributor":"Milu-01","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-09-05T02:28:10.795Z"}}

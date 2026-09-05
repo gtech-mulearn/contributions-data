@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Naslukk","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-04T20:12:34.705Z"}}
-{"aggregate":"activity_count","contributor":"Naslukk","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-04T20:12:34.700Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Naslukk","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-04T20:12:34.708Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Naslukk","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-04T20:12:34.710Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Naslukk","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-04T20:12:34.706Z"}}
-{"aggregate":"first_activity_date","contributor":"Naslukk","value":{"type":"string","value":"2023-10-01"},"meta":{"calculated_at":"2026-09-04T20:12:34.702Z"}}
-{"aggregate":"last_activity_date","contributor":"Naslukk","value":{"type":"string","value":"2023-10-02"},"meta":{"calculated_at":"2026-09-04T20:12:34.703Z"}}
-{"aggregate":"total_activity_points","contributor":"Naslukk","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-04T20:12:34.698Z"}}
+{"aggregate":"active_days","contributor":"Naslukk","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-05T02:28:11.609Z"}}
+{"aggregate":"activity_count","contributor":"Naslukk","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-05T02:28:11.607Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Naslukk","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-05T02:28:11.610Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Naslukk","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-05T02:28:11.611Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Naslukk","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-05T02:28:11.609Z"}}
+{"aggregate":"first_activity_date","contributor":"Naslukk","value":{"type":"string","value":"2023-10-01"},"meta":{"calculated_at":"2026-09-05T02:28:11.607Z"}}
+{"aggregate":"last_activity_date","contributor":"Naslukk","value":{"type":"string","value":"2023-10-02"},"meta":{"calculated_at":"2026-09-05T02:28:11.608Z"}}
+{"aggregate":"total_activity_points","contributor":"Naslukk","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-05T02:28:11.606Z"}}
