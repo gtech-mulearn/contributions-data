@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aaronsam07","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-08T10:29:18.473Z"}}
-{"aggregate":"activity_count","contributor":"aaronsam07","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-08T10:29:18.467Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aaronsam07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-08T10:29:18.477Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aaronsam07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-08T10:29:18.478Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aaronsam07","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-08T10:29:18.475Z"}}
-{"aggregate":"first_activity_date","contributor":"aaronsam07","value":{"type":"string","value":"2024-06-23"},"meta":{"calculated_at":"2026-09-08T10:29:18.469Z"}}
-{"aggregate":"last_activity_date","contributor":"aaronsam07","value":{"type":"string","value":"2024-06-26"},"meta":{"calculated_at":"2026-09-08T10:29:18.471Z"}}
-{"aggregate":"total_activity_points","contributor":"aaronsam07","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-09-08T10:29:18.464Z"}}
+{"aggregate":"active_days","contributor":"aaronsam07","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-08T15:50:26.063Z"}}
+{"aggregate":"activity_count","contributor":"aaronsam07","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-08T15:50:26.061Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aaronsam07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-08T15:50:26.065Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aaronsam07","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-08T15:50:26.066Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aaronsam07","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-08T15:50:26.064Z"}}
+{"aggregate":"first_activity_date","contributor":"aaronsam07","value":{"type":"string","value":"2024-06-23"},"meta":{"calculated_at":"2026-09-08T15:50:26.061Z"}}
+{"aggregate":"last_activity_date","contributor":"aaronsam07","value":{"type":"string","value":"2024-06-26"},"meta":{"calculated_at":"2026-09-08T15:50:26.062Z"}}
+{"aggregate":"total_activity_points","contributor":"aaronsam07","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-09-08T15:50:26.060Z"}}
