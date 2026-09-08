@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Asterdev-03","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-07T21:00:53.054Z"}}
-{"aggregate":"activity_count","contributor":"Asterdev-03","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-09-07T21:00:53.051Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Asterdev-03","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-07T21:00:53.056Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Asterdev-03","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-07T21:00:53.057Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Asterdev-03","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-07T21:00:53.055Z"}}
-{"aggregate":"first_activity_date","contributor":"Asterdev-03","value":{"type":"string","value":"2023-05-06"},"meta":{"calculated_at":"2026-09-07T21:00:53.052Z"}}
-{"aggregate":"last_activity_date","contributor":"Asterdev-03","value":{"type":"string","value":"2023-05-14"},"meta":{"calculated_at":"2026-09-07T21:00:53.053Z"}}
-{"aggregate":"total_activity_points","contributor":"Asterdev-03","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-09-07T21:00:53.050Z"}}
+{"aggregate":"active_days","contributor":"Asterdev-03","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-08T02:35:24.074Z"}}
+{"aggregate":"activity_count","contributor":"Asterdev-03","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-09-08T02:35:24.071Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Asterdev-03","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-08T02:35:24.200Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Asterdev-03","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-08T02:35:24.201Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Asterdev-03","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-08T02:35:24.075Z"}}
+{"aggregate":"first_activity_date","contributor":"Asterdev-03","value":{"type":"string","value":"2023-05-06"},"meta":{"calculated_at":"2026-09-08T02:35:24.072Z"}}
+{"aggregate":"last_activity_date","contributor":"Asterdev-03","value":{"type":"string","value":"2023-05-14"},"meta":{"calculated_at":"2026-09-08T02:35:24.073Z"}}
+{"aggregate":"total_activity_points","contributor":"Asterdev-03","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-09-08T02:35:24.070Z"}}
