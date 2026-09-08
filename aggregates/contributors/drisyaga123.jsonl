@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"drisyaga123","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-08T02:35:36.111Z"}}
-{"aggregate":"activity_count","contributor":"drisyaga123","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-08T02:35:36.099Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"drisyaga123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-08T02:35:36.113Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"drisyaga123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-08T02:35:36.114Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"drisyaga123","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-08T02:35:36.112Z"}}
-{"aggregate":"first_activity_date","contributor":"drisyaga123","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-08T02:35:36.103Z"}}
-{"aggregate":"last_activity_date","contributor":"drisyaga123","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-08T02:35:36.105Z"}}
-{"aggregate":"total_activity_points","contributor":"drisyaga123","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-08T02:35:36.098Z"}}
+{"aggregate":"active_days","contributor":"drisyaga123","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-08T10:31:08.157Z"}}
+{"aggregate":"activity_count","contributor":"drisyaga123","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-08T10:31:07.982Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"drisyaga123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-08T10:31:08.179Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"drisyaga123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-08T10:31:08.181Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"drisyaga123","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-08T10:31:08.159Z"}}
+{"aggregate":"first_activity_date","contributor":"drisyaga123","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-08T10:31:08.095Z"}}
+{"aggregate":"last_activity_date","contributor":"drisyaga123","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-08T10:31:08.139Z"}}
+{"aggregate":"total_activity_points","contributor":"drisyaga123","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-08T10:31:07.961Z"}}
