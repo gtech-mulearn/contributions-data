@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mrudhulaah","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-10T02:36:55.967Z"}}
-{"aggregate":"activity_count","contributor":"mrudhulaah","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-10T02:36:55.965Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mrudhulaah","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-10T02:36:55.968Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mrudhulaah","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-10T02:36:55.969Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mrudhulaah","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-10T02:36:55.968Z"}}
-{"aggregate":"first_activity_date","contributor":"mrudhulaah","value":{"type":"string","value":"2024-06-14"},"meta":{"calculated_at":"2026-09-10T02:36:55.966Z"}}
-{"aggregate":"last_activity_date","contributor":"mrudhulaah","value":{"type":"string","value":"2024-06-15"},"meta":{"calculated_at":"2026-09-10T02:36:55.966Z"}}
-{"aggregate":"total_activity_points","contributor":"mrudhulaah","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-09-10T02:36:55.964Z"}}
+{"aggregate":"active_days","contributor":"mrudhulaah","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-10T10:25:20.567Z"}}
+{"aggregate":"activity_count","contributor":"mrudhulaah","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-10T10:25:20.564Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mrudhulaah","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-10T10:25:20.568Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mrudhulaah","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-10T10:25:20.569Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mrudhulaah","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-10T10:25:20.567Z"}}
+{"aggregate":"first_activity_date","contributor":"mrudhulaah","value":{"type":"string","value":"2024-06-14"},"meta":{"calculated_at":"2026-09-10T10:25:20.565Z"}}
+{"aggregate":"last_activity_date","contributor":"mrudhulaah","value":{"type":"string","value":"2024-06-15"},"meta":{"calculated_at":"2026-09-10T10:25:20.566Z"}}
+{"aggregate":"total_activity_points","contributor":"mrudhulaah","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-09-10T10:25:20.563Z"}}

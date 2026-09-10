@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aruncpacp123","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-10T02:36:47.810Z"}}
-{"aggregate":"activity_count","contributor":"aruncpacp123","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-10T02:36:47.807Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aruncpacp123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-10T02:36:47.813Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aruncpacp123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-10T02:36:47.815Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aruncpacp123","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-10T02:36:47.811Z"}}
-{"aggregate":"first_activity_date","contributor":"aruncpacp123","value":{"type":"string","value":"2022-05-14"},"meta":{"calculated_at":"2026-09-10T02:36:47.808Z"}}
-{"aggregate":"last_activity_date","contributor":"aruncpacp123","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-09-10T02:36:47.809Z"}}
-{"aggregate":"total_activity_points","contributor":"aruncpacp123","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-10T02:36:47.806Z"}}
+{"aggregate":"active_days","contributor":"aruncpacp123","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-10T10:25:09.329Z"}}
+{"aggregate":"activity_count","contributor":"aruncpacp123","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-10T10:25:09.326Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aruncpacp123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-10T10:25:09.331Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aruncpacp123","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-10T10:25:09.332Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aruncpacp123","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-10T10:25:09.330Z"}}
+{"aggregate":"first_activity_date","contributor":"aruncpacp123","value":{"type":"string","value":"2022-05-14"},"meta":{"calculated_at":"2026-09-10T10:25:09.327Z"}}
+{"aggregate":"last_activity_date","contributor":"aruncpacp123","value":{"type":"string","value":"2022-06-18"},"meta":{"calculated_at":"2026-09-10T10:25:09.328Z"}}
+{"aggregate":"total_activity_points","contributor":"aruncpacp123","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-10T10:25:09.325Z"}}
