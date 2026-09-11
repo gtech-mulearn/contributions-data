@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"pranav-dipu","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-11T02:30:56.630Z"}}
-{"aggregate":"activity_count","contributor":"pranav-dipu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-11T02:30:56.628Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"pranav-dipu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-11T02:30:56.631Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"pranav-dipu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-11T02:30:56.632Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"pranav-dipu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-11T02:30:56.631Z"}}
-{"aggregate":"first_activity_date","contributor":"pranav-dipu","value":{"type":"string","value":"2022-05-16"},"meta":{"calculated_at":"2026-09-11T02:30:56.629Z"}}
-{"aggregate":"last_activity_date","contributor":"pranav-dipu","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-09-11T02:30:56.630Z"}}
-{"aggregate":"total_activity_points","contributor":"pranav-dipu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-11T02:30:56.628Z"}}
+{"aggregate":"active_days","contributor":"pranav-dipu","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-11T10:27:14.682Z"}}
+{"aggregate":"activity_count","contributor":"pranav-dipu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-11T10:27:14.677Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"pranav-dipu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-11T10:27:14.686Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"pranav-dipu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-11T10:27:14.688Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"pranav-dipu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-11T10:27:14.683Z"}}
+{"aggregate":"first_activity_date","contributor":"pranav-dipu","value":{"type":"string","value":"2022-05-16"},"meta":{"calculated_at":"2026-09-11T10:27:14.678Z"}}
+{"aggregate":"last_activity_date","contributor":"pranav-dipu","value":{"type":"string","value":"2022-06-19"},"meta":{"calculated_at":"2026-09-11T10:27:14.680Z"}}
+{"aggregate":"total_activity_points","contributor":"pranav-dipu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-11T10:27:14.674Z"}}
