@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"gijogeorgep","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-12T02:39:01.418Z"}}
-{"aggregate":"activity_count","contributor":"gijogeorgep","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-12T02:39:01.414Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"gijogeorgep","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-12T02:39:01.420Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"gijogeorgep","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-12T02:39:01.421Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"gijogeorgep","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-12T02:39:01.419Z"}}
-{"aggregate":"first_activity_date","contributor":"gijogeorgep","value":{"type":"string","value":"2024-06-14"},"meta":{"calculated_at":"2026-09-12T02:39:01.415Z"}}
-{"aggregate":"last_activity_date","contributor":"gijogeorgep","value":{"type":"string","value":"2024-06-14"},"meta":{"calculated_at":"2026-09-12T02:39:01.417Z"}}
-{"aggregate":"total_activity_points","contributor":"gijogeorgep","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-12T02:39:01.413Z"}}
+{"aggregate":"active_days","contributor":"gijogeorgep","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-12T09:57:00.790Z"}}
+{"aggregate":"activity_count","contributor":"gijogeorgep","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-12T09:57:00.787Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"gijogeorgep","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-12T09:57:00.792Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"gijogeorgep","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-12T09:57:00.793Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"gijogeorgep","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-12T09:57:00.791Z"}}
+{"aggregate":"first_activity_date","contributor":"gijogeorgep","value":{"type":"string","value":"2024-06-14"},"meta":{"calculated_at":"2026-09-12T09:57:00.788Z"}}
+{"aggregate":"last_activity_date","contributor":"gijogeorgep","value":{"type":"string","value":"2024-06-14"},"meta":{"calculated_at":"2026-09-12T09:57:00.789Z"}}
+{"aggregate":"total_activity_points","contributor":"gijogeorgep","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-12T09:57:00.786Z"}}
