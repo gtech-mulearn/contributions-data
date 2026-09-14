@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"SithiNur","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-14T11:30:07.563Z"}}
-{"aggregate":"activity_count","contributor":"SithiNur","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-14T11:30:07.560Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"SithiNur","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-14T11:30:07.565Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"SithiNur","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-14T11:30:07.566Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"SithiNur","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-14T11:30:07.564Z"}}
-{"aggregate":"first_activity_date","contributor":"SithiNur","value":{"type":"string","value":"2026-06-17"},"meta":{"calculated_at":"2026-09-14T11:30:07.561Z"}}
-{"aggregate":"last_activity_date","contributor":"SithiNur","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-09-14T11:30:07.562Z"}}
-{"aggregate":"total_activity_points","contributor":"SithiNur","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-14T11:30:07.559Z"}}
+{"aggregate":"active_days","contributor":"SithiNur","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-14T17:26:28.183Z"}}
+{"aggregate":"activity_count","contributor":"SithiNur","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-14T17:26:28.180Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"SithiNur","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-14T17:26:28.184Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"SithiNur","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-14T17:26:28.185Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"SithiNur","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-14T17:26:28.183Z"}}
+{"aggregate":"first_activity_date","contributor":"SithiNur","value":{"type":"string","value":"2026-06-17"},"meta":{"calculated_at":"2026-09-14T17:26:28.181Z"}}
+{"aggregate":"last_activity_date","contributor":"SithiNur","value":{"type":"string","value":"2026-06-28"},"meta":{"calculated_at":"2026-09-14T17:26:28.182Z"}}
+{"aggregate":"total_activity_points","contributor":"SithiNur","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-14T17:26:28.179Z"}}
