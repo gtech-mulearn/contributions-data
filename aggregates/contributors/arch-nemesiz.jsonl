@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"arch-nemesiz","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-15T16:03:59.305Z"}}
-{"aggregate":"activity_count","contributor":"arch-nemesiz","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-15T16:03:59.302Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"arch-nemesiz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-15T16:03:59.307Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"arch-nemesiz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-15T16:03:59.308Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"arch-nemesiz","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-15T16:03:59.306Z"}}
-{"aggregate":"first_activity_date","contributor":"arch-nemesiz","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-15T16:03:59.303Z"}}
-{"aggregate":"last_activity_date","contributor":"arch-nemesiz","value":{"type":"string","value":"2024-07-12"},"meta":{"calculated_at":"2026-09-15T16:03:59.304Z"}}
-{"aggregate":"total_activity_points","contributor":"arch-nemesiz","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-15T16:03:59.301Z"}}
+{"aggregate":"active_days","contributor":"arch-nemesiz","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-15T20:46:58.676Z"}}
+{"aggregate":"activity_count","contributor":"arch-nemesiz","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-15T20:46:58.673Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"arch-nemesiz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-15T20:46:58.679Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"arch-nemesiz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-15T20:46:58.680Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"arch-nemesiz","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-15T20:46:58.677Z"}}
+{"aggregate":"first_activity_date","contributor":"arch-nemesiz","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-15T20:46:58.674Z"}}
+{"aggregate":"last_activity_date","contributor":"arch-nemesiz","value":{"type":"string","value":"2024-07-12"},"meta":{"calculated_at":"2026-09-15T20:46:58.675Z"}}
+{"aggregate":"total_activity_points","contributor":"arch-nemesiz","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-15T20:46:58.671Z"}}
