@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"vivek-unni","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-16T15:59:05.247Z"}}
-{"aggregate":"activity_count","contributor":"vivek-unni","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-16T15:59:05.243Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"vivek-unni","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-16T15:59:05.249Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"vivek-unni","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-16T15:59:05.250Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"vivek-unni","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-16T15:59:05.248Z"}}
-{"aggregate":"first_activity_date","contributor":"vivek-unni","value":{"type":"string","value":"2024-04-18"},"meta":{"calculated_at":"2026-09-16T15:59:05.244Z"}}
-{"aggregate":"last_activity_date","contributor":"vivek-unni","value":{"type":"string","value":"2024-04-19"},"meta":{"calculated_at":"2026-09-16T15:59:05.245Z"}}
-{"aggregate":"total_activity_points","contributor":"vivek-unni","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-16T15:59:05.242Z"}}
+{"aggregate":"active_days","contributor":"vivek-unni","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-16T20:47:34.510Z"}}
+{"aggregate":"activity_count","contributor":"vivek-unni","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-16T20:47:34.507Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"vivek-unni","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-16T20:47:34.511Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"vivek-unni","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-16T20:47:34.512Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"vivek-unni","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-16T20:47:34.511Z"}}
+{"aggregate":"first_activity_date","contributor":"vivek-unni","value":{"type":"string","value":"2024-04-18"},"meta":{"calculated_at":"2026-09-16T20:47:34.508Z"}}
+{"aggregate":"last_activity_date","contributor":"vivek-unni","value":{"type":"string","value":"2024-04-19"},"meta":{"calculated_at":"2026-09-16T20:47:34.509Z"}}
+{"aggregate":"total_activity_points","contributor":"vivek-unni","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-16T20:47:34.506Z"}}
