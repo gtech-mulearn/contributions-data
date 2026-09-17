@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"adwaith-05","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-17T16:04:52.872Z"}}
-{"aggregate":"activity_count","contributor":"adwaith-05","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-17T16:04:52.867Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"adwaith-05","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-17T16:04:52.876Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"adwaith-05","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-17T16:04:52.986Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"adwaith-05","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-17T16:04:52.874Z"}}
-{"aggregate":"first_activity_date","contributor":"adwaith-05","value":{"type":"string","value":"2025-10-04"},"meta":{"calculated_at":"2026-09-17T16:04:52.869Z"}}
-{"aggregate":"last_activity_date","contributor":"adwaith-05","value":{"type":"string","value":"2025-10-06"},"meta":{"calculated_at":"2026-09-17T16:04:52.871Z"}}
-{"aggregate":"total_activity_points","contributor":"adwaith-05","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-17T16:04:52.866Z"}}
+{"aggregate":"active_days","contributor":"adwaith-05","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-17T20:52:28.823Z"}}
+{"aggregate":"activity_count","contributor":"adwaith-05","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-17T20:52:28.819Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"adwaith-05","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-17T20:52:28.825Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"adwaith-05","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-17T20:52:28.826Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"adwaith-05","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-17T20:52:28.824Z"}}
+{"aggregate":"first_activity_date","contributor":"adwaith-05","value":{"type":"string","value":"2025-10-04"},"meta":{"calculated_at":"2026-09-17T20:52:28.820Z"}}
+{"aggregate":"last_activity_date","contributor":"adwaith-05","value":{"type":"string","value":"2025-10-06"},"meta":{"calculated_at":"2026-09-17T20:52:28.823Z"}}
+{"aggregate":"total_activity_points","contributor":"adwaith-05","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-17T20:52:28.818Z"}}
