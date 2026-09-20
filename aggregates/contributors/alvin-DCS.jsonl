@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"alvin-DCS","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-20T10:27:46.503Z"}}
-{"aggregate":"activity_count","contributor":"alvin-DCS","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-20T10:27:46.497Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"alvin-DCS","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-20T10:27:46.506Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"alvin-DCS","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-20T10:27:46.512Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"alvin-DCS","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-20T10:27:46.505Z"}}
-{"aggregate":"first_activity_date","contributor":"alvin-DCS","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-09-20T10:27:46.499Z"}}
-{"aggregate":"last_activity_date","contributor":"alvin-DCS","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-09-20T10:27:46.501Z"}}
-{"aggregate":"total_activity_points","contributor":"alvin-DCS","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-20T10:27:46.495Z"}}
+{"aggregate":"active_days","contributor":"alvin-DCS","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-20T15:16:52.008Z"}}
+{"aggregate":"activity_count","contributor":"alvin-DCS","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-20T15:16:52.006Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"alvin-DCS","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-20T15:16:52.010Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"alvin-DCS","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-20T15:16:52.011Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"alvin-DCS","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-20T15:16:52.009Z"}}
+{"aggregate":"first_activity_date","contributor":"alvin-DCS","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-09-20T15:16:52.007Z"}}
+{"aggregate":"last_activity_date","contributor":"alvin-DCS","value":{"type":"string","value":"2024-06-30"},"meta":{"calculated_at":"2026-09-20T15:16:52.008Z"}}
+{"aggregate":"total_activity_points","contributor":"alvin-DCS","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-20T15:16:52.005Z"}}
