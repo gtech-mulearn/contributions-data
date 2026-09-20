@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mrfighterz","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-20T02:53:44.033Z"}}
-{"aggregate":"activity_count","contributor":"mrfighterz","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-20T02:53:44.031Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mrfighterz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-20T02:53:44.035Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mrfighterz","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-20T02:53:44.036Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mrfighterz","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-20T02:53:44.034Z"}}
-{"aggregate":"first_activity_date","contributor":"mrfighterz","value":{"type":"string","value":"2026-06-22"},"meta":{"calculated_at":"2026-09-20T02:53:44.031Z"}}
-{"aggregate":"last_activity_date","contributor":"mrfighterz","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-09-20T02:53:44.032Z"}}
-{"aggregate":"total_activity_points","contributor":"mrfighterz","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-20T02:53:44.030Z"}}
+{"aggregate":"active_days","contributor":"mrfighterz","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-20T10:28:05.417Z"}}
+{"aggregate":"activity_count","contributor":"mrfighterz","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-20T10:28:05.412Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mrfighterz","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-20T10:28:05.420Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mrfighterz","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-20T10:28:05.421Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mrfighterz","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-20T10:28:05.418Z"}}
+{"aggregate":"first_activity_date","contributor":"mrfighterz","value":{"type":"string","value":"2026-06-22"},"meta":{"calculated_at":"2026-09-20T10:28:05.414Z"}}
+{"aggregate":"last_activity_date","contributor":"mrfighterz","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-09-20T10:28:05.415Z"}}
+{"aggregate":"total_activity_points","contributor":"mrfighterz","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-20T10:28:05.411Z"}}
