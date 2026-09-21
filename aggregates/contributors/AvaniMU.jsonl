@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"AvaniMU","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-21T11:44:27.069Z"}}
-{"aggregate":"activity_count","contributor":"AvaniMU","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-21T11:44:27.046Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"AvaniMU","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-21T11:44:27.073Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"AvaniMU","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-21T11:44:27.075Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"AvaniMU","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-21T11:44:27.072Z"}}
-{"aggregate":"first_activity_date","contributor":"AvaniMU","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-21T11:44:27.066Z"}}
-{"aggregate":"last_activity_date","contributor":"AvaniMU","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-21T11:44:27.068Z"}}
-{"aggregate":"total_activity_points","contributor":"AvaniMU","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-21T11:44:27.045Z"}}
+{"aggregate":"active_days","contributor":"AvaniMU","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-21T17:40:22.950Z"}}
+{"aggregate":"activity_count","contributor":"AvaniMU","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-21T17:40:22.947Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"AvaniMU","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-21T17:40:22.952Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"AvaniMU","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-21T17:40:22.953Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"AvaniMU","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-21T17:40:22.951Z"}}
+{"aggregate":"first_activity_date","contributor":"AvaniMU","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-21T17:40:22.948Z"}}
+{"aggregate":"last_activity_date","contributor":"AvaniMU","value":{"type":"string","value":"2026-06-18"},"meta":{"calculated_at":"2026-09-21T17:40:22.949Z"}}
+{"aggregate":"total_activity_points","contributor":"AvaniMU","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-21T17:40:22.946Z"}}

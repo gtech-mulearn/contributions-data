@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Acodehacked","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-21T11:44:15.802Z"}}
-{"aggregate":"activity_count","contributor":"Acodehacked","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-21T11:44:15.799Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Acodehacked","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-21T11:44:15.804Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Acodehacked","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-21T11:44:15.805Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Acodehacked","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-21T11:44:15.803Z"}}
-{"aggregate":"first_activity_date","contributor":"Acodehacked","value":{"type":"string","value":"2024-09-06"},"meta":{"calculated_at":"2026-09-21T11:44:15.800Z"}}
-{"aggregate":"last_activity_date","contributor":"Acodehacked","value":{"type":"string","value":"2026-06-21"},"meta":{"calculated_at":"2026-09-21T11:44:15.801Z"}}
-{"aggregate":"total_activity_points","contributor":"Acodehacked","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-09-21T11:44:15.798Z"}}
+{"aggregate":"active_days","contributor":"Acodehacked","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-21T17:40:16.652Z"}}
+{"aggregate":"activity_count","contributor":"Acodehacked","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-21T17:40:16.646Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Acodehacked","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-21T17:40:16.655Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Acodehacked","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-21T17:40:16.656Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Acodehacked","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-21T17:40:16.653Z"}}
+{"aggregate":"first_activity_date","contributor":"Acodehacked","value":{"type":"string","value":"2024-09-06"},"meta":{"calculated_at":"2026-09-21T17:40:16.647Z"}}
+{"aggregate":"last_activity_date","contributor":"Acodehacked","value":{"type":"string","value":"2026-06-21"},"meta":{"calculated_at":"2026-09-21T17:40:16.651Z"}}
+{"aggregate":"total_activity_points","contributor":"Acodehacked","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-09-21T17:40:16.645Z"}}
