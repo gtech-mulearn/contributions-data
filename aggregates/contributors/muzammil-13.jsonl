@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"muzammil-13","value":{"type":"number","value":9,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-23T02:52:05.372Z"}}
-{"aggregate":"activity_count","contributor":"muzammil-13","value":{"type":"number","value":16,"format":"integer"},"meta":{"calculated_at":"2026-09-23T02:52:05.367Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"muzammil-13","value":{"type":"number","value":6,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-23T02:52:05.375Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"muzammil-13","value":{"type":"number","value":10,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-23T02:52:05.376Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"muzammil-13","value":{"type":"number","value":6.88,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-23T02:52:05.373Z"}}
-{"aggregate":"first_activity_date","contributor":"muzammil-13","value":{"type":"string","value":"2024-05-08"},"meta":{"calculated_at":"2026-09-23T02:52:05.369Z"}}
-{"aggregate":"last_activity_date","contributor":"muzammil-13","value":{"type":"string","value":"2024-09-05"},"meta":{"calculated_at":"2026-09-23T02:52:05.370Z"}}
-{"aggregate":"total_activity_points","contributor":"muzammil-13","value":{"type":"number","value":110,"format":"integer"},"meta":{"calculated_at":"2026-09-23T02:52:05.366Z"}}
+{"aggregate":"active_days","contributor":"muzammil-13","value":{"type":"number","value":9,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-23T10:41:32.948Z"}}
+{"aggregate":"activity_count","contributor":"muzammil-13","value":{"type":"number","value":16,"format":"integer"},"meta":{"calculated_at":"2026-09-23T10:41:32.942Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"muzammil-13","value":{"type":"number","value":6,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-23T10:41:32.952Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"muzammil-13","value":{"type":"number","value":10,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-23T10:41:32.954Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"muzammil-13","value":{"type":"number","value":6.88,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-23T10:41:32.950Z"}}
+{"aggregate":"first_activity_date","contributor":"muzammil-13","value":{"type":"string","value":"2024-05-08"},"meta":{"calculated_at":"2026-09-23T10:41:32.944Z"}}
+{"aggregate":"last_activity_date","contributor":"muzammil-13","value":{"type":"string","value":"2024-09-05"},"meta":{"calculated_at":"2026-09-23T10:41:32.946Z"}}
+{"aggregate":"total_activity_points","contributor":"muzammil-13","value":{"type":"number","value":110,"format":"integer"},"meta":{"calculated_at":"2026-09-23T10:41:32.940Z"}}

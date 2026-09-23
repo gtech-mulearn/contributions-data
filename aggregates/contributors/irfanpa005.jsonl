@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"irfanpa005","value":{"type":"number","value":23,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-23T02:51:59.806Z"}}
-{"aggregate":"activity_count","contributor":"irfanpa005","value":{"type":"number","value":31,"format":"integer"},"meta":{"calculated_at":"2026-09-23T02:51:59.801Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"irfanpa005","value":{"type":"number","value":15,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-23T02:51:59.808Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"irfanpa005","value":{"type":"number","value":16,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-23T02:51:59.810Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"irfanpa005","value":{"type":"number","value":7.42,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-23T02:51:59.807Z"}}
-{"aggregate":"first_activity_date","contributor":"irfanpa005","value":{"type":"string","value":"2023-09-18"},"meta":{"calculated_at":"2026-09-23T02:51:59.803Z"}}
-{"aggregate":"last_activity_date","contributor":"irfanpa005","value":{"type":"string","value":"2024-04-20"},"meta":{"calculated_at":"2026-09-23T02:51:59.804Z"}}
-{"aggregate":"total_activity_points","contributor":"irfanpa005","value":{"type":"number","value":230,"format":"integer"},"meta":{"calculated_at":"2026-09-23T02:51:59.800Z"}}
+{"aggregate":"active_days","contributor":"irfanpa005","value":{"type":"number","value":23,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-23T10:40:47.826Z"}}
+{"aggregate":"activity_count","contributor":"irfanpa005","value":{"type":"number","value":31,"format":"integer"},"meta":{"calculated_at":"2026-09-23T10:40:47.821Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"irfanpa005","value":{"type":"number","value":15,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-23T10:40:47.830Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"irfanpa005","value":{"type":"number","value":16,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-23T10:40:47.832Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"irfanpa005","value":{"type":"number","value":7.42,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-23T10:40:47.828Z"}}
+{"aggregate":"first_activity_date","contributor":"irfanpa005","value":{"type":"string","value":"2023-09-18"},"meta":{"calculated_at":"2026-09-23T10:40:47.823Z"}}
+{"aggregate":"last_activity_date","contributor":"irfanpa005","value":{"type":"string","value":"2024-04-20"},"meta":{"calculated_at":"2026-09-23T10:40:47.824Z"}}
+{"aggregate":"total_activity_points","contributor":"irfanpa005","value":{"type":"number","value":230,"format":"integer"},"meta":{"calculated_at":"2026-09-23T10:40:47.819Z"}}
