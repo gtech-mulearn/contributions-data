@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mhdaslamp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-23T21:00:46.881Z"}}
-{"aggregate":"activity_count","contributor":"mhdaslamp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-23T21:00:46.878Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mhdaslamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-23T21:00:46.883Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mhdaslamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-23T21:00:46.884Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mhdaslamp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-23T21:00:46.882Z"}}
-{"aggregate":"first_activity_date","contributor":"mhdaslamp","value":{"type":"string","value":"2025-04-14"},"meta":{"calculated_at":"2026-09-23T21:00:46.879Z"}}
-{"aggregate":"last_activity_date","contributor":"mhdaslamp","value":{"type":"string","value":"2025-04-15"},"meta":{"calculated_at":"2026-09-23T21:00:46.880Z"}}
-{"aggregate":"total_activity_points","contributor":"mhdaslamp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-23T21:00:46.878Z"}}
+{"aggregate":"active_days","contributor":"mhdaslamp","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-24T02:41:41.978Z"}}
+{"aggregate":"activity_count","contributor":"mhdaslamp","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-24T02:41:41.975Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mhdaslamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-24T02:41:41.979Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mhdaslamp","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-24T02:41:41.980Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mhdaslamp","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-24T02:41:41.978Z"}}
+{"aggregate":"first_activity_date","contributor":"mhdaslamp","value":{"type":"string","value":"2025-04-14"},"meta":{"calculated_at":"2026-09-24T02:41:41.976Z"}}
+{"aggregate":"last_activity_date","contributor":"mhdaslamp","value":{"type":"string","value":"2025-04-15"},"meta":{"calculated_at":"2026-09-24T02:41:41.977Z"}}
+{"aggregate":"total_activity_points","contributor":"mhdaslamp","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-24T02:41:41.974Z"}}
