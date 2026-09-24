@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Amruthendu","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-24T02:41:33.693Z"}}
-{"aggregate":"activity_count","contributor":"Amruthendu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-24T02:41:33.690Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Amruthendu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-24T02:41:33.694Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Amruthendu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-24T02:41:33.695Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Amruthendu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-24T02:41:33.693Z"}}
-{"aggregate":"first_activity_date","contributor":"Amruthendu","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-24T02:41:33.691Z"}}
-{"aggregate":"last_activity_date","contributor":"Amruthendu","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-24T02:41:33.692Z"}}
-{"aggregate":"total_activity_points","contributor":"Amruthendu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-24T02:41:33.689Z"}}
+{"aggregate":"active_days","contributor":"Amruthendu","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-24T10:57:20.564Z"}}
+{"aggregate":"activity_count","contributor":"Amruthendu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-24T10:57:20.550Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Amruthendu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-24T10:57:20.566Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Amruthendu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-24T10:57:20.567Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Amruthendu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-24T10:57:20.565Z"}}
+{"aggregate":"first_activity_date","contributor":"Amruthendu","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-24T10:57:20.551Z"}}
+{"aggregate":"last_activity_date","contributor":"Amruthendu","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-09-24T10:57:20.552Z"}}
+{"aggregate":"total_activity_points","contributor":"Amruthendu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-24T10:57:20.549Z"}}
