@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"zayan-saeed","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-24T10:57:37.498Z"}}
-{"aggregate":"activity_count","contributor":"zayan-saeed","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-24T10:57:37.495Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"zayan-saeed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-24T10:57:37.499Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"zayan-saeed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-24T10:57:37.500Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"zayan-saeed","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-24T10:57:37.499Z"}}
-{"aggregate":"first_activity_date","contributor":"zayan-saeed","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-24T10:57:37.496Z"}}
-{"aggregate":"last_activity_date","contributor":"zayan-saeed","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-24T10:57:37.497Z"}}
-{"aggregate":"total_activity_points","contributor":"zayan-saeed","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-24T10:57:37.494Z"}}
+{"aggregate":"active_days","contributor":"zayan-saeed","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-24T16:20:44.758Z"}}
+{"aggregate":"activity_count","contributor":"zayan-saeed","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-24T16:20:44.756Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"zayan-saeed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-24T16:20:44.763Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"zayan-saeed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-24T16:20:44.764Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"zayan-saeed","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-24T16:20:44.762Z"}}
+{"aggregate":"first_activity_date","contributor":"zayan-saeed","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-24T16:20:44.757Z"}}
+{"aggregate":"last_activity_date","contributor":"zayan-saeed","value":{"type":"string","value":"2024-07-02"},"meta":{"calculated_at":"2026-09-24T16:20:44.757Z"}}
+{"aggregate":"total_activity_points","contributor":"zayan-saeed","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-24T16:20:44.755Z"}}
