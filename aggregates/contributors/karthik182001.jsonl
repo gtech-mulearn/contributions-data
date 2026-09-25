@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"karthik182001","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-25T02:58:26.097Z"}}
-{"aggregate":"activity_count","contributor":"karthik182001","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-25T02:58:26.095Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"karthik182001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-25T02:58:26.099Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"karthik182001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-25T02:58:26.100Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"karthik182001","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-25T02:58:26.098Z"}}
-{"aggregate":"first_activity_date","contributor":"karthik182001","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-09-25T02:58:26.096Z"}}
-{"aggregate":"last_activity_date","contributor":"karthik182001","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-09-25T02:58:26.096Z"}}
-{"aggregate":"total_activity_points","contributor":"karthik182001","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-25T02:58:26.094Z"}}
+{"aggregate":"active_days","contributor":"karthik182001","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-25T10:59:34.003Z"}}
+{"aggregate":"activity_count","contributor":"karthik182001","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-25T10:59:33.999Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"karthik182001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-25T10:59:34.005Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"karthik182001","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-25T10:59:34.006Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"karthik182001","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-25T10:59:34.004Z"}}
+{"aggregate":"first_activity_date","contributor":"karthik182001","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-09-25T10:59:34.000Z"}}
+{"aggregate":"last_activity_date","contributor":"karthik182001","value":{"type":"string","value":"2024-04-12"},"meta":{"calculated_at":"2026-09-25T10:59:34.000Z"}}
+{"aggregate":"total_activity_points","contributor":"karthik182001","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-25T10:59:33.998Z"}}
