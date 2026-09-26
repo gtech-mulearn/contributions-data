@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"HiranNath","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T15:33:53.582Z"}}
-{"aggregate":"activity_count","contributor":"HiranNath","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:33:53.579Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"HiranNath","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T15:33:53.583Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"HiranNath","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T15:33:53.584Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"HiranNath","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T15:33:53.582Z"}}
-{"aggregate":"first_activity_date","contributor":"HiranNath","value":{"type":"string","value":"2025-06-22"},"meta":{"calculated_at":"2026-09-26T15:33:53.580Z"}}
-{"aggregate":"last_activity_date","contributor":"HiranNath","value":{"type":"string","value":"2025-07-21"},"meta":{"calculated_at":"2026-09-26T15:33:53.581Z"}}
-{"aggregate":"total_activity_points","contributor":"HiranNath","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:33:53.578Z"}}
+{"aggregate":"active_days","contributor":"HiranNath","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T20:35:43.856Z"}}
+{"aggregate":"activity_count","contributor":"HiranNath","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-09-26T20:35:43.851Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"HiranNath","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T20:35:44.030Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"HiranNath","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T20:35:44.032Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"HiranNath","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T20:35:44.003Z"}}
+{"aggregate":"first_activity_date","contributor":"HiranNath","value":{"type":"string","value":"2025-06-22"},"meta":{"calculated_at":"2026-09-26T20:35:43.853Z"}}
+{"aggregate":"last_activity_date","contributor":"HiranNath","value":{"type":"string","value":"2025-07-21"},"meta":{"calculated_at":"2026-09-26T20:35:43.855Z"}}
+{"aggregate":"total_activity_points","contributor":"HiranNath","value":{"type":"number","value":45,"format":"integer"},"meta":{"calculated_at":"2026-09-26T20:35:43.850Z"}}
