@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"SHABIN-K","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T10:40:12.111Z"}}
-{"aggregate":"activity_count","contributor":"SHABIN-K","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-09-26T10:40:12.106Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"SHABIN-K","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T10:40:12.116Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"SHABIN-K","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T10:40:12.118Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"SHABIN-K","value":{"type":"number","value":7.22,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T10:40:12.115Z"}}
-{"aggregate":"first_activity_date","contributor":"SHABIN-K","value":{"type":"string","value":"2023-10-20"},"meta":{"calculated_at":"2026-09-26T10:40:12.108Z"}}
-{"aggregate":"last_activity_date","contributor":"SHABIN-K","value":{"type":"string","value":"2024-04-20"},"meta":{"calculated_at":"2026-09-26T10:40:12.109Z"}}
-{"aggregate":"total_activity_points","contributor":"SHABIN-K","value":{"type":"number","value":65,"format":"integer"},"meta":{"calculated_at":"2026-09-26T10:40:12.105Z"}}
+{"aggregate":"active_days","contributor":"SHABIN-K","value":{"type":"number","value":6,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T15:34:00.693Z"}}
+{"aggregate":"activity_count","contributor":"SHABIN-K","value":{"type":"number","value":9,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:34:00.691Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"SHABIN-K","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T15:34:00.695Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"SHABIN-K","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T15:34:00.696Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"SHABIN-K","value":{"type":"number","value":7.22,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T15:34:00.694Z"}}
+{"aggregate":"first_activity_date","contributor":"SHABIN-K","value":{"type":"string","value":"2023-10-20"},"meta":{"calculated_at":"2026-09-26T15:34:00.692Z"}}
+{"aggregate":"last_activity_date","contributor":"SHABIN-K","value":{"type":"string","value":"2024-04-20"},"meta":{"calculated_at":"2026-09-26T15:34:00.692Z"}}
+{"aggregate":"total_activity_points","contributor":"SHABIN-K","value":{"type":"number","value":65,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:34:00.690Z"}}

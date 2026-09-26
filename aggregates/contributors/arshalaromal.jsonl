@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"arshalaromal","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T10:39:52.890Z"}}
-{"aggregate":"activity_count","contributor":"arshalaromal","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-26T10:39:52.885Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"arshalaromal","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T10:39:52.893Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"arshalaromal","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T10:39:52.894Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"arshalaromal","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T10:39:52.891Z"}}
-{"aggregate":"first_activity_date","contributor":"arshalaromal","value":{"type":"string","value":"2026-07-28"},"meta":{"calculated_at":"2026-09-26T10:39:52.886Z"}}
-{"aggregate":"last_activity_date","contributor":"arshalaromal","value":{"type":"string","value":"2026-08-02"},"meta":{"calculated_at":"2026-09-26T10:39:52.888Z"}}
-{"aggregate":"total_activity_points","contributor":"arshalaromal","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-09-26T10:39:52.883Z"}}
+{"aggregate":"active_days","contributor":"arshalaromal","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T15:33:48.770Z"}}
+{"aggregate":"activity_count","contributor":"arshalaromal","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:33:48.767Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"arshalaromal","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T15:33:48.772Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"arshalaromal","value":{"type":"number","value":3,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T15:33:48.773Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"arshalaromal","value":{"type":"number","value":6.25,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T15:33:48.771Z"}}
+{"aggregate":"first_activity_date","contributor":"arshalaromal","value":{"type":"string","value":"2026-07-28"},"meta":{"calculated_at":"2026-09-26T15:33:48.768Z"}}
+{"aggregate":"last_activity_date","contributor":"arshalaromal","value":{"type":"string","value":"2026-08-02"},"meta":{"calculated_at":"2026-09-26T15:33:48.769Z"}}
+{"aggregate":"total_activity_points","contributor":"arshalaromal","value":{"type":"number","value":25,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:33:48.766Z"}}

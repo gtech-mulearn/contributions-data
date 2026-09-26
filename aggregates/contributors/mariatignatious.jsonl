@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"mariatignatious","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T10:40:05.067Z"}}
-{"aggregate":"activity_count","contributor":"mariatignatious","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-26T10:40:05.063Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"mariatignatious","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T10:40:05.070Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"mariatignatious","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T10:40:05.072Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"mariatignatious","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T10:40:05.068Z"}}
-{"aggregate":"first_activity_date","contributor":"mariatignatious","value":{"type":"string","value":"2023-10-28"},"meta":{"calculated_at":"2026-09-26T10:40:05.065Z"}}
-{"aggregate":"last_activity_date","contributor":"mariatignatious","value":{"type":"string","value":"2025-07-22"},"meta":{"calculated_at":"2026-09-26T10:40:05.066Z"}}
-{"aggregate":"total_activity_points","contributor":"mariatignatious","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-26T10:40:05.062Z"}}
+{"aggregate":"active_days","contributor":"mariatignatious","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-26T15:33:56.216Z"}}
+{"aggregate":"activity_count","contributor":"mariatignatious","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:33:56.213Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"mariatignatious","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-26T15:33:56.218Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"mariatignatious","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-26T15:33:56.219Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"mariatignatious","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-26T15:33:56.217Z"}}
+{"aggregate":"first_activity_date","contributor":"mariatignatious","value":{"type":"string","value":"2023-10-28"},"meta":{"calculated_at":"2026-09-26T15:33:56.214Z"}}
+{"aggregate":"last_activity_date","contributor":"mariatignatious","value":{"type":"string","value":"2025-07-22"},"meta":{"calculated_at":"2026-09-26T15:33:56.215Z"}}
+{"aggregate":"total_activity_points","contributor":"mariatignatious","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-09-26T15:33:56.213Z"}}
