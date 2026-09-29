@@ -1,0 +1,10 @@
+{"aggregate":"active_days","contributor":"sir-danewhitman","value":{"type":"number","value":20,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-29T11:59:09.381Z"}}
+{"aggregate":"activity_count","contributor":"sir-danewhitman","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-09-29T11:59:09.376Z"}}
+{"aggregate":"activity_count:issue_opened","contributor":"sir-danewhitman","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"issue_opened","calculated_at":"2026-09-29T11:59:09.384Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"sir-danewhitman","value":{"type":"number","value":21,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-29T11:59:09.386Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"sir-danewhitman","value":{"type":"number","value":23,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-29T11:59:09.387Z"}}
+{"aggregate":"activity_count:pr_reviewed","contributor":"sir-danewhitman","value":{"type":"number","value":14,"format":"integer"},"meta":{"activity_definition":"pr_reviewed","calculated_at":"2026-09-29T11:59:09.389Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"sir-danewhitman","value":{"type":"number","value":6.42,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-29T11:59:09.382Z"}}
+{"aggregate":"first_activity_date","contributor":"sir-danewhitman","value":{"type":"string","value":"2023-10-27"},"meta":{"calculated_at":"2026-09-29T11:59:09.378Z"}}
+{"aggregate":"last_activity_date","contributor":"sir-danewhitman","value":{"type":"string","value":"2025-07-12"},"meta":{"calculated_at":"2026-09-29T11:59:09.379Z"}}
+{"aggregate":"total_activity_points","contributor":"sir-danewhitman","value":{"type":"number","value":385,"format":"integer"},"meta":{"calculated_at":"2026-09-29T11:59:09.375Z"}}
