@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"rahulsunil2","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-29T11:59:06.121Z"}}
-{"aggregate":"activity_count","contributor":"rahulsunil2","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-29T11:59:06.117Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"rahulsunil2","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-29T11:59:06.123Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"rahulsunil2","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-29T11:59:06.124Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"rahulsunil2","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-29T11:59:06.122Z"}}
-{"aggregate":"first_activity_date","contributor":"rahulsunil2","value":{"type":"string","value":"2023-11-03"},"meta":{"calculated_at":"2026-09-29T11:59:06.118Z"}}
-{"aggregate":"last_activity_date","contributor":"rahulsunil2","value":{"type":"string","value":"2023-11-04"},"meta":{"calculated_at":"2026-09-29T11:59:06.119Z"}}
-{"aggregate":"total_activity_points","contributor":"rahulsunil2","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-29T11:59:06.115Z"}}
+{"aggregate":"active_days","contributor":"rahulsunil2","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-29T17:38:28.239Z"}}
+{"aggregate":"activity_count","contributor":"rahulsunil2","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-29T17:38:28.237Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"rahulsunil2","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-29T17:38:28.241Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"rahulsunil2","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-29T17:38:28.242Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"rahulsunil2","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-29T17:38:28.240Z"}}
+{"aggregate":"first_activity_date","contributor":"rahulsunil2","value":{"type":"string","value":"2023-11-03"},"meta":{"calculated_at":"2026-09-29T17:38:28.237Z"}}
+{"aggregate":"last_activity_date","contributor":"rahulsunil2","value":{"type":"string","value":"2023-11-04"},"meta":{"calculated_at":"2026-09-29T17:38:28.238Z"}}
+{"aggregate":"total_activity_points","contributor":"rahulsunil2","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-29T17:38:28.236Z"}}
