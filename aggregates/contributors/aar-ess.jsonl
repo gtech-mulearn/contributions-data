@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aar-ess","value":{"type":"number","value":13,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-29T17:38:12.910Z"}}
-{"aggregate":"activity_count","contributor":"aar-ess","value":{"type":"number","value":14,"format":"integer"},"meta":{"calculated_at":"2026-09-29T17:38:12.908Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aar-ess","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-29T17:38:12.912Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aar-ess","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-29T17:38:12.913Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aar-ess","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-29T17:38:12.911Z"}}
-{"aggregate":"first_activity_date","contributor":"aar-ess","value":{"type":"string","value":"2025-07-10"},"meta":{"calculated_at":"2026-09-29T17:38:12.909Z"}}
-{"aggregate":"last_activity_date","contributor":"aar-ess","value":{"type":"string","value":"2025-11-01"},"meta":{"calculated_at":"2026-09-29T17:38:12.909Z"}}
-{"aggregate":"total_activity_points","contributor":"aar-ess","value":{"type":"number","value":105,"format":"integer"},"meta":{"calculated_at":"2026-09-29T17:38:12.907Z"}}
+{"aggregate":"active_days","contributor":"aar-ess","value":{"type":"number","value":13,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-29T21:46:58.044Z"}}
+{"aggregate":"activity_count","contributor":"aar-ess","value":{"type":"number","value":14,"format":"integer"},"meta":{"calculated_at":"2026-09-29T21:46:58.040Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aar-ess","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-29T21:46:58.046Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aar-ess","value":{"type":"number","value":7,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-29T21:46:58.047Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aar-ess","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-29T21:46:58.045Z"}}
+{"aggregate":"first_activity_date","contributor":"aar-ess","value":{"type":"string","value":"2025-07-10"},"meta":{"calculated_at":"2026-09-29T21:46:58.041Z"}}
+{"aggregate":"last_activity_date","contributor":"aar-ess","value":{"type":"string","value":"2025-11-01"},"meta":{"calculated_at":"2026-09-29T21:46:58.042Z"}}
+{"aggregate":"total_activity_points","contributor":"aar-ess","value":{"type":"number","value":105,"format":"integer"},"meta":{"calculated_at":"2026-09-29T21:46:58.039Z"}}
