@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"aryapreetha","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-30T11:47:51.761Z"}}
-{"aggregate":"activity_count","contributor":"aryapreetha","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-30T11:47:51.758Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"aryapreetha","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-30T11:47:51.763Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"aryapreetha","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-30T11:47:51.763Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"aryapreetha","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-30T11:47:51.762Z"}}
-{"aggregate":"first_activity_date","contributor":"aryapreetha","value":{"type":"string","value":"2023-10-24"},"meta":{"calculated_at":"2026-09-30T11:47:51.759Z"}}
-{"aggregate":"last_activity_date","contributor":"aryapreetha","value":{"type":"string","value":"2023-11-02"},"meta":{"calculated_at":"2026-09-30T11:47:51.760Z"}}
-{"aggregate":"total_activity_points","contributor":"aryapreetha","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-30T11:47:51.757Z"}}
+{"aggregate":"active_days","contributor":"aryapreetha","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-30T17:27:07.386Z"}}
+{"aggregate":"activity_count","contributor":"aryapreetha","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-09-30T17:27:07.384Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"aryapreetha","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-30T17:27:07.387Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"aryapreetha","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-30T17:27:07.388Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"aryapreetha","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-30T17:27:07.386Z"}}
+{"aggregate":"first_activity_date","contributor":"aryapreetha","value":{"type":"string","value":"2023-10-24"},"meta":{"calculated_at":"2026-09-30T17:27:07.384Z"}}
+{"aggregate":"last_activity_date","contributor":"aryapreetha","value":{"type":"string","value":"2023-11-02"},"meta":{"calculated_at":"2026-09-30T17:27:07.385Z"}}
+{"aggregate":"total_activity_points","contributor":"aryapreetha","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-09-30T17:27:07.383Z"}}
