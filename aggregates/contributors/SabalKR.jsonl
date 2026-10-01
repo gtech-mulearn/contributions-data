@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"SabalKR","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-09-30T21:47:57.145Z"}}
-{"aggregate":"activity_count","contributor":"SabalKR","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-09-30T21:47:57.142Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"SabalKR","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-09-30T21:47:57.147Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"SabalKR","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-09-30T21:47:57.147Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"SabalKR","value":{"type":"number","value":5.83,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-09-30T21:47:57.146Z"}}
-{"aggregate":"first_activity_date","contributor":"SabalKR","value":{"type":"string","value":"2023-10-31"},"meta":{"calculated_at":"2026-09-30T21:47:57.143Z"}}
-{"aggregate":"last_activity_date","contributor":"SabalKR","value":{"type":"string","value":"2023-11-05"},"meta":{"calculated_at":"2026-09-30T21:47:57.144Z"}}
-{"aggregate":"total_activity_points","contributor":"SabalKR","value":{"type":"number","value":35,"format":"integer"},"meta":{"calculated_at":"2026-09-30T21:47:57.141Z"}}
+{"aggregate":"active_days","contributor":"SabalKR","value":{"type":"number","value":3,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-01T03:36:13.138Z"}}
+{"aggregate":"activity_count","contributor":"SabalKR","value":{"type":"number","value":6,"format":"integer"},"meta":{"calculated_at":"2026-10-01T03:36:13.136Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"SabalKR","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-01T03:36:13.140Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"SabalKR","value":{"type":"number","value":5,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-01T03:36:13.140Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"SabalKR","value":{"type":"number","value":5.83,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-01T03:36:13.139Z"}}
+{"aggregate":"first_activity_date","contributor":"SabalKR","value":{"type":"string","value":"2023-10-31"},"meta":{"calculated_at":"2026-10-01T03:36:13.137Z"}}
+{"aggregate":"last_activity_date","contributor":"SabalKR","value":{"type":"string","value":"2023-11-05"},"meta":{"calculated_at":"2026-10-01T03:36:13.137Z"}}
+{"aggregate":"total_activity_points","contributor":"SabalKR","value":{"type":"number","value":35,"format":"integer"},"meta":{"calculated_at":"2026-10-01T03:36:13.135Z"}}
