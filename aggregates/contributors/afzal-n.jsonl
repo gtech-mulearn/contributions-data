@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"afzal-n","value":{"type":"number","value":7,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-08T04:00:45.205Z"}}
-{"aggregate":"activity_count","contributor":"afzal-n","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-10-08T04:00:45.199Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"afzal-n","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-08T04:00:45.208Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"afzal-n","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-08T04:00:45.209Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"afzal-n","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-08T04:00:45.206Z"}}
-{"aggregate":"first_activity_date","contributor":"afzal-n","value":{"type":"string","value":"2025-07-15"},"meta":{"calculated_at":"2026-10-08T04:00:45.201Z"}}
-{"aggregate":"last_activity_date","contributor":"afzal-n","value":{"type":"string","value":"2025-11-01"},"meta":{"calculated_at":"2026-10-08T04:00:45.203Z"}}
-{"aggregate":"total_activity_points","contributor":"afzal-n","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-10-08T04:00:45.197Z"}}
+{"aggregate":"active_days","contributor":"afzal-n","value":{"type":"number","value":7,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-08T12:39:15.650Z"}}
+{"aggregate":"activity_count","contributor":"afzal-n","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-10-08T12:39:15.647Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"afzal-n","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-08T12:39:15.651Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"afzal-n","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-08T12:39:15.652Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"afzal-n","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-08T12:39:15.650Z"}}
+{"aggregate":"first_activity_date","contributor":"afzal-n","value":{"type":"string","value":"2025-07-15"},"meta":{"calculated_at":"2026-10-08T12:39:15.648Z"}}
+{"aggregate":"last_activity_date","contributor":"afzal-n","value":{"type":"string","value":"2025-11-01"},"meta":{"calculated_at":"2026-10-08T12:39:15.649Z"}}
+{"aggregate":"total_activity_points","contributor":"afzal-n","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-10-08T12:39:15.646Z"}}
