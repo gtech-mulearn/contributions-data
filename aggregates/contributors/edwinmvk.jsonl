@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"edwinmvk","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-10T11:45:30.947Z"}}
-{"aggregate":"activity_count","contributor":"edwinmvk","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-10-10T11:45:30.944Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"edwinmvk","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-10T11:45:30.948Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"edwinmvk","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-10T11:45:30.949Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"edwinmvk","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-10T11:45:30.947Z"}}
-{"aggregate":"first_activity_date","contributor":"edwinmvk","value":{"type":"string","value":"2023-05-01"},"meta":{"calculated_at":"2026-10-10T11:45:30.945Z"}}
-{"aggregate":"last_activity_date","contributor":"edwinmvk","value":{"type":"string","value":"2023-05-07"},"meta":{"calculated_at":"2026-10-10T11:45:30.946Z"}}
-{"aggregate":"total_activity_points","contributor":"edwinmvk","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-10-10T11:45:30.943Z"}}
+{"aggregate":"active_days","contributor":"edwinmvk","value":{"type":"number","value":4,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-10T16:48:18.677Z"}}
+{"aggregate":"activity_count","contributor":"edwinmvk","value":{"type":"number","value":4,"format":"integer"},"meta":{"calculated_at":"2026-10-10T16:48:18.675Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"edwinmvk","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-10T16:48:18.678Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"edwinmvk","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-10T16:48:18.679Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"edwinmvk","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-10T16:48:18.678Z"}}
+{"aggregate":"first_activity_date","contributor":"edwinmvk","value":{"type":"string","value":"2023-05-01"},"meta":{"calculated_at":"2026-10-10T16:48:18.675Z"}}
+{"aggregate":"last_activity_date","contributor":"edwinmvk","value":{"type":"string","value":"2023-05-07"},"meta":{"calculated_at":"2026-10-10T16:48:18.676Z"}}
+{"aggregate":"total_activity_points","contributor":"edwinmvk","value":{"type":"number","value":30,"format":"integer"},"meta":{"calculated_at":"2026-10-10T16:48:18.674Z"}}
