@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"Benna-Sam","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-11T03:25:03.895Z"}}
-{"aggregate":"activity_count","contributor":"Benna-Sam","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-11T03:25:03.893Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"Benna-Sam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-11T03:25:03.897Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"Benna-Sam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-11T03:25:03.898Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"Benna-Sam","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-11T03:25:03.896Z"}}
-{"aggregate":"first_activity_date","contributor":"Benna-Sam","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-10-11T03:25:03.894Z"}}
-{"aggregate":"last_activity_date","contributor":"Benna-Sam","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-10-11T03:25:03.895Z"}}
-{"aggregate":"total_activity_points","contributor":"Benna-Sam","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-11T03:25:03.892Z"}}
+{"aggregate":"active_days","contributor":"Benna-Sam","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-11T11:58:25.178Z"}}
+{"aggregate":"activity_count","contributor":"Benna-Sam","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-11T11:58:25.175Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"Benna-Sam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-11T11:58:25.183Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"Benna-Sam","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-11T11:58:25.184Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"Benna-Sam","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-11T11:58:25.178Z"}}
+{"aggregate":"first_activity_date","contributor":"Benna-Sam","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-10-11T11:58:25.176Z"}}
+{"aggregate":"last_activity_date","contributor":"Benna-Sam","value":{"type":"string","value":"2026-06-25"},"meta":{"calculated_at":"2026-10-11T11:58:25.177Z"}}
+{"aggregate":"total_activity_points","contributor":"Benna-Sam","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-11T11:58:25.175Z"}}
