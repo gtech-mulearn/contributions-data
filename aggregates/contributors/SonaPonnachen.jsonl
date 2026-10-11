@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"SonaPonnachen","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-11T11:58:38.368Z"}}
-{"aggregate":"activity_count","contributor":"SonaPonnachen","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-10-11T11:58:38.364Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"SonaPonnachen","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-11T11:58:38.369Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"SonaPonnachen","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-11T11:58:38.370Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"SonaPonnachen","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-11T11:58:38.368Z"}}
-{"aggregate":"first_activity_date","contributor":"SonaPonnachen","value":{"type":"string","value":"2023-11-18"},"meta":{"calculated_at":"2026-10-11T11:58:38.365Z"}}
-{"aggregate":"last_activity_date","contributor":"SonaPonnachen","value":{"type":"string","value":"2023-11-19"},"meta":{"calculated_at":"2026-10-11T11:58:38.366Z"}}
-{"aggregate":"total_activity_points","contributor":"SonaPonnachen","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-10-11T11:58:38.363Z"}}
+{"aggregate":"active_days","contributor":"SonaPonnachen","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-11T17:18:40.111Z"}}
+{"aggregate":"activity_count","contributor":"SonaPonnachen","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-10-11T17:18:40.108Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"SonaPonnachen","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-11T17:18:40.112Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"SonaPonnachen","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-11T17:18:40.113Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"SonaPonnachen","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-11T17:18:40.112Z"}}
+{"aggregate":"first_activity_date","contributor":"SonaPonnachen","value":{"type":"string","value":"2023-11-18"},"meta":{"calculated_at":"2026-10-11T17:18:40.109Z"}}
+{"aggregate":"last_activity_date","contributor":"SonaPonnachen","value":{"type":"string","value":"2023-11-19"},"meta":{"calculated_at":"2026-10-11T17:18:40.110Z"}}
+{"aggregate":"total_activity_points","contributor":"SonaPonnachen","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-10-11T17:18:40.107Z"}}
