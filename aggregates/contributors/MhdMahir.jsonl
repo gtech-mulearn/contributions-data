@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"MhdMahir","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-11T21:23:05.135Z"}}
-{"aggregate":"activity_count","contributor":"MhdMahir","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-10-11T21:23:05.132Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"MhdMahir","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-11T21:23:05.136Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"MhdMahir","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-11T21:23:05.137Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"MhdMahir","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-11T21:23:05.135Z"}}
-{"aggregate":"first_activity_date","contributor":"MhdMahir","value":{"type":"string","value":"2025-06-02"},"meta":{"calculated_at":"2026-10-11T21:23:05.133Z"}}
-{"aggregate":"last_activity_date","contributor":"MhdMahir","value":{"type":"string","value":"2025-06-03"},"meta":{"calculated_at":"2026-10-11T21:23:05.134Z"}}
-{"aggregate":"total_activity_points","contributor":"MhdMahir","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-10-11T21:23:05.131Z"}}
+{"aggregate":"active_days","contributor":"MhdMahir","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-12T03:48:19.710Z"}}
+{"aggregate":"activity_count","contributor":"MhdMahir","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-10-12T03:48:19.708Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"MhdMahir","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-12T03:48:19.712Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"MhdMahir","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-12T03:48:19.713Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"MhdMahir","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-12T03:48:19.711Z"}}
+{"aggregate":"first_activity_date","contributor":"MhdMahir","value":{"type":"string","value":"2025-06-02"},"meta":{"calculated_at":"2026-10-12T03:48:19.709Z"}}
+{"aggregate":"last_activity_date","contributor":"MhdMahir","value":{"type":"string","value":"2025-06-03"},"meta":{"calculated_at":"2026-10-12T03:48:19.710Z"}}
+{"aggregate":"total_activity_points","contributor":"MhdMahir","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-10-12T03:48:19.707Z"}}
