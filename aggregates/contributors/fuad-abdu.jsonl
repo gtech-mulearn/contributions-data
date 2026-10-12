@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"fuad-abdu","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-12T03:48:15.829Z"}}
-{"aggregate":"activity_count","contributor":"fuad-abdu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-12T03:48:15.827Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"fuad-abdu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-12T03:48:15.831Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"fuad-abdu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-12T03:48:15.832Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"fuad-abdu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-12T03:48:15.830Z"}}
-{"aggregate":"first_activity_date","contributor":"fuad-abdu","value":{"type":"string","value":"2025-06-01"},"meta":{"calculated_at":"2026-10-12T03:48:15.828Z"}}
-{"aggregate":"last_activity_date","contributor":"fuad-abdu","value":{"type":"string","value":"2025-06-02"},"meta":{"calculated_at":"2026-10-12T03:48:15.829Z"}}
-{"aggregate":"total_activity_points","contributor":"fuad-abdu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-12T03:48:15.826Z"}}
+{"aggregate":"active_days","contributor":"fuad-abdu","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-12T14:10:14.678Z"}}
+{"aggregate":"activity_count","contributor":"fuad-abdu","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-12T14:10:14.675Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"fuad-abdu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-12T14:10:14.680Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"fuad-abdu","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-12T14:10:14.682Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"fuad-abdu","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-12T14:10:14.679Z"}}
+{"aggregate":"first_activity_date","contributor":"fuad-abdu","value":{"type":"string","value":"2025-06-01"},"meta":{"calculated_at":"2026-10-12T14:10:14.676Z"}}
+{"aggregate":"last_activity_date","contributor":"fuad-abdu","value":{"type":"string","value":"2025-06-02"},"meta":{"calculated_at":"2026-10-12T14:10:14.677Z"}}
+{"aggregate":"total_activity_points","contributor":"fuad-abdu","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-12T14:10:14.673Z"}}

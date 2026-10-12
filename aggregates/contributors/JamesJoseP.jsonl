@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"JamesJoseP","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-12T03:48:17.277Z"}}
-{"aggregate":"activity_count","contributor":"JamesJoseP","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-10-12T03:48:17.274Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"JamesJoseP","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-12T03:48:17.279Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"JamesJoseP","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-12T03:48:17.279Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"JamesJoseP","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-12T03:48:17.278Z"}}
-{"aggregate":"first_activity_date","contributor":"JamesJoseP","value":{"type":"string","value":"2024-04-13"},"meta":{"calculated_at":"2026-10-12T03:48:17.275Z"}}
-{"aggregate":"last_activity_date","contributor":"JamesJoseP","value":{"type":"string","value":"2024-08-12"},"meta":{"calculated_at":"2026-10-12T03:48:17.276Z"}}
-{"aggregate":"total_activity_points","contributor":"JamesJoseP","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-10-12T03:48:17.273Z"}}
+{"aggregate":"active_days","contributor":"JamesJoseP","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-12T14:10:16.213Z"}}
+{"aggregate":"activity_count","contributor":"JamesJoseP","value":{"type":"number","value":3,"format":"integer"},"meta":{"calculated_at":"2026-10-12T14:10:16.210Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"JamesJoseP","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-12T14:10:16.216Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"JamesJoseP","value":{"type":"number","value":2,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-12T14:10:16.217Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"JamesJoseP","value":{"type":"number","value":6.67,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-12T14:10:16.215Z"}}
+{"aggregate":"first_activity_date","contributor":"JamesJoseP","value":{"type":"string","value":"2024-04-13"},"meta":{"calculated_at":"2026-10-12T14:10:16.211Z"}}
+{"aggregate":"last_activity_date","contributor":"JamesJoseP","value":{"type":"string","value":"2024-08-12"},"meta":{"calculated_at":"2026-10-12T14:10:16.212Z"}}
+{"aggregate":"total_activity_points","contributor":"JamesJoseP","value":{"type":"number","value":20,"format":"integer"},"meta":{"calculated_at":"2026-10-12T14:10:16.209Z"}}
