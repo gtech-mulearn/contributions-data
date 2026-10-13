@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"devikaajay","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-13T13:22:31.411Z"}}
-{"aggregate":"activity_count","contributor":"devikaajay","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-13T13:22:31.408Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"devikaajay","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-13T13:22:31.413Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"devikaajay","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-13T13:22:31.414Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"devikaajay","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-13T13:22:31.412Z"}}
-{"aggregate":"first_activity_date","contributor":"devikaajay","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-13T13:22:31.409Z"}}
-{"aggregate":"last_activity_date","contributor":"devikaajay","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-13T13:22:31.410Z"}}
-{"aggregate":"total_activity_points","contributor":"devikaajay","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-13T13:22:31.407Z"}}
+{"aggregate":"active_days","contributor":"devikaajay","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-13T22:12:29.551Z"}}
+{"aggregate":"activity_count","contributor":"devikaajay","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-13T22:12:29.549Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"devikaajay","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-13T22:12:29.552Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"devikaajay","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-13T22:12:29.553Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"devikaajay","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-13T22:12:29.552Z"}}
+{"aggregate":"first_activity_date","contributor":"devikaajay","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-13T22:12:29.550Z"}}
+{"aggregate":"last_activity_date","contributor":"devikaajay","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-13T22:12:29.550Z"}}
+{"aggregate":"total_activity_points","contributor":"devikaajay","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-13T22:12:29.548Z"}}
