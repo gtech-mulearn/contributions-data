@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"algin-antony","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-12T14:10:08.733Z"}}
-{"aggregate":"activity_count","contributor":"algin-antony","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-12T14:10:08.730Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"algin-antony","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-12T14:10:08.735Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"algin-antony","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-12T14:10:08.736Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"algin-antony","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-12T14:10:08.734Z"}}
-{"aggregate":"first_activity_date","contributor":"algin-antony","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-12T14:10:08.731Z"}}
-{"aggregate":"last_activity_date","contributor":"algin-antony","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-12T14:10:08.732Z"}}
-{"aggregate":"total_activity_points","contributor":"algin-antony","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-12T14:10:08.729Z"}}
+{"aggregate":"active_days","contributor":"algin-antony","value":{"type":"number","value":1,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-13T00:03:59.005Z"}}
+{"aggregate":"activity_count","contributor":"algin-antony","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-13T00:03:59.002Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"algin-antony","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-13T00:03:59.007Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"algin-antony","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-13T00:03:59.008Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"algin-antony","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-13T00:03:59.006Z"}}
+{"aggregate":"first_activity_date","contributor":"algin-antony","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-13T00:03:59.003Z"}}
+{"aggregate":"last_activity_date","contributor":"algin-antony","value":{"type":"string","value":"2024-07-01"},"meta":{"calculated_at":"2026-10-13T00:03:59.004Z"}}
+{"aggregate":"total_activity_points","contributor":"algin-antony","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-13T00:03:59.002Z"}}
