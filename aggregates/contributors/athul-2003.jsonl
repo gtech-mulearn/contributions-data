@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"athul-2003","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-14T11:01:57.846Z"}}
-{"aggregate":"activity_count","contributor":"athul-2003","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-10-14T11:01:57.843Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"athul-2003","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-14T11:01:57.848Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"athul-2003","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-14T11:01:57.849Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"athul-2003","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-14T11:01:57.847Z"}}
-{"aggregate":"first_activity_date","contributor":"athul-2003","value":{"type":"string","value":"2023-06-02"},"meta":{"calculated_at":"2026-10-14T11:01:57.844Z"}}
-{"aggregate":"last_activity_date","contributor":"athul-2003","value":{"type":"string","value":"2024-05-19"},"meta":{"calculated_at":"2026-10-14T11:01:57.845Z"}}
-{"aggregate":"total_activity_points","contributor":"athul-2003","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-10-14T11:01:57.842Z"}}
+{"aggregate":"active_days","contributor":"athul-2003","value":{"type":"number","value":5,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-14T16:21:38.303Z"}}
+{"aggregate":"activity_count","contributor":"athul-2003","value":{"type":"number","value":8,"format":"integer"},"meta":{"calculated_at":"2026-10-14T16:21:38.300Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"athul-2003","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-14T16:21:38.304Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"athul-2003","value":{"type":"number","value":4,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-14T16:21:38.305Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"athul-2003","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-14T16:21:38.303Z"}}
+{"aggregate":"first_activity_date","contributor":"athul-2003","value":{"type":"string","value":"2023-06-02"},"meta":{"calculated_at":"2026-10-14T16:21:38.301Z"}}
+{"aggregate":"last_activity_date","contributor":"athul-2003","value":{"type":"string","value":"2024-05-19"},"meta":{"calculated_at":"2026-10-14T16:21:38.302Z"}}
+{"aggregate":"total_activity_points","contributor":"athul-2003","value":{"type":"number","value":60,"format":"integer"},"meta":{"calculated_at":"2026-10-14T16:21:38.300Z"}}
