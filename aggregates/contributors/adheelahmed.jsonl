@@ -1,8 +1,8 @@
-{"aggregate":"active_days","contributor":"adheelahmed","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-17T14:49:16.821Z"}}
-{"aggregate":"activity_count","contributor":"adheelahmed","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-17T14:49:16.818Z"}}
-{"aggregate":"activity_count:pr_merged","contributor":"adheelahmed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-17T14:49:16.822Z"}}
-{"aggregate":"activity_count:pr_opened","contributor":"adheelahmed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-17T14:49:16.823Z"}}
-{"aggregate":"avg_points_per_activity","contributor":"adheelahmed","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-17T14:49:16.821Z"}}
-{"aggregate":"first_activity_date","contributor":"adheelahmed","value":{"type":"string","value":"2022-09-28"},"meta":{"calculated_at":"2026-10-17T14:49:16.819Z"}}
-{"aggregate":"last_activity_date","contributor":"adheelahmed","value":{"type":"string","value":"2022-10-04"},"meta":{"calculated_at":"2026-10-17T14:49:16.820Z"}}
-{"aggregate":"total_activity_points","contributor":"adheelahmed","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-17T14:49:16.818Z"}}
+{"aggregate":"active_days","contributor":"adheelahmed","value":{"type":"number","value":2,"format":"integer","unit":"days"},"meta":{"calculated_at":"2026-10-17T19:58:44.419Z"}}
+{"aggregate":"activity_count","contributor":"adheelahmed","value":{"type":"number","value":2,"format":"integer"},"meta":{"calculated_at":"2026-10-17T19:58:44.416Z"}}
+{"aggregate":"activity_count:pr_merged","contributor":"adheelahmed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_merged","calculated_at":"2026-10-17T19:58:44.420Z"}}
+{"aggregate":"activity_count:pr_opened","contributor":"adheelahmed","value":{"type":"number","value":1,"format":"integer"},"meta":{"activity_definition":"pr_opened","calculated_at":"2026-10-17T19:58:44.421Z"}}
+{"aggregate":"avg_points_per_activity","contributor":"adheelahmed","value":{"type":"number","value":7.5,"format":"decimal","decimals":2},"meta":{"calculated_at":"2026-10-17T19:58:44.420Z"}}
+{"aggregate":"first_activity_date","contributor":"adheelahmed","value":{"type":"string","value":"2022-09-28"},"meta":{"calculated_at":"2026-10-17T19:58:44.417Z"}}
+{"aggregate":"last_activity_date","contributor":"adheelahmed","value":{"type":"string","value":"2022-10-04"},"meta":{"calculated_at":"2026-10-17T19:58:44.418Z"}}
+{"aggregate":"total_activity_points","contributor":"adheelahmed","value":{"type":"number","value":15,"format":"integer"},"meta":{"calculated_at":"2026-10-17T19:58:44.415Z"}}
